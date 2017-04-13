@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+<lod:ITEM>
+<lod:META lod:ID="TANKEN1" />
+<lod:ARTICLE>
+<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="TANKEN1ITE">tanken</lod:ITEM-ADRESSE>
+<lod:MICROSTRUCTURE>
+<lod:MS-TYPE-VRB>
+<lod:CAT-GRAM-VRB />
+<lod:VRB-AUXILIAIRE lod:AUXIL="HUNN" />
+<lod:PARTICIPE-PASSE>getankt</lod:PARTICIPE-PASSE>
+<lod:TRAITEMENT-LING-VRB>
+<lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF" />
+<lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS" />
+<lod:TRADUCTION-DOMINANTE>
+<lod:PAS-DE-TRAD-DOMIN />
+</lod:TRADUCTION-DOMINANTE>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="TANKEN1UNI1">
+<lod:DOM-SPEC />
+<lod:MARQUE-USAGE />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">tanken</lod:ETA-EXPLICITE>
+<lod:RS-ETA-ABSENTE />
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">prendre</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se servir en</lod:ETF-EXPLICITE>
+<lod:RS-ETF-PRESENTE>carburant</lod:RS-ETF-PRESENTE>
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to fill up with</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>fuel</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">meter</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>carburante</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>ech</lod:TEXTE>
+<lod:ABREV-AD>tanke</lod:ABREV-AD>
+<lod:TEXTE>kee Bensin, m&#228;in Auto ass en Diesel</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE-GLOSE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>tanken</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+</lod:TRAITEMENT-LING-VRB>
+<lod:TRAITEMENT-LING-VRB>
+<lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF" />
+<lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS" />
+<lod:TRADUCTION-DOMINANTE>
+<lod:PAS-DE-TRAD-DOMIN />
+</lod:TRADUCTION-DOMINANTE>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="TANKEN1UNI2">
+<lod:DOM-SPEC />
+<lod:MARQUE-USAGE />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">tanken</lod:ETA-EXPLICITE>
+<lod:RS-ETA-ABSENTE />
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">prendre de l'essence</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">prendre du gasoil</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">faire le plein</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to fill up</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>with fuel</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">meter gasolina</lod:ETP-EXPLICITE>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">meter gas&#243;leo</lod:ETP-EXPLICITE>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">encher o dep&#243;sito</lod:ETP-EXPLICITE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>kontroll&#233;ier den Drock an de Pneuen, wann s de</lod:TEXTE>
+<lod:ABREV-AD>tanke</lod:ABREV-AD>
+<lod:TEXTE>gees!</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE-GLOSE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>tanken</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+</lod:TRAITEMENT-LING-VRB>
+</lod:MS-TYPE-VRB>
+</lod:MICROSTRUCTURE>
+</lod:ARTICLE>
+<lod:FLX-VRB>
+<lod:INFINITIF>tanken</lod:INFINITIF>
+<lod:PART-PASS>getankt</lod:PART-PASS>
+<lod:INDICATIF>
+<lod:PRESENT>
+<lod:P1>tanken</lod:P1>
+<lod:P2>tanks</lod:P2>
+<lod:P3>tankt</lod:P3>
+<lod:P4>tanken</lod:P4>
+<lod:P5>tankt</lod:P5>
+<lod:P6>tanken</lod:P6>
+</lod:PRESENT>
+<lod:PASSE-COMPOSE>
+<lod:P1>hu getankt</lod:P1>
+<lod:P2>hues getankt</lod:P2>
+<lod:P3>huet getankt</lod:P3>
+<lod:P4>hu getankt</lod:P4>
+<lod:P5>hutt getankt</lod:P5>
+<lod:P6>hu getankt</lod:P6>
+</lod:PASSE-COMPOSE>
+<lod:PLUS-QUE-PARFAIT>
+<lod:P1>hat getankt</lod:P1>
+<lod:P2>has getankt</lod:P2>
+<lod:P3>hat getankt</lod:P3>
+<lod:P4>hate getankt</lod:P4>
+<lod:P5>hat getankt</lod:P5>
+<lod:P6>hate getankt</lod:P6>
+</lod:PLUS-QUE-PARFAIT>
+</lod:INDICATIF>
+<lod:CONDITIONNEL>
+<lod:PRESENT-COMPOSE>
+<lod:P1>g&#233;if tanken</lod:P1>
+<lod:P2>g&#233;ifs tanken</lod:P2>
+<lod:P3>g&#233;if tanken</lod:P3>
+<lod:P4>g&#233;ifen tanken</lod:P4>
+<lod:P5>g&#233;ift tanken</lod:P5>
+<lod:P6>g&#233;ifen tanken</lod:P6>
+</lod:PRESENT-COMPOSE>
+<lod:PASSE-COMPOSE>
+<lod:P1>h&#228;tt getankt</lod:P1>
+<lod:P2>h&#228;ss getankt</lod:P2>
+<lod:P3>h&#228;tt getankt</lod:P3>
+<lod:P4>h&#228;tte getankt</lod:P4>
+<lod:P5>h&#228;tt getankt</lod:P5>
+<lod:P6>h&#228;tte getankt</lod:P6>
+</lod:PASSE-COMPOSE>
+</lod:CONDITIONNEL>
+<lod:IMPERATIF>
+<lod:PRESENT>
+<lod:P2>tank!</lod:P2>
+<lod:P5>tankt!</lod:P5>
+</lod:PRESENT>
+</lod:IMPERATIF>
+</lod:FLX-VRB>
+</lod:ITEM>
+</lod:LOD>

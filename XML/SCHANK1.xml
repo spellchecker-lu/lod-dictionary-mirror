@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+<lod:ITEM>
+<lod:META lod:ID="SCHANK1" />
+<lod:ARTICLE>
+<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="SCHANK1ITE">Schank</lod:ITEM-ADRESSE>
+<lod:MICROSTRUCTURE>
+<lod:MS-TYPE-SUBST>
+<lod:CAT-GRAM-SUBST />
+<lod:GENRE lod:GEN="F" />
+<lod:TYPE-SUBST>
+<lod:SUBST-SIMPLE />
+</lod:TYPE-SUBST>
+<lod:PLURIEL>
+<lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="SCHANK1UNI1" lod:REFS-IDS-UNITES-DE-SENS-MASS="SCHANK1UNI2">
+<lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Schanken</lod:FORME-PLURIEL>
+</lod:ALT-MASSIF-NOMBRABLE>
+</lod:PLURIEL>
+<lod:TRAITEMENT-LING-SUBST>
+<lod:TRADUCTION-DOMINANTE>
+<lod:TRAD-ALL-FR-DOMIN>
+<lod:TRAD-ALL-DOMIN>Knochen</lod:TRAD-ALL-DOMIN>
+<lod:TRAD-FR-DOMIN>os</lod:TRAD-FR-DOMIN>
+</lod:TRAD-ALL-FR-DOMIN>
+</lod:TRADUCTION-DOMINANTE>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SCHANK1UNI1">
+<lod:DOM-SPEC />
+<lod:MARQUE-USAGE />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Knochen</lod:ETA-EXPLICITE>
+<lod:RS-ETA-PRESENTE>Teil des Skeletts</lod:RS-ETA-PRESENTE>
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">du squelette</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">bone</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>part of the skeleton</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">osso</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>do esqueleto</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>wann hie sech b&#233;ckt, da kraache seng</lod:TEXTE>
+<lod:ABREV-AD>S.en</lod:ABREV-AD>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>dem Noper s&#228;in Hond huet eng</lod:TEXTE>
+<lod:ABREV-AD>S.</lod:ABREV-AD>
+<lod:TEXTE>an eisem Gaart ausgebuddelt</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>de Metzler huet mer beim Brot e puer</lod:TEXTE>
+<lod:ABREV-AD>S.e</lod:ABREV-AD>
+<lod:TEXTE>matginn</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+<lod:TEXTE-EX>
+<lod:TEXTE>vum ville Sch&#235;ppe spieren ech all</lod:TEXTE>
+<lod:ABREV-AD>S.</lod:ABREV-AD>
+<lod:TEXTE>am Leif</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>ech hu w&#233;i vum ville Sch&#235;ppen</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+<lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+<lod:TEXTE-EX>
+<lod:TEXTE>hien ass n&#235;mmen Haut a</lod:TEXTE>
+<lod:ABREV-AD>S.</lod:ABREV-AD>
+</lod:TEXTE-EX>
+<lod:TEXTE-EX>
+<lod:TEXTE>hie f&#228;lt bal vun de</lod:TEXTE>
+<lod:ABREV-AD>S.en</lod:ABREV-AD>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>hien ass ganz gouereg</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+<lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+<lod:TEXTE-EX>
+<lod:TEXTE>d&#233;i al</lod:TEXTE>
+<lod:ABREV-AD>S.e</lod:ABREV-AD>
+<lod:TEXTE>w&#235;llen net m&#233;i esou richteg</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>am Alter ass een net m&#233;i esou gelenkeg</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+<lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+<lod:TEXTE-EX>
+<lod:TEXTE>dat Jiipse geet engem duerch Muerch a</lod:TEXTE>
+<lod:ABREV-AD>S.</lod:ABREV-AD>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>dat Jiipsen deet engem w&#233;i an den Oueren</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+<lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+<lod:TEXTE-EX>
+<lod:TEXTE>d&#233;i Keelt geet engem duerch Muerch a</lod:TEXTE>
+<lod:ABREV-AD>S.</lod:ABREV-AD>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>d&#233;i Keelt spiert een um ganze Kierper</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+<lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+<lod:TEXTE-EX>
+<lod:TEXTE>d&#233;i schrecklech Nouvelle ass mir duerch Muerch a</lod:TEXTE>
+<lod:ABREV-AD>S.</lod:ABREV-AD>
+<lod:TEXTE>gaangen</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>d&#233;i schrecklech Nouvelle huet mech d&#233;if ergraff</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+<lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+<lod:TEXTE-EX>
+<lod:TEXTE>gruef dach net &#235;mmer d&#233;i al</lod:TEXTE>
+<lod:ABREV-AD>S.en</lod:ABREV-AD>
+<lod:TEXTE>aus!</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>schw&#228;tz dach net &#235;mmer er&#235;m vun deenen ale Geschichten!</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SCHANK1UNI2">
+<lod:DOM-SPEC />
+<lod:MARQUE-USAGE />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Horn</lod:ETA-EXPLICITE>
+<lod:RS-ETA-PRESENTE>Material</lod:RS-ETA-PRESENTE>
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">corne</lod:ETF-EXPLICITE>
+<lod:RS-ETF-PRESENTE>mati&#232;re</lod:RS-ETF-PRESENTE>
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">bone</lod:ETE-EXPLICITE>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">horn</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>material</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">osso</lod:ETP-EXPLICITE>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">corno</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>mat&#233;ria</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>fr&#233;ier waren d&#233;i meescht Br&#235;ller aus</lod:TEXTE>
+<lod:ABREV-AD>S.</lod:ABREV-AD>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+</lod:TRAITEMENT-LING-SUBST>
+</lod:MS-TYPE-SUBST>
+</lod:MICROSTRUCTURE>
+</lod:ARTICLE>
+</lod:ITEM>
+</lod:LOD>

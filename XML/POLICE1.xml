@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+<lod:ITEM>
+<lod:META lod:ID="POLICE1" />
+<lod:ARTICLE>
+<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="POLICE1ITE">Police</lod:ITEM-ADRESSE>
+<lod:MICROSTRUCTURE>
+<lod:MS-TYPE-SUBST>
+<lod:CAT-GRAM-SUBST lod:C-G-SUBST="SUBST" />
+<lod:GENRE lod:GEN="F" />
+<lod:TYPE-SUBST>
+<lod:SUBST-SIMPLE />
+</lod:TYPE-SUBST>
+<lod:PLURIEL>
+<lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="POLICE1UNI1 POLICE1UNI3 POLICE1UNI4" lod:REFS-IDS-UNITES-DE-SENS-MASS="POLICE1UNI2">
+<lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Policen</lod:FORME-PLURIEL>
+</lod:ALT-MASSIF-NOMBRABLE>
+</lod:PLURIEL>
+<lod:TRAITEMENT-LING-SUBST>
+<lod:TRADUCTION-DOMINANTE>
+<lod:TRAD-FR-DOMIN>police</lod:TRAD-FR-DOMIN>
+</lod:TRADUCTION-DOMINANTE>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="POLICE1UNI1">
+<lod:DOM-SPEC />
+<lod:MARQUE-USAGE />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Polizei</lod:ETA-EXPLICITE>
+<lod:RS-ETA-PRESENTE>Beh&#246;rde</lod:RS-ETA-PRESENTE>
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">force publique</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">police</lod:ETE-EXPLICITE>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">police force</lod:ETE-EXPLICITE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">pol&#237;cia</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>for&#231;a p&#250;blica</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Police</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE-GLOSE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Police</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="POLICE1UNI2">
+<lod:DOM-SPEC />
+<lod:MARQUE-USAGE />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Polizei</lod:ETA-EXPLICITE>
+<lod:RS-ETA-PRESENTE>Polizeibeamte</lod:RS-ETA-PRESENTE>
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">police</lod:ETF-EXPLICITE>
+<lod:RS-ETF-PRESENTE>agents</lod:RS-ETF-PRESENTE>
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">police</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>policeman</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">pol&#237;cia</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>agentes</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>mir hunn d'</lod:TEXTE>
+<lod:ABREV-AD>P.</lod:ABREV-AD>
+<lod:TEXTE>geruff, well een an eisen Auto agebrach war</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="POLICE1UNI3">
+<lod:DOM-SPEC />
+<lod:MARQUE-USAGE />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Polizeibeamte(r)</lod:ETA-EXPLICITE>
+<lod:RS-ETA-ABSENTE />
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Polizist</lod:ETA-EXPLICITE>
+<lod:RS-ETA-ABSENTE />
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">policier</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">agent (de police)</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">policeman</lod:ETE-EXPLICITE>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">policewoman</lod:ETE-EXPLICITE>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">police officer</lod:ETE-EXPLICITE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">pol&#237;cia</lod:ETP-EXPLICITE>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">agente (de pol&#237;cia)</lod:ETP-EXPLICITE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>op der Kr&#228;izung steet eng</lod:TEXTE>
+<lod:ABREV-AD>P.</lod:ABREV-AD>
+<lod:TEXTE>, de Verk&#233;ier ze regelen</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>m&#228;in eelste Brudder ass</lod:TEXTE>
+<lod:ABREV-AD>P.</lod:ABREV-AD>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-PRESENTS>
+<lod:TERME-SYN>Polizist</lod:TERME-SYN>
+</lod:SYN-PRESENTS>
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="POLICE1UNI4">
+<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
+<lod:MARQUE-USAGE lod:STYLE="ALLG" />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Police</lod:ETA-EXPLICITE>
+<lod:RS-ETA-PRESENTE>eines Versicherungsvertrags</lod:RS-ETA-PRESENTE>
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">d'un contrat d'assurance</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">policy</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>of insurance</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ap&#243;lice</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>de um contrato de seguro</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Police</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+</lod:TRAITEMENT-LING-SUBST>
+</lod:MS-TYPE-SUBST>
+</lod:MICROSTRUCTURE>
+</lod:ARTICLE>
+</lod:ITEM>
+</lod:LOD>

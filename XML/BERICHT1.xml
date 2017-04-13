@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+<lod:ITEM>
+<lod:META lod:ID="BERICHT1" />
+<lod:ARTICLE>
+<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="BERICHT1ITE">Bericht</lod:ITEM-ADRESSE>
+<lod:MICROSTRUCTURE>
+<lod:MS-TYPE-SUBST>
+<lod:CAT-GRAM-SUBST lod:C-G-SUBST="SUBST" />
+<lod:GENRE lod:GEN="M" />
+<lod:TYPE-SUBST>
+<lod:SUBST-SIMPLE />
+</lod:TYPE-SUBST>
+<lod:PLURIEL>
+<lod:TJ-NOMBRABLE>
+<lod:FORME-PLURIEL lod:FREQ-PLURIEL="NORMALE" lod:TYPE-PLURIEL="REGULIER">Berichter</lod:FORME-PLURIEL>
+</lod:TJ-NOMBRABLE>
+</lod:PLURIEL>
+<lod:TRAITEMENT-LING-SUBST>
+<lod:TRADUCTION-DOMINANTE>
+<lod:TRAD-ALL-FR-DOMIN>
+<lod:TRAD-ALL-DOMIN>Bericht</lod:TRAD-ALL-DOMIN>
+<lod:TRAD-FR-DOMIN>rapport</lod:TRAD-FR-DOMIN>
+</lod:TRAD-ALL-FR-DOMIN>
+</lod:TRADUCTION-DOMINANTE>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="BERICHT1UNI1">
+<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
+<lod:MARQUE-USAGE lod:STYLE="ALLG" />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Berichterstattung</lod:ETA-EXPLICITE>
+<lod:RS-ETA-ABSENTE />
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">compte-rendu</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">report</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>account</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">relat&#243;rio</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>relato</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Bericht</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Bericht</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-PRESENTS>
+<lod:TERME-SYN>Rapport</lod:TERME-SYN>
+</lod:SYN-PRESENTS>
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="BERICHT1UNI2">
+<lod:DOM-SPEC />
+<lod:MARQUE-USAGE />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Dokument</lod:ETA-EXPLICITE>
+<lod:RS-ETA-ABSENTE />
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">document</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">minutes</lod:ETE-EXPLICITE>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">report</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>document</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">relat&#243;rio</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>documento</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>wou l&#228;it de</lod:TEXTE>
+<lod:ABREV-AD>B.</lod:ABREV-AD>
+<lod:TEXTE>vun der leschter Versammlung?</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-PRESENTS>
+<lod:TERME-SYN>Rapport</lod:TERME-SYN>
+</lod:SYN-PRESENTS>
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+</lod:TRAITEMENT-LING-SUBST>
+</lod:MS-TYPE-SUBST>
+</lod:MICROSTRUCTURE>
+</lod:ARTICLE>
+</lod:ITEM>
+</lod:LOD>

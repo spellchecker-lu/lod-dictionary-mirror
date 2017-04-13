@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+<lod:ITEM>
+<lod:META lod:ID="UM1" />
+<lod:ARTICLE>
+<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="UM1ITE">um</lod:ITEM-ADRESSE>
+<lod:MICROSTRUCTURE>
+<lod:MS-TYPE-PREP-plus-ART>
+<lod:CAT-GRAM-PREP-plus-ART />
+<lod:COMPOSITION>
+<lod:RENVOI-PREP lod:REF-ID-ITEM-ADRESSE="OP2ITE">
+<lod:ELEMENT-DE-COMPOSITION />
+</lod:RENVOI-PREP>
+<lod:TYPE-COMPOSITION lod:TYPE="PLUS" />
+<lod:RENVOI-ART lod:REF-ID-ITEM-ADRESSE="DEM1ITE" lod:REFS-IDS-UNITES-DE-SENS="DEM1UNI1 DEM1UNI2">
+<lod:ELEMENT-DE-COMPOSITION />
+</lod:RENVOI-ART>
+</lod:COMPOSITION>
+</lod:MS-TYPE-PREP-plus-ART>
+</lod:MICROSTRUCTURE>
+</lod:ARTICLE>
+</lod:ITEM>
+</lod:LOD>

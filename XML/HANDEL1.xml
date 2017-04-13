@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+<lod:ITEM>
+<lod:META lod:ID="HANDEL1" />
+<lod:ARTICLE>
+<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="HANDEL1ITE">Handel</lod:ITEM-ADRESSE>
+<lod:MICROSTRUCTURE>
+<lod:MS-TYPE-SUBST>
+<lod:CAT-GRAM-SUBST lod:C-G-SUBST="SUBST" />
+<lod:GENRE lod:GEN="M" />
+<lod:TYPE-SUBST>
+<lod:SUBST-SIMPLE />
+</lod:TYPE-SUBST>
+<lod:PLURIEL>
+<lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="HANDEL1UNI3" lod:REFS-IDS-UNITES-DE-SENS-MASS="HANDEL1UNI1 HANDEL1UNI2">
+<lod:FORME-PLURIEL lod:FREQ-PLURIEL="NORMALE" lod:TYPE-PLURIEL="IRREGULIER">H&#228;ndel</lod:FORME-PLURIEL>
+</lod:ALT-MASSIF-NOMBRABLE>
+</lod:PLURIEL>
+<lod:TRAITEMENT-LING-SUBST>
+<lod:TRADUCTION-DOMINANTE>
+<lod:TRAD-ALL-DOMIN>Handel</lod:TRAD-ALL-DOMIN>
+</lod:TRADUCTION-DOMINANTE>
+<lod:UNITE-TRAD>
+<lod:TRAD-FR-SUBORDONNANTE>
+<lod:TRAD-FR-SUBORD>commerce</lod:TRAD-FR-SUBORD>
+<lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="HANDEL1UNI1">
+<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
+<lod:MARQUE-USAGE lod:STYLE="ALLG" />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Gesch&#228;ftswelt</lod:ETA-EXPLICITE>
+<lod:RS-ETA-ABSENTE />
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">monde des affaires</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">trade</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>world of business</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">com&#233;rcio</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>mundo dos neg&#243;cios</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Handel</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-PRESENTS>
+<lod:TERME-SYN>Commerce</lod:TERME-SYN>
+</lod:SYN-PRESENTS>
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+<lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="HANDEL1UNI2">
+<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
+<lod:MARQUE-USAGE lod:STYLE="ALLG" />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Gesch&#228;ftsverkehr</lod:ETA-EXPLICITE>
+<lod:RS-ETA-ABSENTE />
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">activit&#233; commerciale</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">trade</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>business transactions</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">com&#233;rcio</lod:ETP-EXPLICITE>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">neg&#243;cio</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>atividade comercial</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Handel</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>deen Artikel ass net m&#233;i am</lod:TEXTE>
+<lod:ABREV-AD>H.</lod:ABREV-AD>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>deen Artikel g&#235;tt net m&#233;i verkaaft</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-PRESENTS>
+<lod:TERME-SYN>Commerce</lod:TERME-SYN>
+</lod:SYN-PRESENTS>
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:TRAD-FR-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="HANDEL1UNI3">
+<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
+<lod:MARQUE-USAGE lod:STYLE="ALLG" />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Gesch&#228;ft</lod:ETA-EXPLICITE>
+<lod:RS-ETA-PRESENTE>gesch&#228;ftliche Vereinbarung</lod:RS-ETA-PRESENTE>
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">affaire</lod:ETF-EXPLICITE>
+<lod:RS-ETF-PRESENTE>transaction</lod:RS-ETF-PRESENTE>
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">deal</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>transaction</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">neg&#243;cio</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>transa&#231;&#227;o</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Handel</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>aus deenen</lod:TEXTE>
+<lod:ABREV-AD>H&#228;ndel</lod:ABREV-AD>
+<lod:TEXTE>halen ech mech eraus</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+</lod:TRAITEMENT-LING-SUBST>
+</lod:MS-TYPE-SUBST>
+</lod:MICROSTRUCTURE>
+</lod:ARTICLE>
+</lod:ITEM>
+</lod:LOD>

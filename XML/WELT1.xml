@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+<lod:ITEM>
+<lod:META lod:ID="WELT1" />
+<lod:ARTICLE>
+<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="WELT1ITE">Welt</lod:ITEM-ADRESSE>
+<lod:MICROSTRUCTURE>
+<lod:MS-TYPE-SUBST>
+<lod:CAT-GRAM-SUBST />
+<lod:GENRE lod:GEN="F" />
+<lod:TYPE-SUBST>
+<lod:SUBST-SIMPLE />
+</lod:TYPE-SUBST>
+<lod:PLURIEL>
+<lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="WELT1UNI3 WELT1UNI4" lod:REFS-IDS-UNITES-DE-SENS-MASS="WELT1UNI1 WELT1UNI2">
+<lod:FORME-PLURIEL lod:FREQ-PLURIEL="NORMALE" lod:TYPE-PLURIEL="REGULIER">Welten</lod:FORME-PLURIEL>
+</lod:ALT-MASSIF-NOMBRABLE>
+</lod:PLURIEL>
+<lod:TRAITEMENT-LING-SUBST>
+<lod:TRADUCTION-DOMINANTE>
+<lod:TRAD-ALL-FR-DOMIN>
+<lod:TRAD-ALL-DOMIN>Welt</lod:TRAD-ALL-DOMIN>
+<lod:TRAD-FR-DOMIN>monde</lod:TRAD-FR-DOMIN>
+</lod:TRAD-ALL-FR-DOMIN>
+</lod:TRADUCTION-DOMINANTE>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WELT1UNI4">
+<lod:DOM-SPEC />
+<lod:MARQUE-USAGE />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Planet</lod:ETA-EXPLICITE>
+<lod:RS-ETA-ABSENTE />
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">plan&#232;te</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">world</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>planet</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">mundo</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>planeta</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>d'Fuerscher sichen no neie</lod:TEXTE>
+<lod:ABREV-AD>W.en</lod:ABREV-AD>
+<lod:TEXTE>am Universum</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE-GLOSE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Welt</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+<lod:EXEMPLE-GLOSE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Welt</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WELT1UNI1">
+<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
+<lod:MARQUE-USAGE lod:STYLE="ALLG" />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Erde</lod:ETA-EXPLICITE>
+<lod:RS-ETA-ABSENTE />
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">terre</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">world</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>the earth</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">mundo</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>Terra</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>ech g&#233;if g&#228;r eng K&#233;ier op den h&#233;chste Bierg vun der</lod:TEXTE>
+<lod:ABREV-AD>W.</lod:ABREV-AD>
+<lod:TEXTE>klammen</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Welt</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE-GLOSE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Welt</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+<lod:EXEMPLE-GLOSE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Welt</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+<lod:EXEMPLE-GLOSE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Welt</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+<lod:EXEMPLE-GLOSE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Welt</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+<lod:EXEMPLE-GLOSE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Welt</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+<lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+<lod:TEXTE-EX>
+<lod:TEXTE>dir braucht net bis un d'Enn vun der</lod:TEXTE>
+<lod:ABREV-AD>W.</lod:ABREV-AD>
+<lod:TEXTE>ze fueren, heiheem ass et och sch&#233;in</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>dir braucht net w&#228;it ze fueren, heiheem ass et och sch&#233;in</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+<lod:EXEMPLE-GLOSE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Welt</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WELT1UNI2">
+<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
+<lod:MARQUE-USAGE lod:STYLE="ALLG" />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Gesamtheit der Menschen</lod:ETA-EXPLICITE>
+<lod:RS-ETA-ABSENTE />
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">ensemble des humains</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">world</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>all of the people</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">mundo</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>conjunto dos seres humanos</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Welt</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE-GLOSE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Welt</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+<lod:GLOSE>
+<lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+</lod:GLOSE>
+</lod:EXEMPLE-GLOSE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WELT1UNI3">
+<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
+<lod:MARQUE-USAGE lod:STYLE="ALLG" />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Milieu</lod:ETA-EXPLICITE>
+<lod:RS-ETA-ABSENTE />
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">milieu</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">world</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>milieu</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">mundo</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>meio</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>m&#228;in Aarbechtskolleeg interess&#233;iert sech fir all Neiegkeeten aus der</lod:TEXTE>
+<lod:ABREV-AD>W.</lod:ABREV-AD>
+<lod:TEXTE>vun der Aristokratie</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+</lod:TRAITEMENT-LING-SUBST>
+</lod:MS-TYPE-SUBST>
+</lod:MICROSTRUCTURE>
+</lod:ARTICLE>
+</lod:ITEM>
+</lod:LOD>

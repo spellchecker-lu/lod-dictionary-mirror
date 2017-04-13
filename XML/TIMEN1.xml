@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+<lod:ITEM>
+<lod:META lod:ID="TIMEN1" />
+<lod:ARTICLE>
+<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="TIMEN1ITE">timen</lod:ITEM-ADRESSE>
+<lod:MICROSTRUCTURE>
+<lod:MS-TYPE-VRB>
+<lod:CAT-GRAM-VRB />
+<lod:VRB-AUXILIAIRE lod:AUXIL="HUNN" />
+<lod:PARTICIPE-PASSE>getimed</lod:PARTICIPE-PASSE>
+<lod:PARTICIPE-PASSE>getimt</lod:PARTICIPE-PASSE>
+<lod:TRAITEMENT-LING-VRB>
+<lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF" />
+<lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS" />
+<lod:TRADUCTION-DOMINANTE>
+<lod:PAS-DE-TRAD-DOMIN />
+</lod:TRADUCTION-DOMINANTE>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="TIMEN1UNI1">
+<lod:DOM-SPEC />
+<lod:MARQUE-USAGE />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">timen</lod:ETA-EXPLICITE>
+<lod:RS-ETA-PRESENTE>zeitlich abstimmen</lod:RS-ETA-PRESENTE>
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">organiser</lod:ETF-EXPLICITE>
+<lod:RS-ETF-PRESENTE>du point de vue du temps</lod:RS-ETF-PRESENTE>
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">organizar</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>em termos de tempo</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>timen</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+</lod:TRAITEMENT-LING-VRB>
+</lod:MS-TYPE-VRB>
+</lod:MICROSTRUCTURE>
+</lod:ARTICLE>
+<lod:FLX-VRB>
+<lod:INFINITIF>timen</lod:INFINITIF>
+<lod:PART-PASS>getimed / getimt</lod:PART-PASS>
+<lod:INDICATIF>
+<lod:PRESENT>
+<lod:P1>timen</lod:P1>
+<lod:P2>tims</lod:P2>
+<lod:P3>timt</lod:P3>
+<lod:P4>timen</lod:P4>
+<lod:P5>timt</lod:P5>
+<lod:P6>timen</lod:P6>
+</lod:PRESENT>
+<lod:PASSE-COMPOSE>
+<lod:P1>hu getimed / getimt</lod:P1>
+<lod:P2>hues getimed / getimt</lod:P2>
+<lod:P3>huet getimed / getimt</lod:P3>
+<lod:P4>hu getimed / getimt</lod:P4>
+<lod:P5>hutt getimed / getimt</lod:P5>
+<lod:P6>hu getimed / getimt</lod:P6>
+</lod:PASSE-COMPOSE>
+<lod:PLUS-QUE-PARFAIT>
+<lod:P1>hat getimed / getimt</lod:P1>
+<lod:P2>has getimed / getimt</lod:P2>
+<lod:P3>hat getimed / getimt</lod:P3>
+<lod:P4>hate getimed / getimt</lod:P4>
+<lod:P5>hat getimed / getimt</lod:P5>
+<lod:P6>hate getimed / getimt</lod:P6>
+</lod:PLUS-QUE-PARFAIT>
+</lod:INDICATIF>
+<lod:CONDITIONNEL>
+<lod:PRESENT-COMPOSE>
+<lod:P1>g&#233;if timen</lod:P1>
+<lod:P2>g&#233;ifs timen</lod:P2>
+<lod:P3>g&#233;if timen</lod:P3>
+<lod:P4>g&#233;ifen timen</lod:P4>
+<lod:P5>g&#233;ift timen</lod:P5>
+<lod:P6>g&#233;ifen timen</lod:P6>
+</lod:PRESENT-COMPOSE>
+<lod:PASSE-COMPOSE>
+<lod:P1>h&#228;tt getimed / getimt</lod:P1>
+<lod:P2>h&#228;ss getimed / getimt</lod:P2>
+<lod:P3>h&#228;tt getimed / getimt</lod:P3>
+<lod:P4>h&#228;tte getimed / getimt</lod:P4>
+<lod:P5>h&#228;tt getimed / getimt</lod:P5>
+<lod:P6>h&#228;tte getimed / getimt</lod:P6>
+</lod:PASSE-COMPOSE>
+</lod:CONDITIONNEL>
+<lod:IMPERATIF>
+<lod:PRESENT>
+<lod:P2>tim!</lod:P2>
+<lod:P5>timt!</lod:P5>
+</lod:PRESENT>
+</lod:IMPERATIF>
+</lod:FLX-VRB>
+</lod:ITEM>
+</lod:LOD>

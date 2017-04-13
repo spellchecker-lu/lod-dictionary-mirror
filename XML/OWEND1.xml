@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+<lod:ITEM>
+<lod:META lod:ID="OWEND1" />
+<lod:ARTICLE>
+<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="OWEND1ITE">Owend</lod:ITEM-ADRESSE>
+<lod:MICROSTRUCTURE>
+<lod:MS-TYPE-SUBST>
+<lod:CAT-GRAM-SUBST />
+<lod:GENRE lod:GEN="M" />
+<lod:TYPE-SUBST>
+<lod:SUBST-SIMPLE />
+</lod:TYPE-SUBST>
+<lod:PLURIEL>
+<lod:TJ-NOMBRABLE>
+<lod:FORME-PLURIEL lod:TYPE-PLURIEL="IRREGULIER">Owenter</lod:FORME-PLURIEL>
+<lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Owender</lod:FORME-PLURIEL>
+</lod:TJ-NOMBRABLE>
+</lod:PLURIEL>
+<lod:TRAITEMENT-LING-SUBST>
+<lod:TRADUCTION-DOMINANTE>
+<lod:PAS-DE-TRAD-DOMIN />
+</lod:TRADUCTION-DOMINANTE>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="OWEND1UNI1">
+<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
+<lod:MARQUE-USAGE lod:STYLE="ALLG" />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Abend</lod:ETA-EXPLICITE>
+<lod:RS-ETA-PRESENTE>Tageszeit</lod:RS-ETA-PRESENTE>
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">soir</lod:ETF-EXPLICITE>
+<lod:RS-ETF-ABSENTE />
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">soir&#233;e</lod:ETF-EXPLICITE>
+<lod:RS-ETF-PRESENTE>moment de la journ&#233;e</lod:RS-ETF-PRESENTE>
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">evening</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>time of day</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fim da tarde</lod:ETP-EXPLICITE>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">noite</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>momento do dia</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>gees de muer den</lod:TEXTE>
+<lod:ABREV-AD>O.</lod:ABREV-AD>
+<lod:TEXTE>mat an de Kino?</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+<lod:TEXTE-EX>
+<lod:TEXTE>wat fir eng Apdikt huet (haut) den</lod:TEXTE>
+<lod:ABREV-AD>O.</lod:ABREV-AD>
+<lod:TEXTE>D&#233;ngscht?</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+<lod:UNITE-TRAD>
+<lod:PAS-DE-TRAD-SUBORDONNANTE>
+<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="OWEND1UNI2">
+<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
+<lod:MARQUE-USAGE lod:STYLE="ALLG" />
+<lod:EQUIV-TRAD-ALL>
+<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Abend</lod:ETA-EXPLICITE>
+<lod:RS-ETA-PRESENTE>Versammlung, Veranstaltung</lod:RS-ETA-PRESENTE>
+</lod:EQUIV-TRAD-ALL>
+<lod:EQUIV-TRAD-FR>
+<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">soir&#233;e</lod:ETF-EXPLICITE>
+<lod:RS-ETF-PRESENTE>r&#233;union, manifestation</lod:RS-ETF-PRESENTE>
+</lod:EQUIV-TRAD-FR>
+<lod:EQUIV-TRAD-EN>
+<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">evening</lod:ETE-EXPLICITE>
+<lod:RS-ETE-PRESENTE>event, reunion</lod:RS-ETE-PRESENTE>
+</lod:EQUIV-TRAD-EN>
+<lod:EQUIV-TRAD-PO>
+<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">soir&#233;e</lod:ETP-EXPLICITE>
+<lod:RS-ETP-PRESENTE>reuni&#227;o, manifesta&#231;&#227;o</lod:RS-ETP-PRESENTE>
+</lod:EQUIV-TRAD-PO>
+<lod:EXEMPLIFICATION>
+<lod:EXEMPLE>
+<lod:TEXTE-EX>
+<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+<lod:ABREV-AD>Owend</lod:ABREV-AD>
+<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+</lod:TEXTE-EX>
+</lod:EXEMPLE>
+</lod:EXEMPLIFICATION>
+<lod:SYNONYMES>
+<lod:SYN-ABSENTS />
+</lod:SYNONYMES>
+</lod:UNITE-DE-SENS>
+</lod:PAS-DE-TRAD-SUBORDONNANTE>
+</lod:UNITE-TRAD>
+</lod:TRAITEMENT-LING-SUBST>
+</lod:MS-TYPE-SUBST>
+</lod:MICROSTRUCTURE>
+</lod:ARTICLE>
+</lod:ITEM>
+</lod:LOD>
