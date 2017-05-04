@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="TAXE1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="TAXE1ITE">Taxe</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-SUBST>
-<lod:CAT-GRAM-SUBST />
-<lod:GENRE lod:GEN="F" />
-<lod:TYPE-SUBST>
-<lod:SUBST-SIMPLE />
-</lod:TYPE-SUBST>
-<lod:PLURIEL>
-<lod:TJ-NOMBRABLE>
-<lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Taxen</lod:FORME-PLURIEL>
-</lod:TJ-NOMBRABLE>
-</lod:PLURIEL>
-<lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="TAX1ITE" lod:REFS-IDS-UNITES-DE-SENS="TAX1UNI1">
-<lod:VARIANTE-ORTHOGRAPHIQUE />
-</lod:RENVOI-SUBST>
-</lod:MS-TYPE-SUBST>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="TAXE1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="TAXE1ITE">Taxe</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="F"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-SIMPLE/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Taxen</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="TAX1ITE" lod:REFS-IDS-UNITES-DE-SENS="TAX1UNI1">
+            <lod:VARIANTE-ORTHOGRAPHIQUE/>
+          </lod:RENVOI-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
 </lod:LOD>

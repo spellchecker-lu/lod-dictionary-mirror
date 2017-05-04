@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="HEEERCHEN1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="HEEERCHEN1ITE">Hee&#235;rchen</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-SUBST>
-<lod:CAT-GRAM-SUBST />
-<lod:GENRE lod:GEN="N" />
-<lod:TYPE-SUBST>
-<lod:DIMINUTIF lod:REF-ID-ARTICLE-DOMIN="HOER1" />
-</lod:TYPE-SUBST>
-<lod:PLURIEL>
-<lod:TJ-NOMBRABLE>
-<lod:FORME-PLURIEL lod:TYPE-PLURIEL="IRREGULIER">Hee&#235;rcher</lod:FORME-PLURIEL>
-</lod:TJ-NOMBRABLE>
-</lod:PLURIEL>
-<lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="HOER1ITE" lod:REFS-IDS-UNITES-DE-SENS="HOER1">
-<lod:FORME-DIMINUTIVE />
-</lod:RENVOI-SUBST>
-</lod:MS-TYPE-SUBST>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="HEEERCHEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="HEEERCHEN1ITE">Heeërchen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="N"/>
+          <lod:TYPE-SUBST>
+            <lod:DIMINUTIF lod:REF-ID-ARTICLE-DOMIN="HOER1"/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="IRREGULIER">Heeërcher</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="HOER1ITE" lod:REFS-IDS-UNITES-DE-SENS="HOER1">
+            <lod:FORME-DIMINUTIVE/>
+          </lod:RENVOI-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
 </lod:LOD>

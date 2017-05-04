@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="PREMIERESEXAMEN1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="PREMIERESEXAMEN1ITE">Premi&#232;resexamen</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-SUBST>
-<lod:CAT-GRAM-SUBST />
-<lod:GENRE lod:GEN="M" />
-<lod:TYPE-SUBST>
-<lod:SUBST-COMPOSE lod:REF-ID-ARTICLE-DOMIN="PREMIERE1" />
-</lod:TYPE-SUBST>
-<lod:PLURIEL>
-<lod:TJ-MASSIF />
-</lod:PLURIEL>
-<lod:TRAITEMENT-LING-SUBST>
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="PREMIERESEXAMEN1UNI1">
-<lod:DOM-SPEC />
-<lod:MARQUE-USAGE />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Abitur</lod:ETA-EXPLICITE>
-<lod:RS-ETA-PRESENTE>Pr&#252;fung</lod:RS-ETA-PRESENTE>
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">baccalaur&#233;at</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">bac</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">examen de fin d'&#233;tudes secondaires</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-EN>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">baccalaureate</lod:ETE-EXPLICITE>
-</lod:EQUIV-TRAD-EN>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">exame final do ensino secund&#225;rio</lod:ETP-EXPLICITE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE>
-<lod:TEXTE-EX>
-<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-<lod:ABREV-AD>Premi&#232;resexamen</lod:ABREV-AD>
-<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-ABSENTS />
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-SUBST>
-</lod:MS-TYPE-SUBST>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="PREMIERESEXAMEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="PREMIERESEXAMEN1ITE">Premièresexamen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="M"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-COMPOSE lod:REF-ID-ARTICLE-DOMIN="PREMIERE1"/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-MASSIF/>
+          </lod:PLURIEL>
+          <lod:TRAITEMENT-LING-SUBST>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="PREMIERESEXAMEN1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Abitur</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Prüfung</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">baccalauréat</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">bac</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">examen de fin d'études secondaires</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">baccalaureate</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">exame final do ensino secundário</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>Premièresexamen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
 </lod:LOD>

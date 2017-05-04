@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="GEBUERGEN1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="GEBUERGEN1ITE">gebuergen</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-ADJ>
-<lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ" />
-<lod:TRAITEMENT-LING-ADJ>
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="GEBUERGEN1UNI1">
-<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
-<lod:MARQUE-USAGE lod:STYLE="ALLG" />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">geborgen</lod:ETA-EXPLICITE>
-<lod:RS-ETA-PRESENTE>beh&#252;tet, sicher</lod:RS-ETA-PRESENTE>
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">en s&#233;curit&#233;</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">prot&#233;g&#233;</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-EN>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">safe</lod:ETE-EXPLICITE>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">secure</lod:ETE-EXPLICITE>
-</lod:EQUIV-TRAD-EN>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">em seguran&#231;a</lod:ETP-EXPLICITE>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">protegido</lod:ETP-EXPLICITE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE>
-<lod:TEXTE-EX>
-<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-<lod:ABREV-AD>gebuergen</lod:ABREV-AD>
-<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-<lod:TEXTE-EX>
-<lod:TEXTE>d'Kand fillt sech op senger Mamm hirem Schouss</lod:TEXTE>
-<lod:ABREV-AD>g.</lod:ABREV-AD>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-ABSENTS />
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-ADJ>
-</lod:MS-TYPE-ADJ>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="GEBUERGEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="GEBUERGEN1ITE">gebuergen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-ADJ>
+          <lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ"/>
+          <lod:TRAITEMENT-LING-ADJ>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="GEBUERGEN1UNI1">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">geborgen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>behütet, sicher</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">en sécurité</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">protégé</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">safe</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">secure</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">em segurança</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">protegido</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>gebuergen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>d'Kand fillt sech op senger Mamm hirem Schouss</lod:TEXTE>
+                        <lod:ABREV-AD>g.</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-ADJ>
+        </lod:MS-TYPE-ADJ>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
 </lod:LOD>

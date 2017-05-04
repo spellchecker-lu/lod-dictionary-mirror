@@ -1,121 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="SCHICKSAL1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="SCHICKSAL1ITE">Schicksal</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-SUBST>
-<lod:CAT-GRAM-SUBST />
-<lod:GENRE lod:GEN="N" />
-<lod:TYPE-SUBST>
-<lod:SUBST-SIMPLE />
-</lod:TYPE-SUBST>
-<lod:PLURIEL>
-<lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="SCHICKSAL1UNI1" lod:REFS-IDS-UNITES-DE-SENS-MASS="SCHICKSAL1UNI2">
-<lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Schicksaler</lod:FORME-PLURIEL>
-</lod:ALT-MASSIF-NOMBRABLE>
-</lod:PLURIEL>
-<lod:TRAITEMENT-LING-SUBST>
-<lod:TRADUCTION-DOMINANTE>
-<lod:TRAD-ALL-FR-DOMIN>
-<lod:TRAD-ALL-DOMIN>Schicksal</lod:TRAD-ALL-DOMIN>
-<lod:TRAD-FR-DOMIN>destin</lod:TRAD-FR-DOMIN>
-</lod:TRAD-ALL-FR-DOMIN>
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SCHICKSAL1UNI1">
-<lod:DOM-SPEC />
-<lod:MARQUE-USAGE />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Los, Geschick</lod:ETA-EXPLICITE>
-<lod:RS-ETA-ABSENTE />
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">sort</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-EN>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">lot</lod:ETE-EXPLICITE>
-<lod:RS-ETE-PRESENTE>fate, destiny</lod:RS-ETE-PRESENTE>
-</lod:EQUIV-TRAD-EN>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">destino</lod:ETP-EXPLICITE>
-<lod:RS-ETP-PRESENTE>sorte, fado</lod:RS-ETP-PRESENTE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-<lod:TEXTE-EX>
-<lod:TEXTE>fr&#233;ier haten d'Dol&#233;iner e schw&#233;iert</lod:TEXTE>
-<lod:ABREV-AD>S.</lod:ABREV-AD>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-PRESENTS>
-<lod:TERME-SYN>Lous</lod:TERME-SYN>
-</lod:SYN-PRESENTS>
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SCHICKSAL1UNI2">
-<lod:DOM-SPEC />
-<lod:MARQUE-USAGE />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">h&#246;here Macht</lod:ETA-EXPLICITE>
-<lod:RS-ETA-ABSENTE />
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">fatalit&#233;</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-EN>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">fate</lod:ETE-EXPLICITE>
-<lod:RS-ETE-PRESENTE>higher power</lod:RS-ETE-PRESENTE>
-</lod:EQUIV-TRAD-EN>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">destino</lod:ETP-EXPLICITE>
-<lod:RS-ETP-PRESENTE>fatalidade</lod:RS-ETP-PRESENTE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE>
-<lod:TEXTE-EX>
-<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-<lod:ABREV-AD>Schicksal</lod:ABREV-AD>
-<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-<lod:TEXTE-EX>
-<lod:TEXTE>et war</lod:TEXTE>
-<lod:ABREV-AD>S.</lod:ABREV-AD>
-<lod:TEXTE>, datt mir zwee eis beg&#233;int hunn</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-<lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
-<lod:TEXTE-EX>
-<lod:TEXTE>dat musse mer dem</lod:TEXTE>
-<lod:ABREV-AD>S.</lod:ABREV-AD>
-<lod:TEXTE>iwwerloossen</lod:TEXTE>
-</lod:TEXTE-EX>
-<lod:GLOSE>
-<lod:TEXTE>dorop hu mer keen Afloss</lod:TEXTE>
-</lod:GLOSE>
-</lod:EXEMPLE-GLOSE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-ABSENTS />
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-SUBST>
-</lod:MS-TYPE-SUBST>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="SCHICKSAL1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="SCHICKSAL1ITE">Schicksal</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="N"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-SIMPLE/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="SCHICKSAL1UNI1" lod:REFS-IDS-UNITES-DE-SENS-MASS="SCHICKSAL1UNI2">
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Schicksaler</lod:FORME-PLURIEL>
+            </lod:ALT-MASSIF-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:TRAITEMENT-LING-SUBST>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:TRAD-ALL-FR-DOMIN>
+                <lod:TRAD-ALL-DOMIN>Schicksal</lod:TRAD-ALL-DOMIN>
+                <lod:TRAD-FR-DOMIN>destin</lod:TRAD-FR-DOMIN>
+              </lod:TRAD-ALL-FR-DOMIN>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SCHICKSAL1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Los, Geschick</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">sort</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">lot</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>fate, destiny</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">destino</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>sorte, fado</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>fréier haten d'Doléiner e schwéiert</lod:TEXTE>
+                        <lod:ABREV-AD>S.</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>Lous</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SCHICKSAL1UNI2">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">höhere Macht</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">fatalité</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">fate</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>higher power</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">destino</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>fatalidade</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>Schicksal</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>et war</lod:TEXTE>
+                        <lod:ABREV-AD>S.</lod:ABREV-AD>
+                        <lod:TEXTE>, datt mir zwee eis begéint hunn</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>dat musse mer dem</lod:TEXTE>
+                        <lod:ABREV-AD>S.</lod:ABREV-AD>
+                        <lod:TEXTE>iwwerloossen</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>dorop hu mer keen Afloss</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
 </lod:LOD>

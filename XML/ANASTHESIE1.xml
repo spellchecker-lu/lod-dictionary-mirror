@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="ANASTHESIE1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="ANASTHESIE1ITE">An&#228;sthesie</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-SUBST>
-<lod:CAT-GRAM-SUBST lod:C-G-SUBST="SUBST" />
-<lod:GENRE lod:GEN="F" />
-<lod:TYPE-SUBST>
-<lod:SUBST-SIMPLE />
-</lod:TYPE-SUBST>
-<lod:PLURIEL>
-<lod:TJ-NOMBRABLE>
-<lod:FORME-PLURIEL lod:FREQ-PLURIEL="NORMALE" lod:TYPE-PLURIEL="REGULIER">An&#228;sthesien</lod:FORME-PLURIEL>
-</lod:TJ-NOMBRABLE>
-</lod:PLURIEL>
-<lod:TRAITEMENT-LING-SUBST>
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ANASTHESIE1UNI1">
-<lod:DOM-SPEC />
-<lod:MARQUE-USAGE />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">An&#228;sthesie</lod:ETA-EXPLICITE>
-<lod:RS-ETA-PRESENTE>Bet&#228;ubung</lod:RS-ETA-PRESENTE>
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">anesth&#233;sie</lod:ETF-EXPLICITE>
-<lod:RS-ETF-PRESENTE>narcose</lod:RS-ETF-PRESENTE>
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-EN>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">anaesthesia</lod:ETE-EXPLICITE>
-<lod:RS-ETE-PRESENTE>narcosis</lod:RS-ETE-PRESENTE>
-</lod:EQUIV-TRAD-EN>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">anestesia</lod:ETP-EXPLICITE>
-<lod:RS-ETP-PRESENTE>narcose</lod:RS-ETP-PRESENTE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-<lod:TEXTE-EX>
-<lod:TEXTE>deen ee verdr&#233;it d'</lod:TEXTE>
-<lod:ABREV-AD>A.</lod:ABREV-AD>
-<lod:TEXTE>besser ew&#233;i deen aneren</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-PRESENTS>
-<lod:TERME-SYN>Narkos</lod:TERME-SYN>
-</lod:SYN-PRESENTS>
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-SUBST>
-</lod:MS-TYPE-SUBST>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="ANASTHESIE1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="ANASTHESIE1ITE">Anästhesie</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST lod:C-G-SUBST="SUBST"/>
+          <lod:GENRE lod:GEN="F"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-SIMPLE/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:FREQ-PLURIEL="NORMALE" lod:TYPE-PLURIEL="REGULIER">Anästhesien</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:TRAITEMENT-LING-SUBST>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ANASTHESIE1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Anästhesie</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Betäubung</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">anesthésie</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>narcose</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">anaesthesia</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>narcosis</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">anestesia</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>narcose</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>deen ee verdréit d'</lod:TEXTE>
+                        <lod:ABREV-AD>A.</lod:ABREV-AD>
+                        <lod:TEXTE>besser ewéi deen aneren</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>Narkos</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
 </lod:LOD>

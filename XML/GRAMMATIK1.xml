@@ -1,113 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="GRAMMATIK1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="GRAMMATIK1ITE">Grammatik</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-SUBST>
-<lod:CAT-GRAM-SUBST />
-<lod:GENRE lod:GEN="F" />
-<lod:TYPE-SUBST>
-<lod:SUBST-SIMPLE />
-</lod:TYPE-SUBST>
-<lod:PLURIEL>
-<lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="GRAMMATIK1UNI2" lod:REFS-IDS-UNITES-DE-SENS-MASS="GRAMMATIK1UNI1">
-<lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Grammatiken</lod:FORME-PLURIEL>
-</lod:ALT-MASSIF-NOMBRABLE>
-</lod:PLURIEL>
-<lod:TRAITEMENT-LING-SUBST>
-<lod:TRADUCTION-DOMINANTE>
-<lod:TRAD-ALL-FR-DOMIN>
-<lod:TRAD-ALL-DOMIN>Grammatik</lod:TRAD-ALL-DOMIN>
-<lod:TRAD-FR-DOMIN>grammaire</lod:TRAD-FR-DOMIN>
-</lod:TRAD-ALL-FR-DOMIN>
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="GRAMMATIK1UNI1">
-<lod:DOM-SPEC />
-<lod:MARQUE-USAGE />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Fach</lod:ETA-EXPLICITE>
-<lod:RS-ETA-ABSENTE />
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">mati&#232;re</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-EN>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">grammar</lod:ETE-EXPLICITE>
-<lod:RS-ETE-PRESENTE>subject</lod:RS-ETE-PRESENTE>
-</lod:EQUIV-TRAD-EN>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">gram&#225;tica</lod:ETP-EXPLICITE>
-<lod:RS-ETP-PRESENTE>disciplina</lod:RS-ETP-PRESENTE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE>
-<lod:TEXTE-EX>
-<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-<lod:ABREV-AD>Grammatik</lod:ABREV-AD>
-<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-PRESENTS>
-<lod:TERME-SYN>Grammaire</lod:TERME-SYN>
-</lod:SYN-PRESENTS>
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="GRAMMATIK1UNI2">
-<lod:DOM-SPEC />
-<lod:MARQUE-USAGE />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Buch</lod:ETA-EXPLICITE>
-<lod:RS-ETA-ABSENTE />
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">manuel</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-EN>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">grammar</lod:ETE-EXPLICITE>
-<lod:RS-ETE-PRESENTE>book</lod:RS-ETE-PRESENTE>
-</lod:EQUIV-TRAD-EN>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">gram&#225;tica</lod:ETP-EXPLICITE>
-<lod:RS-ETP-PRESENTE>livro</lod:RS-ETP-PRESENTE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE>
-<lod:TEXTE-EX>
-<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-<lod:ABREV-AD>Grammatik</lod:ABREV-AD>
-<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-<lod:TEXTE-EX>
-<lod:TEXTE>et steet esou a menger</lod:TEXTE>
-<lod:ABREV-AD>G.</lod:ABREV-AD>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-PRESENTS>
-<lod:TERME-SYN>Grammaire</lod:TERME-SYN>
-</lod:SYN-PRESENTS>
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-SUBST>
-</lod:MS-TYPE-SUBST>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="GRAMMATIK1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="GRAMMATIK1ITE">Grammatik</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="F"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-SIMPLE/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="GRAMMATIK1UNI2" lod:REFS-IDS-UNITES-DE-SENS-MASS="GRAMMATIK1UNI1">
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Grammatiken</lod:FORME-PLURIEL>
+            </lod:ALT-MASSIF-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:TRAITEMENT-LING-SUBST>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:TRAD-ALL-FR-DOMIN>
+                <lod:TRAD-ALL-DOMIN>Grammatik</lod:TRAD-ALL-DOMIN>
+                <lod:TRAD-FR-DOMIN>grammaire</lod:TRAD-FR-DOMIN>
+              </lod:TRAD-ALL-FR-DOMIN>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="GRAMMATIK1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Fach</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">matière</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">grammar</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>subject</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">gramática</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>disciplina</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>Grammatik</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>Grammaire</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="GRAMMATIK1UNI2">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Buch</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">manuel</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">grammar</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>book</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">gramática</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>livro</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>Grammatik</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>et steet esou a menger</lod:TEXTE>
+                        <lod:ABREV-AD>G.</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>Grammaire</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
 </lod:LOD>

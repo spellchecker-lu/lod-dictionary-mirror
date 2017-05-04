@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="TENNISSPILLER1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="TENNISSPILLER1ITE">Tennisspiller</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-SUBST>
-<lod:CAT-GRAM-SUBST />
-<lod:GENRE lod:GEN="M" />
-<lod:TYPE-SUBST>
-<lod:SUBST-COMPOSE lod:REF-ID-ARTICLE-DOMIN="TENNIS1" />
-</lod:TYPE-SUBST>
-<lod:PLURIEL>
-<lod:TJ-NOMBRABLE>
-<lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Tennisspiller</lod:FORME-PLURIEL>
-</lod:TJ-NOMBRABLE>
-</lod:PLURIEL>
-<lod:TRAITEMENT-LING-SUBST>
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="TENNISSPILLER1UNI1">
-<lod:DOM-SPEC />
-<lod:MARQUE-USAGE />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Tennisspieler</lod:ETA-EXPLICITE>
-<lod:RS-ETA-ABSENTE />
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">joueur de tennis</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-</lod:EQUIV-TRAD-FR>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-<lod:TEXTE-EX>
-<lod:TEXTE>am entscheedende Moment huet den</lod:TEXTE>
-<lod:ABREV-AD>T.</lod:ABREV-AD>
-<lod:TEXTE>de Ball riicht an d'Netz gesat</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-<lod:TEXTE-EX>
-<lod:TEXTE>vu Roserei huet den</lod:TEXTE>
-<lod:ABREV-AD>T.</lod:ABREV-AD>
-<lod:TEXTE>seng Rackett futtigeschloen</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-ABSENTS />
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-SUBST>
-</lod:MS-TYPE-SUBST>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="TENNISSPILLER1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="TENNISSPILLER1ITE">Tennisspiller</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="M"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-COMPOSE lod:REF-ID-ARTICLE-DOMIN="TENNIS1"/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Tennisspiller</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:TRAITEMENT-LING-SUBST>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="TENNISSPILLER1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Tennisspieler</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">joueur de tennis</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>am entscheedende Moment huet den</lod:TEXTE>
+                        <lod:ABREV-AD>T.</lod:ABREV-AD>
+                        <lod:TEXTE>de Ball riicht an d'Netz gesat</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>vu Roserei huet den</lod:TEXTE>
+                        <lod:ABREV-AD>T.</lod:ABREV-AD>
+                        <lod:TEXTE>seng Rackett futtigeschloen</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
 </lod:LOD>

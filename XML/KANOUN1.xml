@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="KANOUN1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="KANOUN1ITE">Kanoun</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-SUBST>
-<lod:CAT-GRAM-SUBST />
-<lod:GENRE lod:GEN="F" />
-<lod:TYPE-SUBST>
-<lod:SUBST-SIMPLE />
-</lod:TYPE-SUBST>
-<lod:PLURIEL>
-<lod:TJ-NOMBRABLE>
-<lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Kanounen</lod:FORME-PLURIEL>
-</lod:TJ-NOMBRABLE>
-</lod:PLURIEL>
-<lod:TRAITEMENT-LING-SUBST>
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="KANOUN1UNI1">
-<lod:DOM-SPEC />
-<lod:MARQUE-USAGE />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Kanone</lod:ETA-EXPLICITE>
-<lod:RS-ETA-PRESENTE>Gesch&#252;tz</lod:RS-ETA-PRESENTE>
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">canon</lod:ETF-EXPLICITE>
-<lod:RS-ETF-PRESENTE>pi&#232;ce d'artillerie</lod:RS-ETF-PRESENTE>
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-EN>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">cannon</lod:ETE-EXPLICITE>
-</lod:EQUIV-TRAD-EN>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">canh&#227;o</lod:ETP-EXPLICITE>
-<lod:RS-ETP-PRESENTE>pe&#231;a de artilharia</lod:RS-ETP-PRESENTE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE>
-<lod:TEXTE-EX>
-<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-<lod:ABREV-AD>Kanoun</lod:ABREV-AD>
-<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-<lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
-<lod:TEXTE-EX>
-<lod:TEXTE>hei g&#235;tt mat</lod:TEXTE>
-<lod:ABREV-AD>K.en</lod:ABREV-AD>
-<lod:TEXTE>op Spatze geschoss</lod:TEXTE>
-</lod:TEXTE-EX>
-<lod:GLOSE>
-<lod:TEXTE>hei g&#235;tt zu iwwerdriwwene M&#235;ttele gegraff</lod:TEXTE>
-</lod:GLOSE>
-</lod:EXEMPLE-GLOSE>
-<lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
-<lod:TEXTE-EX>
-<lod:TEXTE>am Tennis ass hien eng</lod:TEXTE>
-<lod:ABREV-AD>K.</lod:ABREV-AD>
-</lod:TEXTE-EX>
-<lod:GLOSE>
-<lod:TEXTE>am Tennis ass hien aussergew&#233;inlech gutt</lod:TEXTE>
-</lod:GLOSE>
-</lod:EXEMPLE-GLOSE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-ABSENTS />
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-SUBST>
-</lod:MS-TYPE-SUBST>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="KANOUN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="KANOUN1ITE">Kanoun</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="F"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-SIMPLE/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Kanounen</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:TRAITEMENT-LING-SUBST>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="KANOUN1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Kanone</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Geschütz</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">canon</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>pièce d'artillerie</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">cannon</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">canhão</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>peça de artilharia</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>Kanoun</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>hei gëtt mat</lod:TEXTE>
+                        <lod:ABREV-AD>K.en</lod:ABREV-AD>
+                        <lod:TEXTE>op Spatze geschoss</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>hei gëtt zu iwwerdriwwene Mëttele gegraff</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>am Tennis ass hien eng</lod:TEXTE>
+                        <lod:ABREV-AD>K.</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>am Tennis ass hien aussergewéinlech gutt</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
 </lod:LOD>

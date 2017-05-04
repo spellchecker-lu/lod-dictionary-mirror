@@ -1,134 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="INTERN1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="INTERN1ITE">intern</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-ADJ>
-<lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ" />
-<lod:TRAITEMENT-LING-ADJ>
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="INTERN1UNI1">
-<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
-<lod:MARQUE-USAGE lod:STYLE="ALLG" />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">intern</lod:ETA-EXPLICITE>
-<lod:RS-ETA-PRESENTE>im inneren Kreis</lod:RS-ETA-PRESENTE>
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">interne</lod:ETF-EXPLICITE>
-<lod:RS-ETF-PRESENTE>non public</lod:RS-ETF-PRESENTE>
-<lod:ETF-ALT lod:TYPE-ETF-ALT="FORME-ADVERBIALE-ADJ">en interne</lod:ETF-ALT>
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-EN>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">internal</lod:ETE-EXPLICITE>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">private</lod:ETE-EXPLICITE>
-<lod:ETE-ALT lod:TYPE-ETE-ALT="FORME-ADVERBIALE-ADJ">internally, privately</lod:ETE-ALT>
-</lod:EQUIV-TRAD-EN>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">interno</lod:ETP-EXPLICITE>
-<lod:RS-ETP-PRESENTE>n&#227;o p&#250;blico</lod:RS-ETP-PRESENTE>
-<lod:ETP-ALT lod:TYPE-ETP-ALT="FORME-ADVERBIALE-ADJ">internamente</lod:ETP-ALT>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE>
-<lod:TEXTE-EX>
-<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-<lod:ABREV-AD>intern</lod:ABREV-AD>
-<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-<lod:EXEMPLE>
-<lod:TEXTE-EX>
-<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-<lod:ABREV-AD>intern</lod:ABREV-AD>
-<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-ABSENTS />
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-ADJ>
-</lod:MS-TYPE-ADJ>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-<lod:FLX-ADJ>
-<lod:GRONDFORMEN>
-<lod:POSITIV>intern</lod:POSITIV>
-<lod:KOMPARATIV>m&#233;i intern</lod:KOMPARATIV>
-<lod:SUPERLATIV>am internsten</lod:SUPERLATIV>
-</lod:GRONDFORMEN>
-<lod:DEKL>
-<lod:POSITIV>
-<lod:SINGULIER>
-<lod:M>
-<lod:NOM>internen</lod:NOM>
-<lod:AKK>internen</lod:AKK>
-<lod:DAT>internen</lod:DAT>
-<lod:GEN>internen</lod:GEN>
-</lod:M>
-<lod:W>
-<lod:NOM>intern</lod:NOM>
-<lod:AKK>intern</lod:AKK>
-<lod:DAT>interner</lod:DAT>
-<lod:GEN>interner</lod:GEN>
-</lod:W>
-<lod:S>
-<lod:NOM>internt</lod:NOM>
-<lod:AKK>internt</lod:AKK>
-<lod:DAT>internen</lod:DAT>
-<lod:GEN>internen</lod:GEN>
-</lod:S>
-</lod:SINGULIER>
-<lod:PLURIEL>
-<lod:MWS>
-<lod:NOM>intern</lod:NOM>
-<lod:AKK>intern</lod:AKK>
-<lod:DAT>internen</lod:DAT>
-<lod:GEN>interner</lod:GEN>
-</lod:MWS>
-</lod:PLURIEL>
-</lod:POSITIV>
-<lod:SUPERLATIV>
-<lod:SINGULIER>
-<lod:M>
-<lod:NOM>internsten</lod:NOM>
-<lod:AKK>internsten</lod:AKK>
-<lod:DAT>internsten</lod:DAT>
-<lod:GEN>internsten</lod:GEN>
-</lod:M>
-<lod:W>
-<lod:NOM>internst</lod:NOM>
-<lod:AKK>internst</lod:AKK>
-<lod:DAT>internster</lod:DAT>
-<lod:GEN>internster</lod:GEN>
-</lod:W>
-<lod:S>
-<lod:NOM>internst</lod:NOM>
-<lod:AKK>internst</lod:AKK>
-<lod:DAT>internsten</lod:DAT>
-<lod:GEN>internsten</lod:GEN>
-</lod:S>
-</lod:SINGULIER>
-<lod:PLURIEL>
-<lod:MWS>
-<lod:NOM>internst</lod:NOM>
-<lod:AKK>internst</lod:AKK>
-<lod:DAT>internsten</lod:DAT>
-<lod:GEN>internster</lod:GEN>
-</lod:MWS>
-</lod:PLURIEL>
-</lod:SUPERLATIV>
-</lod:DEKL>
-</lod:FLX-ADJ>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="INTERN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="INTERN1ITE">intern</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-ADJ>
+          <lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ"/>
+          <lod:TRAITEMENT-LING-ADJ>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="INTERN1UNI1" lod:FREQ-EMPLOI="NORMAL">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">intern</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>im inneren Kreis</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">interne</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>non public</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-ALT lod:TYPE-ETF-ALT="FORME-ADVERBIALE-ADJ">en interne</lod:ETF-ALT>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">internal</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">private</lod:ETE-EXPLICITE>
+                    <lod:ETE-ALT lod:TYPE-ETE-ALT="FORME-ADVERBIALE-ADJ">internally, privately</lod:ETE-ALT>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">interno</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>não público</lod:RS-ETP-PRESENTE>
+                    <lod:ETP-ALT lod:TYPE-ETP-ALT="FORME-ADVERBIALE-ADJ">internamente</lod:ETP-ALT>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>intern</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>intern</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-ADJ>
+        </lod:MS-TYPE-ADJ>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>intern</lod:POSITIV>
+        <lod:KOMPARATIV>méi intern</lod:KOMPARATIV>
+        <lod:SUPERLATIV>am internsten</lod:SUPERLATIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>internen</lod:NOM>
+              <lod:AKK>internen</lod:AKK>
+              <lod:DAT>internen</lod:DAT>
+              <lod:GEN>internen</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>intern</lod:NOM>
+              <lod:AKK>intern</lod:AKK>
+              <lod:DAT>interner</lod:DAT>
+              <lod:GEN>interner</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>internt</lod:NOM>
+              <lod:AKK>internt</lod:AKK>
+              <lod:DAT>internen</lod:DAT>
+              <lod:GEN>internen</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>intern</lod:NOM>
+              <lod:AKK>intern</lod:AKK>
+              <lod:DAT>internen</lod:DAT>
+              <lod:GEN>interner</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+        <lod:SUPERLATIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>internsten</lod:NOM>
+              <lod:AKK>internsten</lod:AKK>
+              <lod:DAT>internsten</lod:DAT>
+              <lod:GEN>internsten</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>internst</lod:NOM>
+              <lod:AKK>internst</lod:AKK>
+              <lod:DAT>internster</lod:DAT>
+              <lod:GEN>internster</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>internst</lod:NOM>
+              <lod:AKK>internst</lod:AKK>
+              <lod:DAT>internsten</lod:DAT>
+              <lod:GEN>internsten</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>internst</lod:NOM>
+              <lod:AKK>internst</lod:AKK>
+              <lod:DAT>internsten</lod:DAT>
+              <lod:GEN>internster</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:SUPERLATIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
+  </lod:ITEM>
 </lod:LOD>

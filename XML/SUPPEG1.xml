@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="SUPPEG1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="SUPPEG1ITE">suppeg</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-ADJ>
-<lod:CAT-GRAM-ADJ />
-<lod:TRAITEMENT-LING-ADJ>
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SUPPEG1UNI1">
-<lod:DOM-SPEC />
-<lod:MARQUE-USAGE />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sumpfig</lod:ETA-EXPLICITE>
-<lod:RS-ETA-ABSENTE />
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tremp&#233;</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">mar&#233;cageux</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">encharcado</lod:ETP-EXPLICITE>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">pantanoso</lod:ETP-EXPLICITE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE>
-<lod:TEXTE-EX>
-<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-<lod:ABREV-AD>suppeg</lod:ABREV-AD>
-<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-ABSENTS />
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-ADJ>
-</lod:MS-TYPE-ADJ>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-<lod:FLX-ADJ>
-<lod:GRONDFORMEN>
-<lod:POSITIV>suppeg</lod:POSITIV>
-</lod:GRONDFORMEN>
-<lod:DEKL>
-<lod:POSITIV>
-<lod:SINGULIER>
-<lod:M>
-<lod:NOM>suppegen</lod:NOM>
-<lod:AKK>suppegen</lod:AKK>
-<lod:DAT>suppegen</lod:DAT>
-<lod:GEN>suppegen</lod:GEN>
-</lod:M>
-<lod:W>
-<lod:NOM>suppeg</lod:NOM>
-<lod:AKK>suppeg</lod:AKK>
-<lod:DAT>suppeger</lod:DAT>
-<lod:GEN>suppeger</lod:GEN>
-</lod:W>
-<lod:S>
-<lod:NOM>suppegt</lod:NOM>
-<lod:AKK>suppegt</lod:AKK>
-<lod:DAT>suppegen</lod:DAT>
-<lod:GEN>suppegen</lod:GEN>
-</lod:S>
-</lod:SINGULIER>
-<lod:PLURIEL>
-<lod:MWS>
-<lod:NOM>suppeg</lod:NOM>
-<lod:AKK>suppeg</lod:AKK>
-<lod:DAT>suppegen</lod:DAT>
-<lod:GEN>suppeger</lod:GEN>
-</lod:MWS>
-</lod:PLURIEL>
-</lod:POSITIV>
-</lod:DEKL>
-</lod:FLX-ADJ>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="SUPPEG1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="SUPPEG1ITE">suppeg</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-ADJ>
+          <lod:CAT-GRAM-ADJ/>
+          <lod:TRAITEMENT-LING-ADJ>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SUPPEG1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sumpfig</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">trempé</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">marécageux</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">encharcado</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">pantanoso</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>suppeg</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-ADJ>
+        </lod:MS-TYPE-ADJ>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>suppeg</lod:POSITIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>suppegen</lod:NOM>
+              <lod:AKK>suppegen</lod:AKK>
+              <lod:DAT>suppegen</lod:DAT>
+              <lod:GEN>suppegen</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>suppeg</lod:NOM>
+              <lod:AKK>suppeg</lod:AKK>
+              <lod:DAT>suppeger</lod:DAT>
+              <lod:GEN>suppeger</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>suppegt</lod:NOM>
+              <lod:AKK>suppegt</lod:AKK>
+              <lod:DAT>suppegen</lod:DAT>
+              <lod:GEN>suppegen</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>suppeg</lod:NOM>
+              <lod:AKK>suppeg</lod:AKK>
+              <lod:DAT>suppegen</lod:DAT>
+              <lod:GEN>suppeger</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
+  </lod:ITEM>
 </lod:LOD>

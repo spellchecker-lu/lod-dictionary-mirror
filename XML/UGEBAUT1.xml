@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="UGEBAUT1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="UGEBAUT1ITE">ugebaut</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-ADJ>
-<lod:CAT-GRAM-ADJ />
-<lod:TRAITEMENT-LING-ADJ>
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="UGEBAUT1UNI1">
-<lod:DOM-SPEC />
-<lod:MARQUE-USAGE />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">angebaut</lod:ETA-EXPLICITE>
-<lod:RS-ETA-PRESENTE>Geb&#228;ude</lod:RS-ETA-PRESENTE>
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">accol&#233;</lod:ETF-EXPLICITE>
-<lod:RS-ETF-PRESENTE>maison</lod:RS-ETF-PRESENTE>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">&#224; mur mitoyen</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">pegado</lod:ETP-EXPLICITE>
-<lod:RS-ETP-PRESENTE>a outro edif&#237;cio</lod:RS-ETP-PRESENTE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE>
-<lod:TEXTE-EX>
-<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-<lod:ABREV-AD>ugebaut</lod:ABREV-AD>
-<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-ABSENTS />
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-ADJ>
-</lod:MS-TYPE-ADJ>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-<lod:FLX-ADJ>
-<lod:GRONDFORMEN>
-<lod:POSITIV>ugebaut</lod:POSITIV>
-</lod:GRONDFORMEN>
-<lod:DEKL>
-<lod:POSITIV>
-<lod:SINGULIER>
-<lod:M>
-<lod:NOM>ugebauten</lod:NOM>
-<lod:AKK>ugebauten</lod:AKK>
-<lod:DAT>ugebauten</lod:DAT>
-<lod:GEN>ugebauten</lod:GEN>
-</lod:M>
-<lod:W>
-<lod:NOM>ugebaut</lod:NOM>
-<lod:AKK>ugebaut</lod:AKK>
-<lod:DAT>ugebauter</lod:DAT>
-<lod:GEN>ugebauter</lod:GEN>
-</lod:W>
-<lod:S>
-<lod:NOM>ugebaut</lod:NOM>
-<lod:AKK>ugebaut</lod:AKK>
-<lod:DAT>ugebauten</lod:DAT>
-<lod:GEN>ugebauten</lod:GEN>
-</lod:S>
-</lod:SINGULIER>
-<lod:PLURIEL>
-<lod:MWS>
-<lod:NOM>ugebaut</lod:NOM>
-<lod:AKK>ugebaut</lod:AKK>
-<lod:DAT>ugebauten</lod:DAT>
-<lod:GEN>ugebauter</lod:GEN>
-</lod:MWS>
-</lod:PLURIEL>
-</lod:POSITIV>
-</lod:DEKL>
-</lod:FLX-ADJ>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="UGEBAUT1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="UGEBAUT1ITE">ugebaut</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-ADJ>
+          <lod:CAT-GRAM-ADJ/>
+          <lod:TRAITEMENT-LING-ADJ>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="UGEBAUT1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">angebaut</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Gebäude</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">accolé</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>maison</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">à mur mitoyen</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">pegado</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>a outro edifício</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>ugebaut</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-ADJ>
+        </lod:MS-TYPE-ADJ>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>ugebaut</lod:POSITIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>ugebauten</lod:NOM>
+              <lod:AKK>ugebauten</lod:AKK>
+              <lod:DAT>ugebauten</lod:DAT>
+              <lod:GEN>ugebauten</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>ugebaut</lod:NOM>
+              <lod:AKK>ugebaut</lod:AKK>
+              <lod:DAT>ugebauter</lod:DAT>
+              <lod:GEN>ugebauter</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>ugebaut</lod:NOM>
+              <lod:AKK>ugebaut</lod:AKK>
+              <lod:DAT>ugebauten</lod:DAT>
+              <lod:GEN>ugebauten</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>ugebaut</lod:NOM>
+              <lod:AKK>ugebaut</lod:AKK>
+              <lod:DAT>ugebauten</lod:DAT>
+              <lod:GEN>ugebauter</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
+  </lod:ITEM>
 </lod:LOD>

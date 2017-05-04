@@ -1,94 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="HONDSFRIEM1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="HONDSFRIEM1ITE">hondsfriem</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-ADJ>
-<lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ" />
-<lod:TRAITEMENT-LING-ADJ>
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="HONDSFRIEM1UNI1">
-<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
-<lod:MARQUE-USAGE lod:STYLE="ALLG" />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">wildfremd</lod:ETA-EXPLICITE>
-<lod:RS-ETA-ABSENTE />
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">totalement &#233;tranger</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">totalement inconnu</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-EN>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">completely unknown</lod:ETE-EXPLICITE>
-<lod:RS-ETE-PRESENTE>unidentified, unfamiliar</lod:RS-ETE-PRESENTE>
-</lod:EQUIV-TRAD-EN>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">totalmente estranho</lod:ETP-EXPLICITE>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">totalmente desconhecido</lod:ETP-EXPLICITE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE>
-<lod:TEXTE-EX>
-<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-<lod:ABREV-AD>hondsfriem</lod:ABREV-AD>
-<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-ABSENTS />
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-ADJ>
-</lod:MS-TYPE-ADJ>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-<lod:FLX-ADJ>
-<lod:GRONDFORMEN>
-<lod:POSITIV>hondsfriem</lod:POSITIV>
-</lod:GRONDFORMEN>
-<lod:DEKL>
-<lod:POSITIV>
-<lod:SINGULIER>
-<lod:M>
-<lod:NOM>hondsfriemen</lod:NOM>
-<lod:AKK>hondsfriemen</lod:AKK>
-<lod:DAT>hondsfriemen</lod:DAT>
-<lod:GEN>hondsfriemen</lod:GEN>
-</lod:M>
-<lod:W>
-<lod:NOM>hondsfriem</lod:NOM>
-<lod:AKK>hondsfriem</lod:AKK>
-<lod:DAT>hondsfriemer</lod:DAT>
-<lod:GEN>hondsfriemer</lod:GEN>
-</lod:W>
-<lod:S>
-<lod:NOM>hondsfriemt</lod:NOM>
-<lod:AKK>hondsfriemt</lod:AKK>
-<lod:DAT>hondsfriemen</lod:DAT>
-<lod:GEN>hondsfriemen</lod:GEN>
-</lod:S>
-</lod:SINGULIER>
-<lod:PLURIEL>
-<lod:MWS>
-<lod:NOM>hondsfriem</lod:NOM>
-<lod:AKK>hondsfriem</lod:AKK>
-<lod:DAT>hondsfriemen</lod:DAT>
-<lod:GEN>hondsfriemer</lod:GEN>
-</lod:MWS>
-</lod:PLURIEL>
-</lod:POSITIV>
-</lod:DEKL>
-</lod:FLX-ADJ>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="HONDSFRIEM1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="HONDSFRIEM1ITE">hondsfriem</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-ADJ>
+          <lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ"/>
+          <lod:TRAITEMENT-LING-ADJ>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="HONDSFRIEM1UNI1" lod:FREQ-EMPLOI="NORMAL">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">wildfremd</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">totalement étranger</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">totalement inconnu</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">completely unknown</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>unidentified, unfamiliar</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">totalmente estranho</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">totalmente desconhecido</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>hondsfriem</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-ADJ>
+        </lod:MS-TYPE-ADJ>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>hondsfriem</lod:POSITIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>hondsfriemen</lod:NOM>
+              <lod:AKK>hondsfriemen</lod:AKK>
+              <lod:DAT>hondsfriemen</lod:DAT>
+              <lod:GEN>hondsfriemen</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>hondsfriem</lod:NOM>
+              <lod:AKK>hondsfriem</lod:AKK>
+              <lod:DAT>hondsfriemer</lod:DAT>
+              <lod:GEN>hondsfriemer</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>hondsfriemt</lod:NOM>
+              <lod:AKK>hondsfriemt</lod:AKK>
+              <lod:DAT>hondsfriemen</lod:DAT>
+              <lod:GEN>hondsfriemen</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>hondsfriem</lod:NOM>
+              <lod:AKK>hondsfriem</lod:AKK>
+              <lod:DAT>hondsfriemen</lod:DAT>
+              <lod:GEN>hondsfriemer</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
+  </lod:ITEM>
 </lod:LOD>

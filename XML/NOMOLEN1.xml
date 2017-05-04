@@ -1,111 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="NOMOLEN1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="NOMOLEN1ITE">nomolen</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-VRB>
-<lod:CAT-GRAM-VRB />
-<lod:VRB-AUXILIAIRE lod:AUXIL="HUNN" />
-<lod:PARTICIPE-PASSE>nogemoolt</lod:PARTICIPE-PASSE>
-<lod:TRAITEMENT-LING-VRB>
-<lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF" />
-<lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS" />
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NOMOLEN1UNI1">
-<lod:DOM-SPEC />
-<lod:MARQUE-USAGE />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">nachzeichnen</lod:ETA-EXPLICITE>
-<lod:RS-ETA-ABSENTE />
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">dessiner</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">copier</lod:ETF-EXPLICITE>
-<lod:RS-ETF-PRESENTE>en dessinant</lod:RS-ETF-PRESENTE>
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-EN>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to copy</lod:ETE-EXPLICITE>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to draw</lod:ETE-EXPLICITE>
-</lod:EQUIV-TRAD-EN>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-<lod:TEXTE-EX>
-<lod:TEXTE>dat Klengt versicht, de P&#228;iperlek esou</lod:TEXTE>
-<lod:ABREV-AD>nozemolen</lod:ABREV-AD>
-<lod:TEXTE>, ew&#233;i seng Mamm em e virgemoolt huet</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-ABSENTS />
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-VRB>
-</lod:MS-TYPE-VRB>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-<lod:FLX-VRB>
-<lod:INFINITIF>nomolen</lod:INFINITIF>
-<lod:PART-PASS>nogemoolt</lod:PART-PASS>
-<lod:INDICATIF>
-<lod:PRESENT>
-<lod:P1>molen no</lod:P1>
-<lod:P2>mools no</lod:P2>
-<lod:P3>moolt no</lod:P3>
-<lod:P4>molen no</lod:P4>
-<lod:P5>moolt no</lod:P5>
-<lod:P6>molen no</lod:P6>
-</lod:PRESENT>
-<lod:PASSE-COMPOSE>
-<lod:P1>hunn nogemoolt</lod:P1>
-<lod:P2>hues nogemoolt</lod:P2>
-<lod:P3>huet nogemoolt</lod:P3>
-<lod:P4>hunn nogemoolt</lod:P4>
-<lod:P5>hutt nogemoolt</lod:P5>
-<lod:P6>hunn nogemoolt</lod:P6>
-</lod:PASSE-COMPOSE>
-<lod:PLUS-QUE-PARFAIT>
-<lod:P1>hat nogemoolt</lod:P1>
-<lod:P2>has nogemoolt</lod:P2>
-<lod:P3>hat nogemoolt</lod:P3>
-<lod:P4>haten nogemoolt</lod:P4>
-<lod:P5>hat nogemoolt</lod:P5>
-<lod:P6>haten nogemoolt</lod:P6>
-</lod:PLUS-QUE-PARFAIT>
-</lod:INDICATIF>
-<lod:CONDITIONNEL>
-<lod:PRESENT-COMPOSE>
-<lod:P1>g&#233;if nomolen</lod:P1>
-<lod:P2>g&#233;ifs nomolen</lod:P2>
-<lod:P3>g&#233;if nomolen</lod:P3>
-<lod:P4>g&#233;ifen nomolen</lod:P4>
-<lod:P5>g&#233;ift nomolen</lod:P5>
-<lod:P6>g&#233;ifen nomolen</lod:P6>
-</lod:PRESENT-COMPOSE>
-<lod:PASSE-COMPOSE>
-<lod:P1>h&#228;tt nogemoolt</lod:P1>
-<lod:P2>h&#228;ss nogemoolt</lod:P2>
-<lod:P3>h&#228;tt nogemoolt</lod:P3>
-<lod:P4>h&#228;tten nogemoolt</lod:P4>
-<lod:P5>h&#228;tt nogemoolt</lod:P5>
-<lod:P6>h&#228;tten nogemoolt</lod:P6>
-</lod:PASSE-COMPOSE>
-</lod:CONDITIONNEL>
-<lod:IMPERATIF>
-<lod:PRESENT>
-<lod:P2>mol no!</lod:P2>
-<lod:P5>moolt no!</lod:P5>
-</lod:PRESENT>
-</lod:IMPERATIF>
-</lod:FLX-VRB>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="NOMOLEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="NOMOLEN1ITE">nomolen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
+          <lod:PARTICIPE-PASSE>nogemoolt</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NOMOLEN1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">nachzeichnen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">dessiner</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">copier</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>en dessinant</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to copy</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to draw</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>dat Klengt versicht, de Päiperlek esou</lod:TEXTE>
+                        <lod:ABREV-AD>nozemolen</lod:ABREV-AD>
+                        <lod:TEXTE>, ewéi seng Mamm em e virgemoolt huet</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>nomolen</lod:INFINITIF>
+      <lod:PART-PASS>nogemoolt</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>molen no</lod:P1>
+          <lod:P2>mools no</lod:P2>
+          <lod:P3>moolt no</lod:P3>
+          <lod:P4>molen no</lod:P4>
+          <lod:P5>moolt no</lod:P5>
+          <lod:P6>molen no</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hunn nogemoolt</lod:P1>
+          <lod:P2>hues nogemoolt</lod:P2>
+          <lod:P3>huet nogemoolt</lod:P3>
+          <lod:P4>hunn nogemoolt</lod:P4>
+          <lod:P5>hutt nogemoolt</lod:P5>
+          <lod:P6>hunn nogemoolt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat nogemoolt</lod:P1>
+          <lod:P2>has nogemoolt</lod:P2>
+          <lod:P3>hat nogemoolt</lod:P3>
+          <lod:P4>haten nogemoolt</lod:P4>
+          <lod:P5>hat nogemoolt</lod:P5>
+          <lod:P6>haten nogemoolt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif nomolen</lod:P1>
+          <lod:P2>géifs nomolen</lod:P2>
+          <lod:P3>géif nomolen</lod:P3>
+          <lod:P4>géifen nomolen</lod:P4>
+          <lod:P5>géift nomolen</lod:P5>
+          <lod:P6>géifen nomolen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt nogemoolt</lod:P1>
+          <lod:P2>häss nogemoolt</lod:P2>
+          <lod:P3>hätt nogemoolt</lod:P3>
+          <lod:P4>hätten nogemoolt</lod:P4>
+          <lod:P5>hätt nogemoolt</lod:P5>
+          <lod:P6>hätten nogemoolt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>mol no!</lod:P2>
+          <lod:P5>moolt no!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
+  </lod:ITEM>
 </lod:LOD>

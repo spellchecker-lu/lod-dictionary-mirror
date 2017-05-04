@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="FESCHZEN1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="FESCHZEN1ITE">f&#235;schzen</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-VRB>
-<lod:CAT-GRAM-VRB lod:C-G-VRB="VRB" />
-<lod:VRB-AUXILIAIRE lod:AUXIL="HUNN" />
-<lod:PARTICIPE-PASSE>gef&#235;schzt</lod:PARTICIPE-PASSE>
-<lod:TRAITEMENT-LING-VRB>
-<lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF" />
-<lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-ESSENT-IMPERS" />
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="FESCHZEN1UNI1">
-<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
-<lod:MARQUE-USAGE lod:STYLE="EGS" />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">fischig riechen</lod:ETA-EXPLICITE>
-<lod:RS-ETA-ABSENTE />
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">sentir le poisson</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-EN>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to smell of fish</lod:ETE-EXPLICITE>
-</lod:EQUIV-TRAD-EN>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">cheirar a peixe</lod:ETP-EXPLICITE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE lod:MARQUE-USAGE="EGS">
-<lod:TEXTE-EX>
-<lod:TEXTE>wa mer F&#235;schzopp kachen, da</lod:TEXTE>
-<lod:ABREV-AD>f&#235;schzt</lod:ABREV-AD>
-<lod:TEXTE>et am ganzen Haus</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-ABSENTS />
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-VRB>
-</lod:MS-TYPE-VRB>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-<lod:FLX-VRB>
-<lod:INFINITIF>f&#235;schzen</lod:INFINITIF>
-<lod:PART-PASS>gef&#235;schzt</lod:PART-PASS>
-<lod:INDICATIF>
-<lod:PRESENT>
-<lod:P3>f&#235;schzt</lod:P3>
-</lod:PRESENT>
-<lod:PASSE-COMPOSE>
-<lod:P3>huet gef&#235;schzt</lod:P3>
-</lod:PASSE-COMPOSE>
-<lod:PLUS-QUE-PARFAIT>
-<lod:P3>hat gef&#235;schzt</lod:P3>
-</lod:PLUS-QUE-PARFAIT>
-</lod:INDICATIF>
-<lod:CONDITIONNEL>
-<lod:PRESENT-COMPOSE>
-<lod:P3>g&#233;if f&#235;schzen</lod:P3>
-</lod:PRESENT-COMPOSE>
-<lod:PASSE-COMPOSE>
-<lod:P3>h&#228;tt gef&#235;schzt</lod:P3>
-</lod:PASSE-COMPOSE>
-</lod:CONDITIONNEL>
-</lod:FLX-VRB>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="FESCHZEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="FESCHZEN1ITE">fëschzen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB lod:C-G-VRB="VRB"/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
+          <lod:PARTICIPE-PASSE>gefëschzt</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-ESSENT-IMPERS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="FESCHZEN1UNI1" lod:FREQ-EMPLOI="NORMAL">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE lod:STYLE="EGS"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">fischig riechen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">sentir le poisson</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to smell of fish</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">cheirar a peixe</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>wa mer Fëschzopp kachen, da</lod:TEXTE>
+                        <lod:ABREV-AD>fëschzt</lod:ABREV-AD>
+                        <lod:TEXTE>et am ganzen Haus</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>fëschzen</lod:INFINITIF>
+      <lod:PART-PASS>gefëschzt</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P3>fëschzt</lod:P3>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P3>huet gefëschzt</lod:P3>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P3>hat gefëschzt</lod:P3>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P3>géif fëschzen</lod:P3>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P3>hätt gefëschzt</lod:P3>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+    </lod:FLX-VRB>
+  </lod:ITEM>
 </lod:LOD>

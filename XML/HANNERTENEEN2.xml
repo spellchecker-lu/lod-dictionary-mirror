@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="HANNERTENEEN2" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="HANNERTENEEN2ITE">hannerteneen</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-ADV>
-<lod:CAT-GRAM-ADV />
-<lod:COMPOSITION>
-<lod:RENVOI-PREP lod:REF-ID-ITEM-ADRESSE="HANNERT1ITE">
-<lod:ELEMENT-DE-COMPOSITION />
-</lod:RENVOI-PREP>
-<lod:TYPE-COMPOSITION lod:TYPE="PLUS" />
-<lod:RENVOI-ADV lod:REF-ID-ITEM-ADRESSE="ENEEN1ITE">
-<lod:ELEMENT-DE-COMPOSITION />
-</lod:RENVOI-ADV>
-</lod:COMPOSITION>
-</lod:MS-TYPE-ADV>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="HANNERTENEEN2"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="HANNERTENEEN2ITE">hannerteneen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-ADV>
+          <lod:CAT-GRAM-ADV/>
+          <lod:COMPOSITION>
+            <lod:RENVOI-PREP lod:REF-ID-ITEM-ADRESSE="HANNERT1ITE">
+              <lod:ELEMENT-DE-COMPOSITION/>
+            </lod:RENVOI-PREP>
+            <lod:TYPE-COMPOSITION lod:TYPE="PLUS"/>
+            <lod:RENVOI-ADV lod:REF-ID-ITEM-ADRESSE="ENEEN1ITE">
+              <lod:ELEMENT-DE-COMPOSITION/>
+            </lod:RENVOI-ADV>
+          </lod:COMPOSITION>
+        </lod:MS-TYPE-ADV>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
 </lod:LOD>

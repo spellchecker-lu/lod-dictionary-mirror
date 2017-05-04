@@ -1,108 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="VERSCHWATZEN1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="VERSCHWATZEN1ITE">verschw&#228;tzen</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-VRB>
-<lod:CAT-GRAM-VRB />
-<lod:VRB-AUXILIAIRE lod:AUXIL="HUNN" />
-<lod:PARTICIPE-PASSE>verschwat</lod:PARTICIPE-PASSE>
-<lod:TRAITEMENT-LING-VRB>
-<lod:REFLEX-PRONOM lod:REFPRON="PRONOM" />
-<lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS" />
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="VERSCHWATZEN1UNI1">
-<lod:DOM-SPEC />
-<lod:MARQUE-USAGE />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sich versprechen</lod:ETA-EXPLICITE>
-<lod:RS-ETA-PRESENTE>sich irren</lod:RS-ETA-PRESENTE>
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se tromper (en parlant)</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">enganar-se (a falar)</lod:ETP-EXPLICITE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE>
-<lod:TEXTE-EX>
-<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-<lod:ABREV-AD>verschw&#228;tzen</lod:ABREV-AD>
-<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-ABSENTS />
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-VRB>
-</lod:MS-TYPE-VRB>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-<lod:FLX-VRB>
-<lod:INFINITIF>verschw&#228;tzen</lod:INFINITIF>
-<lod:PART-PASS>verschwat</lod:PART-PASS>
-<lod:INDICATIF>
-<lod:PRESENT>
-<lod:P1>verschw&#228;tze mech</lod:P1>
-<lod:P2>verschw&#228;tz dech</lod:P2>
-<lod:P3>verschw&#228;tzt sech</lod:P3>
-<lod:P4>verschw&#228;tzen eis</lod:P4>
-<lod:P5>verschw&#228;tzt iech</lod:P5>
-<lod:P6>verschw&#228;tzen sech</lod:P6>
-</lod:PRESENT>
-<lod:PASSE-COMPOSE>
-<lod:P1>hu mech verschwat</lod:P1>
-<lod:P2>hues dech verschwat</lod:P2>
-<lod:P3>huet sech verschwat</lod:P3>
-<lod:P4>hunn eis verschwat</lod:P4>
-<lod:P5>hutt iech verschwat</lod:P5>
-<lod:P6>hunn sech verschwat</lod:P6>
-</lod:PASSE-COMPOSE>
-<lod:PLUS-QUE-PARFAIT>
-<lod:P1>hat mech verschwat</lod:P1>
-<lod:P2>has dech verschwat</lod:P2>
-<lod:P3>hat sech verschwat</lod:P3>
-<lod:P4>haten eis verschwat</lod:P4>
-<lod:P5>hat iech verschwat</lod:P5>
-<lod:P6>haten sech verschwat</lod:P6>
-</lod:PLUS-QUE-PARFAIT>
-</lod:INDICATIF>
-<lod:CONDITIONNEL>
-<lod:PRESENT-COMPOSE>
-<lod:P1>g&#233;if mech verschw&#228;tzen</lod:P1>
-<lod:P2>g&#233;ifs dech verschw&#228;tzen</lod:P2>
-<lod:P3>g&#233;if sech verschw&#228;tzen</lod:P3>
-<lod:P4>g&#233;ifen eis verschw&#228;tzen</lod:P4>
-<lod:P5>g&#233;ift iech verschw&#228;tzen</lod:P5>
-<lod:P6>g&#233;ifen sech verschw&#228;tzen</lod:P6>
-</lod:PRESENT-COMPOSE>
-<lod:PASSE-COMPOSE>
-<lod:P1>h&#228;tt mech verschwat</lod:P1>
-<lod:P2>h&#228;ss dech verschwat</lod:P2>
-<lod:P3>h&#228;tt sech verschwat</lod:P3>
-<lod:P4>h&#228;tten eis verschwat</lod:P4>
-<lod:P5>h&#228;tt iech verschwat</lod:P5>
-<lod:P6>h&#228;tten sech verschwat</lod:P6>
-</lod:PASSE-COMPOSE>
-</lod:CONDITIONNEL>
-<lod:IMPERATIF>
-<lod:PRESENT>
-<lod:P2>verschw&#228;tz dech!</lod:P2>
-<lod:P5>verschw&#228;tzt iech!</lod:P5>
-</lod:PRESENT>
-</lod:IMPERATIF>
-</lod:FLX-VRB>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="VERSCHWATZEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="VERSCHWATZEN1ITE">verschwätzen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
+          <lod:PARTICIPE-PASSE>verschwat</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="PRONOM"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="VERSCHWATZEN1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sich versprechen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>sich irren</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se tromper (en parlant)</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">enganar-se (a falar)</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>verschwätzen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verschwätzen</lod:INFINITIF>
+      <lod:PART-PASS>verschwat</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verschwätze mech</lod:P1>
+          <lod:P2>verschwätz dech</lod:P2>
+          <lod:P3>verschwätzt sech</lod:P3>
+          <lod:P4>verschwätzen eis</lod:P4>
+          <lod:P5>verschwätzt iech</lod:P5>
+          <lod:P6>verschwätzen sech</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu mech verschwat</lod:P1>
+          <lod:P2>hues dech verschwat</lod:P2>
+          <lod:P3>huet sech verschwat</lod:P3>
+          <lod:P4>hunn eis verschwat</lod:P4>
+          <lod:P5>hutt iech verschwat</lod:P5>
+          <lod:P6>hunn sech verschwat</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat mech verschwat</lod:P1>
+          <lod:P2>has dech verschwat</lod:P2>
+          <lod:P3>hat sech verschwat</lod:P3>
+          <lod:P4>haten eis verschwat</lod:P4>
+          <lod:P5>hat iech verschwat</lod:P5>
+          <lod:P6>haten sech verschwat</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif mech verschwätzen</lod:P1>
+          <lod:P2>géifs dech verschwätzen</lod:P2>
+          <lod:P3>géif sech verschwätzen</lod:P3>
+          <lod:P4>géifen eis verschwätzen</lod:P4>
+          <lod:P5>géift iech verschwätzen</lod:P5>
+          <lod:P6>géifen sech verschwätzen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt mech verschwat</lod:P1>
+          <lod:P2>häss dech verschwat</lod:P2>
+          <lod:P3>hätt sech verschwat</lod:P3>
+          <lod:P4>hätten eis verschwat</lod:P4>
+          <lod:P5>hätt iech verschwat</lod:P5>
+          <lod:P6>hätten sech verschwat</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verschwätz dech!</lod:P2>
+          <lod:P5>verschwätzt iech!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
+  </lod:ITEM>
 </lod:LOD>

@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="IERDEN1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="IERDEN1ITE">ierden</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-ADJ>
-<lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ" />
-<lod:TRAITEMENT-LING-ADJ>
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="IERDEN1UNI1">
-<lod:DOM-SPEC lod:DOM="PAS-DE-DOM" />
-<lod:MARQUE-USAGE lod:STYLE="ALLG" />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">irden</lod:ETA-EXPLICITE>
-<lod:RS-ETA-ABSENTE />
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">en terre cuite</lod:ETF-EXPLICITE>
-<lod:RS-ETF-ABSENTE />
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-EN>
-<lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">earthenware</lod:ETE-EXPLICITE>
-</lod:EQUIV-TRAD-EN>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">de barro</lod:ETP-EXPLICITE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-<lod:TEXTE-EX>
-<lod:TEXTE>hues de keng</lod:TEXTE>
-<lod:ABREV-AD>ierde</lod:ABREV-AD>
-<lod:TEXTE>Schossel?</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-ABSENTS />
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-ADJ>
-</lod:MS-TYPE-ADJ>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-<lod:FLX-ADJ>
-<lod:GRONDFORMEN>
-<lod:POSITIV>ierden</lod:POSITIV>
-</lod:GRONDFORMEN>
-<lod:DEKL>
-<lod:POSITIV>
-<lod:SINGULIER>
-<lod:M>
-<lod:NOM>ierdenen</lod:NOM>
-<lod:AKK>ierdenen</lod:AKK>
-<lod:DAT>ierdenen</lod:DAT>
-<lod:GEN>ierdenen</lod:GEN>
-</lod:M>
-<lod:W>
-<lod:NOM>ierden</lod:NOM>
-<lod:AKK>ierden</lod:AKK>
-<lod:DAT>ierdener</lod:DAT>
-<lod:GEN>ierdener</lod:GEN>
-</lod:W>
-<lod:S>
-<lod:NOM>ierdent</lod:NOM>
-<lod:AKK>ierdent</lod:AKK>
-<lod:DAT>ierdenen</lod:DAT>
-<lod:GEN>ierdenen</lod:GEN>
-</lod:S>
-</lod:SINGULIER>
-<lod:PLURIEL>
-<lod:MWS>
-<lod:NOM>ierden</lod:NOM>
-<lod:AKK>ierden</lod:AKK>
-<lod:DAT>ierdenen</lod:DAT>
-<lod:GEN>ierdener</lod:GEN>
-</lod:MWS>
-</lod:PLURIEL>
-</lod:POSITIV>
-</lod:DEKL>
-</lod:FLX-ADJ>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="IERDEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="IERDEN1ITE">ierden</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-ADJ>
+          <lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ"/>
+          <lod:TRAITEMENT-LING-ADJ>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="IERDEN1UNI1" lod:FREQ-EMPLOI="NORMAL">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">irden</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">en terre cuite</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">earthenware</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">de barro</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>hues de keng</lod:TEXTE>
+                        <lod:ABREV-AD>ierde</lod:ABREV-AD>
+                        <lod:TEXTE>Schossel?</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-ADJ>
+        </lod:MS-TYPE-ADJ>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>ierden</lod:POSITIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>ierdenen</lod:NOM>
+              <lod:AKK>ierdenen</lod:AKK>
+              <lod:DAT>ierdenen</lod:DAT>
+              <lod:GEN>ierdenen</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>ierden</lod:NOM>
+              <lod:AKK>ierden</lod:AKK>
+              <lod:DAT>ierdener</lod:DAT>
+              <lod:GEN>ierdener</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>ierdent</lod:NOM>
+              <lod:AKK>ierdent</lod:AKK>
+              <lod:DAT>ierdenen</lod:DAT>
+              <lod:GEN>ierdenen</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>ierden</lod:NOM>
+              <lod:AKK>ierden</lod:AKK>
+              <lod:DAT>ierdenen</lod:DAT>
+              <lod:GEN>ierdener</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
+  </lod:ITEM>
 </lod:LOD>

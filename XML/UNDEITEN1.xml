@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lod:LOD xmlns:lod="http://www.lod.lu/">
-<lod:ITEM>
-<lod:META lod:ID="UNDEITEN1" />
-<lod:ARTICLE>
-<lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="UNDEITEN1ITE">undeiten</lod:ITEM-ADRESSE>
-<lod:MICROSTRUCTURE>
-<lod:MS-TYPE-VRB>
-<lod:CAT-GRAM-VRB />
-<lod:VRB-AUXILIAIRE lod:AUXIL="HUNN" />
-<lod:PARTICIPE-PASSE>ugedeit</lod:PARTICIPE-PASSE>
-<lod:TRAITEMENT-LING-VRB>
-<lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF" />
-<lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS" />
-<lod:TRADUCTION-DOMINANTE>
-<lod:PAS-DE-TRAD-DOMIN />
-</lod:TRADUCTION-DOMINANTE>
-<lod:UNITE-TRAD>
-<lod:PAS-DE-TRAD-SUBORDONNANTE>
-<lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="UNDEITEN1UNI1">
-<lod:DOM-SPEC />
-<lod:MARQUE-USAGE />
-<lod:EQUIV-TRAD-ALL>
-<lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">andeuten</lod:ETA-EXPLICITE>
-<lod:RS-ETA-ABSENTE />
-</lod:EQUIV-TRAD-ALL>
-<lod:EQUIV-TRAD-FR>
-<lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">laisser entendre</lod:ETF-EXPLICITE>
-<lod:RS-ETF-PRESENTE>faire entrevoir</lod:RS-ETF-PRESENTE>
-</lod:EQUIV-TRAD-FR>
-<lod:EQUIV-TRAD-PO>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">dar a entender</lod:ETP-EXPLICITE>
-<lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">insinuar</lod:ETP-EXPLICITE>
-</lod:EQUIV-TRAD-PO>
-<lod:EXEMPLIFICATION>
-<lod:EXEMPLE>
-<lod:TEXTE-EX>
-<lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-<lod:ABREV-AD>undeiten</lod:ABREV-AD>
-<lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-</lod:TEXTE-EX>
-</lod:EXEMPLE>
-</lod:EXEMPLIFICATION>
-<lod:SYNONYMES>
-<lod:SYN-PRESENTS>
-<lod:TERME-SYN>duerchbl&#233;cke loossen</lod:TERME-SYN>
-<lod:TERME-SYN>ukl&#233;nge loossen</lod:TERME-SYN>
-</lod:SYN-PRESENTS>
-</lod:SYNONYMES>
-</lod:UNITE-DE-SENS>
-</lod:PAS-DE-TRAD-SUBORDONNANTE>
-</lod:UNITE-TRAD>
-</lod:TRAITEMENT-LING-VRB>
-</lod:MS-TYPE-VRB>
-</lod:MICROSTRUCTURE>
-</lod:ARTICLE>
-<lod:FLX-VRB>
-<lod:INFINITIF>undeiten</lod:INFINITIF>
-<lod:PART-PASS>ugedeit</lod:PART-PASS>
-<lod:INDICATIF>
-<lod:PRESENT>
-<lod:P1>deiten un</lod:P1>
-<lod:P2>deits un</lod:P2>
-<lod:P3>deit un</lod:P3>
-<lod:P4>deiten un</lod:P4>
-<lod:P5>deit un</lod:P5>
-<lod:P6>deiten un</lod:P6>
-</lod:PRESENT>
-<lod:PASSE-COMPOSE>
-<lod:P1>hunn ugedeit</lod:P1>
-<lod:P2>hues ugedeit</lod:P2>
-<lod:P3>huet ugedeit</lod:P3>
-<lod:P4>hunn ugedeit</lod:P4>
-<lod:P5>hutt ugedeit</lod:P5>
-<lod:P6>hunn ugedeit</lod:P6>
-</lod:PASSE-COMPOSE>
-<lod:PLUS-QUE-PARFAIT>
-<lod:P1>hat ugedeit</lod:P1>
-<lod:P2>has ugedeit</lod:P2>
-<lod:P3>hat ugedeit</lod:P3>
-<lod:P4>haten ugedeit</lod:P4>
-<lod:P5>hat ugedeit</lod:P5>
-<lod:P6>haten ugedeit</lod:P6>
-</lod:PLUS-QUE-PARFAIT>
-</lod:INDICATIF>
-<lod:CONDITIONNEL>
-<lod:PRESENT-COMPOSE>
-<lod:P1>g&#233;if undeiten</lod:P1>
-<lod:P2>g&#233;ifs undeiten</lod:P2>
-<lod:P3>g&#233;if undeiten</lod:P3>
-<lod:P4>g&#233;ifen undeiten</lod:P4>
-<lod:P5>g&#233;ift undeiten</lod:P5>
-<lod:P6>g&#233;ifen undeiten</lod:P6>
-</lod:PRESENT-COMPOSE>
-<lod:PASSE-COMPOSE>
-<lod:P1>h&#228;tt ugedeit</lod:P1>
-<lod:P2>h&#228;ss ugedeit</lod:P2>
-<lod:P3>h&#228;tt ugedeit</lod:P3>
-<lod:P4>h&#228;tten ugedeit</lod:P4>
-<lod:P5>h&#228;tt ugedeit</lod:P5>
-<lod:P6>h&#228;tten ugedeit</lod:P6>
-</lod:PASSE-COMPOSE>
-</lod:CONDITIONNEL>
-<lod:IMPERATIF>
-<lod:PRESENT>
-<lod:P2>deit un!</lod:P2>
-<lod:P5>deit un!</lod:P5>
-</lod:PRESENT>
-</lod:IMPERATIF>
-</lod:FLX-VRB>
-</lod:ITEM>
+  <lod:ITEM>
+    <lod:META lod:ID="UNDEITEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="UNDEITEN1ITE">undeiten</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
+          <lod:PARTICIPE-PASSE>ugedeit</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="UNDEITEN1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">andeuten</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">laisser entendre</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>faire entrevoir</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">dar a entender</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">insinuar</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>undeiten</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>duerchblécke loossen</lod:TERME-SYN>
+                      <lod:TERME-SYN>uklénge loossen</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>undeiten</lod:INFINITIF>
+      <lod:PART-PASS>ugedeit</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>deiten un</lod:P1>
+          <lod:P2>deits un</lod:P2>
+          <lod:P3>deit un</lod:P3>
+          <lod:P4>deiten un</lod:P4>
+          <lod:P5>deit un</lod:P5>
+          <lod:P6>deiten un</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hunn ugedeit</lod:P1>
+          <lod:P2>hues ugedeit</lod:P2>
+          <lod:P3>huet ugedeit</lod:P3>
+          <lod:P4>hunn ugedeit</lod:P4>
+          <lod:P5>hutt ugedeit</lod:P5>
+          <lod:P6>hunn ugedeit</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat ugedeit</lod:P1>
+          <lod:P2>has ugedeit</lod:P2>
+          <lod:P3>hat ugedeit</lod:P3>
+          <lod:P4>haten ugedeit</lod:P4>
+          <lod:P5>hat ugedeit</lod:P5>
+          <lod:P6>haten ugedeit</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif undeiten</lod:P1>
+          <lod:P2>géifs undeiten</lod:P2>
+          <lod:P3>géif undeiten</lod:P3>
+          <lod:P4>géifen undeiten</lod:P4>
+          <lod:P5>géift undeiten</lod:P5>
+          <lod:P6>géifen undeiten</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt ugedeit</lod:P1>
+          <lod:P2>häss ugedeit</lod:P2>
+          <lod:P3>hätt ugedeit</lod:P3>
+          <lod:P4>hätten ugedeit</lod:P4>
+          <lod:P5>hätt ugedeit</lod:P5>
+          <lod:P6>hätten ugedeit</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>deit un!</lod:P2>
+          <lod:P5>deit un!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
+  </lod:ITEM>
 </lod:LOD>
