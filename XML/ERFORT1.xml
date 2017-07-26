@@ -3,11 +3,13 @@
   <lod:ITEM>
     <lod:META lod:ID="ERFORT1"/>
     <lod:ARTICLE>
-      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="ERFORT1ITE">erfort</lod:ITEM-ADRESSE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="ERFORT1ITE">vun_@@@_erfort</lod:ITEM-ADRESSE>
       <lod:MICROSTRUCTURE>
-        <lod:MS-TYPE-ADV>
-          <lod:CAT-GRAM-ADV/>
-          <lod:TRAITEMENT-LING-ADV>
+        <lod:MS-TYPE-PREP>
+          <lod:CAT-GRAM-PREP/>
+          <lod:TRAITEMENT-LING-PREP>
+            <lod:CAS-ATTENDU lod:CAS="DATIF"/>
+            <lod:SPATIOTEMP lod:ST="AUTRE"/>
             <lod:TRADUCTION-DOMINANTE>
               <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
@@ -16,7 +18,6 @@
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ERFORT1UNI1">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
-                  <lod:UNITE-POLYLEX-LUX>vun ... erfort</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">von ... her</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-PRESENTE>aus einer bestimmten Richtung</lod:RS-ETA-PRESENTE>
@@ -37,8 +38,9 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>vun Norden</lod:TEXTE>
-                        <lod:ABREV-AD>e.</lod:ABREV-AD>
+                        <lod:ABREV-AD>vun</lod:ABREV-AD>
+                        <lod:TEXTE>Norden</lod:TEXTE>
+                        <lod:ABREV-AD>erfort</lod:ABREV-AD>
                         <lod:TEXTE>kënnt en Déifdrockgebitt op eis duer</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
@@ -49,8 +51,8 @@
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-ADV>
-        </lod:MS-TYPE-ADV>
+          </lod:TRAITEMENT-LING-PREP>
+        </lod:MS-TYPE-PREP>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
   </lod:ITEM>

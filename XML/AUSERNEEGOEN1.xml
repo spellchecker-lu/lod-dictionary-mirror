@@ -9,6 +9,7 @@
           <lod:CAT-GRAM-VRB/>
           <lod:VRB-AUXILIAIRE lod:AUXIL="SINN"/>
           <lod:PARTICIPE-PASSE>auserneegaangen</lod:PARTICIPE-PASSE>
+          <lod:PARTICIPE-PASSE>auserneegaang</lod:PARTICIPE-PASSE>
           <lod:TRAITEMENT-LING-VRB>
             <lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF"/>
             <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
@@ -34,6 +35,10 @@
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to split up</lod:ETE-EXPLICITE>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to separate</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">separar-se</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>desunir-se</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -67,6 +72,10 @@
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to diverge</lod:ETE-EXPLICITE>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to differ</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">divergir</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>diferir</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -99,6 +108,10 @@
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to fill out</lod:ETE-EXPLICITE>
                     <lod:RS-ETE-PRESENTE>to put on weight</lod:RS-ETE-PRESENTE>
                   </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ficar cheiinho</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">engordar</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
                       <lod:TEXTE-EX>
@@ -121,7 +134,7 @@
     </lod:ARTICLE>
     <lod:FLX-VRB>
       <lod:INFINITIF>auserneegoen</lod:INFINITIF>
-      <lod:PART-PASS>auserneegaangen</lod:PART-PASS>
+      <lod:PART-PASS>auserneegaangen / auserneegaang</lod:PART-PASS>
       <lod:INDICATIF>
         <lod:PRESENT>
           <lod:P1>ginn auserneen</lod:P1>
@@ -140,20 +153,20 @@
           <lod:P6>goungen auserneen</lod:P6>
         </lod:IMPARFAIT>
         <lod:PASSE-COMPOSE>
-          <lod:P1>sinn auserneegaangen</lod:P1>
-          <lod:P2>bass auserneegaangen</lod:P2>
-          <lod:P3>ass auserneegaangen</lod:P3>
-          <lod:P4>sinn auserneegaangen</lod:P4>
-          <lod:P5>sidd auserneegaangen</lod:P5>
-          <lod:P6>sinn auserneegaangen</lod:P6>
+          <lod:P1>sinn auserneegaangen / auserneegaang</lod:P1>
+          <lod:P2>bass auserneegaangen / auserneegaang</lod:P2>
+          <lod:P3>ass auserneegaangen / auserneegaang</lod:P3>
+          <lod:P4>sinn auserneegaangen / auserneegaang</lod:P4>
+          <lod:P5>sidd auserneegaangen / auserneegaang</lod:P5>
+          <lod:P6>sinn auserneegaangen / auserneegaang</lod:P6>
         </lod:PASSE-COMPOSE>
         <lod:PLUS-QUE-PARFAIT>
-          <lod:P1>war auserneegaangen</lod:P1>
-          <lod:P2>waars auserneegaangen</lod:P2>
-          <lod:P3>war auserneegaangen</lod:P3>
-          <lod:P4>waren auserneegaangen</lod:P4>
-          <lod:P5>waart auserneegaangen</lod:P5>
-          <lod:P6>waren auserneegaangen</lod:P6>
+          <lod:P1>war auserneegaangen / auserneegaang</lod:P1>
+          <lod:P2>waars auserneegaangen / auserneegaang</lod:P2>
+          <lod:P3>war auserneegaangen / auserneegaang</lod:P3>
+          <lod:P4>waren auserneegaangen / auserneegaang</lod:P4>
+          <lod:P5>waart auserneegaangen / auserneegaang</lod:P5>
+          <lod:P6>waren auserneegaangen / auserneegaang</lod:P6>
         </lod:PLUS-QUE-PARFAIT>
       </lod:INDICATIF>
       <lod:CONDITIONNEL>
@@ -174,12 +187,12 @@
           <lod:P6>géifen auserneegoen</lod:P6>
         </lod:PRESENT-COMPOSE>
         <lod:PASSE-COMPOSE>
-          <lod:P1>wier auserneegaangen</lod:P1>
-          <lod:P2>wiers auserneegaangen</lod:P2>
-          <lod:P3>wier auserneegaangen</lod:P3>
-          <lod:P4>wieren auserneegaangen</lod:P4>
-          <lod:P5>wiert auserneegaangen</lod:P5>
-          <lod:P6>wieren auserneegaangen</lod:P6>
+          <lod:P1>wier auserneegaangen / auserneegaang</lod:P1>
+          <lod:P2>wiers auserneegaangen / auserneegaang</lod:P2>
+          <lod:P3>wier auserneegaangen / auserneegaang</lod:P3>
+          <lod:P4>wieren auserneegaangen / auserneegaang</lod:P4>
+          <lod:P5>wiert auserneegaangen / auserneegaang</lod:P5>
+          <lod:P6>wieren auserneegaangen / auserneegaang</lod:P6>
         </lod:PASSE-COMPOSE>
       </lod:CONDITIONNEL>
       <lod:IMPERATIF>

@@ -9,8 +9,9 @@
           <lod:CAT-GRAM-VRB/>
           <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
           <lod:PARTICIPE-PASSE>virbehalen</lod:PARTICIPE-PASSE>
+          <lod:PARTICIPE-PASSE>virbehal</lod:PARTICIPE-PASSE>
           <lod:TRAITEMENT-LING-VRB>
-            <lod:REFLEX-PRONOM lod:REFPRON="PRONOM"/>
+            <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
             <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
             <lod:TRADUCTION-DOMINANTE>
               <lod:PAS-DE-TRAD-DOMIN/>
@@ -20,16 +21,18 @@
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="VIRBEHALEN1UNI1">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
+                  <lod:UNITE-POLYLEX-LUX>sech eppes virbehalen</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sich vorbehalten</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sich etwas vorbehalten</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se réserver (la possibilité de)</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se réserver quelque chose</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>une possibilité</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">reservar-se (a possibilidade de)</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">reservar-se algo</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>uma possibilidade</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
@@ -52,63 +55,63 @@
     </lod:ARTICLE>
     <lod:FLX-VRB>
       <lod:INFINITIF>virbehalen</lod:INFINITIF>
-      <lod:PART-PASS>virbehalen</lod:PART-PASS>
+      <lod:PART-PASS>virbehalen / virbehal</lod:PART-PASS>
       <lod:INDICATIF>
         <lod:PRESENT>
-          <lod:P1>behale mech vir</lod:P1>
-          <lod:P2>behäls dech vir</lod:P2>
-          <lod:P3>behält sech vir</lod:P3>
-          <lod:P4>behalen eis vir</lod:P4>
-          <lod:P5>behaalt iech vir</lod:P5>
-          <lod:P6>behalen sech vir</lod:P6>
+          <lod:P1>behale vir</lod:P1>
+          <lod:P2>behäls vir</lod:P2>
+          <lod:P3>behält vir</lod:P3>
+          <lod:P4>behale vir</lod:P4>
+          <lod:P5>behaalt vir</lod:P5>
+          <lod:P6>behale vir</lod:P6>
         </lod:PRESENT>
         <lod:PASSE-COMPOSE>
-          <lod:P1>hu mech virbehalen</lod:P1>
-          <lod:P2>hues dech virbehalen</lod:P2>
-          <lod:P3>huet sech virbehalen</lod:P3>
-          <lod:P4>hunn eis virbehalen</lod:P4>
-          <lod:P5>hutt iech virbehalen</lod:P5>
-          <lod:P6>hunn sech virbehalen</lod:P6>
+          <lod:P1>hu virbehalen / virbehal</lod:P1>
+          <lod:P2>hues virbehalen / virbehal</lod:P2>
+          <lod:P3>huet virbehalen / virbehal</lod:P3>
+          <lod:P4>hu virbehalen / virbehal</lod:P4>
+          <lod:P5>hutt virbehalen / virbehal</lod:P5>
+          <lod:P6>hu virbehalen / virbehal</lod:P6>
         </lod:PASSE-COMPOSE>
         <lod:PLUS-QUE-PARFAIT>
-          <lod:P1>hat mech virbehalen</lod:P1>
-          <lod:P2>has dech virbehalen</lod:P2>
-          <lod:P3>hat sech virbehalen</lod:P3>
-          <lod:P4>haten eis virbehalen</lod:P4>
-          <lod:P5>hat iech virbehalen</lod:P5>
-          <lod:P6>haten sech virbehalen</lod:P6>
+          <lod:P1>hat virbehalen / virbehal</lod:P1>
+          <lod:P2>has virbehalen / virbehal</lod:P2>
+          <lod:P3>hat virbehalen / virbehal</lod:P3>
+          <lod:P4>hate virbehalen / virbehal</lod:P4>
+          <lod:P5>hat virbehalen / virbehal</lod:P5>
+          <lod:P6>hate virbehalen / virbehal</lod:P6>
         </lod:PLUS-QUE-PARFAIT>
       </lod:INDICATIF>
       <lod:CONDITIONNEL>
         <lod:PRESENT-SIMPLE>
-          <lod:P1>behéil mech vir</lod:P1>
-          <lod:P2>behéils dech vir</lod:P2>
-          <lod:P3>behéil sech vir</lod:P3>
-          <lod:P4>behéilen eis vir</lod:P4>
-          <lod:P5>behéilt iech vir</lod:P5>
-          <lod:P6>behéilen sech vir</lod:P6>
+          <lod:P1>behéil vir</lod:P1>
+          <lod:P2>behéils vir</lod:P2>
+          <lod:P3>behéil vir</lod:P3>
+          <lod:P4>behéile vir</lod:P4>
+          <lod:P5>behéilt vir</lod:P5>
+          <lod:P6>behéile vir</lod:P6>
         </lod:PRESENT-SIMPLE>
         <lod:PRESENT-COMPOSE>
-          <lod:P1>géif mech virbehalen</lod:P1>
-          <lod:P2>géifs dech virbehalen</lod:P2>
-          <lod:P3>géif sech virbehalen</lod:P3>
-          <lod:P4>géifen eis virbehalen</lod:P4>
-          <lod:P5>géift iech virbehalen</lod:P5>
-          <lod:P6>géifen sech virbehalen</lod:P6>
+          <lod:P1>géif virbehalen</lod:P1>
+          <lod:P2>géifs virbehalen</lod:P2>
+          <lod:P3>géif virbehalen</lod:P3>
+          <lod:P4>géife virbehalen</lod:P4>
+          <lod:P5>géift virbehalen</lod:P5>
+          <lod:P6>géife virbehalen</lod:P6>
         </lod:PRESENT-COMPOSE>
         <lod:PASSE-COMPOSE>
-          <lod:P1>hätt mech virbehalen</lod:P1>
-          <lod:P2>häss dech virbehalen</lod:P2>
-          <lod:P3>hätt sech virbehalen</lod:P3>
-          <lod:P4>hätten eis virbehalen</lod:P4>
-          <lod:P5>hätt iech virbehalen</lod:P5>
-          <lod:P6>hätten sech virbehalen</lod:P6>
+          <lod:P1>hätt virbehalen / virbehal</lod:P1>
+          <lod:P2>häss virbehalen / virbehal</lod:P2>
+          <lod:P3>hätt virbehalen / virbehal</lod:P3>
+          <lod:P4>hätte virbehalen / virbehal</lod:P4>
+          <lod:P5>hätt virbehalen / virbehal</lod:P5>
+          <lod:P6>hätte virbehalen / virbehal</lod:P6>
         </lod:PASSE-COMPOSE>
       </lod:CONDITIONNEL>
       <lod:IMPERATIF>
         <lod:PRESENT>
-          <lod:P2>behal dech vir!</lod:P2>
-          <lod:P5>behaalt iech vir!</lod:P5>
+          <lod:P2>behal vir!</lod:P2>
+          <lod:P5>behaalt vir!</lod:P5>
         </lod:PRESENT>
       </lod:IMPERATIF>
     </lod:FLX-VRB>

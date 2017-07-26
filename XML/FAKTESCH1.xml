@@ -5,9 +5,9 @@
     <lod:ARTICLE>
       <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="FAKTESCH1ITE">faktesch</lod:ITEM-ADRESSE>
       <lod:MICROSTRUCTURE>
-        <lod:MS-TYPE-ADV>
-          <lod:CAT-GRAM-ADV/>
-          <lod:TRAITEMENT-LING-ADV>
+        <lod:MS-TYPE-ADJ>
+          <lod:CAT-GRAM-ADJ/>
+          <lod:TRAITEMENT-LING-ADJ>
             <lod:TRADUCTION-DOMINANTE>
               <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
@@ -57,9 +57,46 @@
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-ADV>
-        </lod:MS-TYPE-ADV>
+          </lod:TRAITEMENT-LING-ADJ>
+        </lod:MS-TYPE-ADJ>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>faktesch</lod:POSITIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>fakteschen</lod:NOM>
+              <lod:AKK>fakteschen</lod:AKK>
+              <lod:DAT>fakteschen</lod:DAT>
+              <lod:GEN>fakteschen</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>faktesch</lod:NOM>
+              <lod:AKK>faktesch</lod:AKK>
+              <lod:DAT>faktescher</lod:DAT>
+              <lod:GEN>faktescher</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>faktescht</lod:NOM>
+              <lod:AKK>faktescht</lod:AKK>
+              <lod:DAT>fakteschen</lod:DAT>
+              <lod:GEN>fakteschen</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>faktesch</lod:NOM>
+              <lod:AKK>faktesch</lod:AKK>
+              <lod:DAT>fakteschen</lod:DAT>
+              <lod:GEN>faktescher</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
   </lod:ITEM>
 </lod:LOD>

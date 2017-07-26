@@ -9,6 +9,7 @@
           <lod:CAT-GRAM-VRB/>
           <lod:VRB-AUXILIAIRE lod:AUXIL="SINN"/>
           <lod:PARTICIPE-PASSE>gesprongen</lod:PARTICIPE-PASSE>
+          <lod:PARTICIPE-PASSE>gesprong</lod:PARTICIPE-PASSE>
           <lod:TRAITEMENT-LING-VRB>
             <lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF"/>
             <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
@@ -32,6 +33,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">bondir</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to jump</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>to leap</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">saltar</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">saltitar</lod:ETP-EXPLICITE>
@@ -133,6 +138,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se fêler</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to crack</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>to break</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">rachar</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">estalar</lod:ETP-EXPLICITE>
@@ -158,6 +167,7 @@
           <lod:CAT-GRAM-VRB/>
           <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
           <lod:PARTICIPE-PASSE>gesprongen</lod:PARTICIPE-PASSE>
+          <lod:PARTICIPE-PASSE>gesprong</lod:PARTICIPE-PASSE>
           <lod:TRAITEMENT-LING-VRB>
             <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
             <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
@@ -179,6 +189,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">saillir</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to mount</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>to mate with</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">padrear</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">cobrir</lod:ETP-EXPLICITE>
@@ -205,7 +219,7 @@
     </lod:ARTICLE>
     <lod:FLX-VRB>
       <lod:INFINITIF>sprangen</lod:INFINITIF>
-      <lod:PART-PASS>gesprongen</lod:PART-PASS>
+      <lod:PART-PASS>gesprongen / gesprong</lod:PART-PASS>
       <lod:INDICATIF>
         <lod:PRESENT>
           <lod:P1>sprangen</lod:P1>
@@ -216,20 +230,20 @@
           <lod:P6>sprangen</lod:P6>
         </lod:PRESENT>
         <lod:PASSE-COMPOSE>
-          <lod:P1>si gesprongen</lod:P1>
-          <lod:P2>bass gesprongen</lod:P2>
-          <lod:P3>ass gesprongen</lod:P3>
-          <lod:P4>si gesprongen</lod:P4>
-          <lod:P5>sidd gesprongen</lod:P5>
-          <lod:P6>si gesprongen</lod:P6>
+          <lod:P1>si gesprongen / gesprong</lod:P1>
+          <lod:P2>bass gesprongen / gesprong</lod:P2>
+          <lod:P3>ass gesprongen / gesprong</lod:P3>
+          <lod:P4>si gesprongen / gesprong</lod:P4>
+          <lod:P5>sidd gesprongen / gesprong</lod:P5>
+          <lod:P6>si gesprongen / gesprong</lod:P6>
         </lod:PASSE-COMPOSE>
         <lod:PLUS-QUE-PARFAIT>
-          <lod:P1>war gesprongen</lod:P1>
-          <lod:P2>waars gesprongen</lod:P2>
-          <lod:P3>war gesprongen</lod:P3>
-          <lod:P4>ware gesprongen</lod:P4>
-          <lod:P5>waart gesprongen</lod:P5>
-          <lod:P6>ware gesprongen</lod:P6>
+          <lod:P1>war gesprongen / gesprong</lod:P1>
+          <lod:P2>waars gesprongen / gesprong</lod:P2>
+          <lod:P3>war gesprongen / gesprong</lod:P3>
+          <lod:P4>ware gesprongen / gesprong</lod:P4>
+          <lod:P5>waart gesprongen / gesprong</lod:P5>
+          <lod:P6>ware gesprongen / gesprong</lod:P6>
         </lod:PLUS-QUE-PARFAIT>
       </lod:INDICATIF>
       <lod:CONDITIONNEL>
@@ -242,12 +256,12 @@
           <lod:P6>géife sprangen</lod:P6>
         </lod:PRESENT-COMPOSE>
         <lod:PASSE-COMPOSE>
-          <lod:P1>wier gesprongen</lod:P1>
-          <lod:P2>wiers gesprongen</lod:P2>
-          <lod:P3>wier gesprongen</lod:P3>
-          <lod:P4>wiere gesprongen</lod:P4>
-          <lod:P5>wiert gesprongen</lod:P5>
-          <lod:P6>wiere gesprongen</lod:P6>
+          <lod:P1>wier gesprongen / gesprong</lod:P1>
+          <lod:P2>wiers gesprongen / gesprong</lod:P2>
+          <lod:P3>wier gesprongen / gesprong</lod:P3>
+          <lod:P4>wiere gesprongen / gesprong</lod:P4>
+          <lod:P5>wiert gesprongen / gesprong</lod:P5>
+          <lod:P6>wiere gesprongen / gesprong</lod:P6>
         </lod:PASSE-COMPOSE>
       </lod:CONDITIONNEL>
       <lod:IMPERATIF>
@@ -262,12 +276,12 @@
           <lod:P6>sprangen</lod:P6>
         </lod:PRESENT>
         <lod:PASSE-COMPOSE>
-          <lod:P3>huet gesprongen</lod:P3>
-          <lod:P6>hu gesprongen</lod:P6>
+          <lod:P3>huet gesprongen / gesprong</lod:P3>
+          <lod:P6>hu gesprongen / gesprong</lod:P6>
         </lod:PASSE-COMPOSE>
         <lod:PLUS-QUE-PARFAIT>
-          <lod:P3>hat gesprongen</lod:P3>
-          <lod:P6>hate gesprongen</lod:P6>
+          <lod:P3>hat gesprongen / gesprong</lod:P3>
+          <lod:P6>hate gesprongen / gesprong</lod:P6>
         </lod:PLUS-QUE-PARFAIT>
       </lod:INDICATIF>
       <lod:CONDITIONNEL>
@@ -276,8 +290,8 @@
           <lod:P6>géife sprangen</lod:P6>
         </lod:PRESENT-COMPOSE>
         <lod:PASSE-COMPOSE>
-          <lod:P3>hätt gesprongen</lod:P3>
-          <lod:P6>hätte gesprongen</lod:P6>
+          <lod:P3>hätt gesprongen / gesprong</lod:P3>
+          <lod:P6>hätte gesprongen / gesprong</lod:P6>
         </lod:PASSE-COMPOSE>
       </lod:CONDITIONNEL>
     </lod:FLX-VRB>

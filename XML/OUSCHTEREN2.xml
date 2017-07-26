@@ -7,12 +7,14 @@
       <lod:MICROSTRUCTURE>
         <lod:MS-TYPE-SUBST>
           <lod:CAT-GRAM-SUBST/>
-          <lod:GENRE lod:GEN="INDEF"/>
+          <lod:GENRE lod:GEN="N"/>
           <lod:TYPE-SUBST>
             <lod:SUBST-SIMPLE/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:PLURALE-TANTUM/>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="IRREGULIER">Ouschteren</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
@@ -40,6 +42,12 @@
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">(domingo de) Páscoa</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:ABREV-AD>Ouschtere</lod:ABREV-AD>
+                        <lod:TEXTE>fält dëst Joer op e Sonndeg</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>dëst Joer falen d'</lod:TEXTE>

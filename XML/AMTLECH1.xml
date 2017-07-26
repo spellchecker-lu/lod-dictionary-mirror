@@ -19,6 +19,8 @@
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">amtlich</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">offiziell</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">officiel</lod:ETF-EXPLICITE>
@@ -64,8 +66,6 @@
     <lod:FLX-ADJ>
       <lod:GRONDFORMEN>
         <lod:POSITIV>amtlech</lod:POSITIV>
-        <lod:KOMPARATIV>méi amtlech</lod:KOMPARATIV>
-        <lod:SUPERLATIV>am amtlechsten</lod:SUPERLATIV>
       </lod:GRONDFORMEN>
       <lod:DEKL>
         <lod:POSITIV>
@@ -98,36 +98,6 @@
             </lod:MWS>
           </lod:PLURIEL>
         </lod:POSITIV>
-        <lod:SUPERLATIV>
-          <lod:SINGULIER>
-            <lod:M>
-              <lod:NOM>amtlechsten</lod:NOM>
-              <lod:AKK>amtlechsten</lod:AKK>
-              <lod:DAT>amtlechsten</lod:DAT>
-              <lod:GEN>amtlechsten</lod:GEN>
-            </lod:M>
-            <lod:W>
-              <lod:NOM>amtlechst</lod:NOM>
-              <lod:AKK>amtlechst</lod:AKK>
-              <lod:DAT>amtlechster</lod:DAT>
-              <lod:GEN>amtlechster</lod:GEN>
-            </lod:W>
-            <lod:S>
-              <lod:NOM>amtlechst</lod:NOM>
-              <lod:AKK>amtlechst</lod:AKK>
-              <lod:DAT>amtlechsten</lod:DAT>
-              <lod:GEN>amtlechsten</lod:GEN>
-            </lod:S>
-          </lod:SINGULIER>
-          <lod:PLURIEL>
-            <lod:MWS>
-              <lod:NOM>amtlechst</lod:NOM>
-              <lod:AKK>amtlechst</lod:AKK>
-              <lod:DAT>amtlechsten</lod:DAT>
-              <lod:GEN>amtlechster</lod:GEN>
-            </lod:MWS>
-          </lod:PLURIEL>
-        </lod:SUPERLATIV>
       </lod:DEKL>
     </lod:FLX-ADJ>
   </lod:ITEM>

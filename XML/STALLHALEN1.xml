@@ -9,6 +9,7 @@
           <lod:CAT-GRAM-VRB/>
           <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
           <lod:PARTICIPE-PASSE>stallgehalen</lod:PARTICIPE-PASSE>
+          <lod:PARTICIPE-PASSE>stallgehal</lod:PARTICIPE-PASSE>
           <lod:TRAITEMENT-LING-VRB>
             <lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF"/>
             <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
@@ -30,6 +31,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">s'arrêter</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>conducteur, véhicule</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to stop</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>driver, vehicle</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">parar</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>condutor, veículo</lod:RS-ETP-PRESENTE>
@@ -75,6 +80,9 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">rester immobile</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to keep still</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">não se mexer</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ficar quieto</lod:ETP-EXPLICITE>
@@ -105,6 +113,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">ne pas réagir</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to remain quiet</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to do nothing</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">encolher-se</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">não reagir</lod:ETP-EXPLICITE>
@@ -130,7 +142,7 @@
     </lod:ARTICLE>
     <lod:FLX-VRB>
       <lod:INFINITIF>stallhalen</lod:INFINITIF>
-      <lod:PART-PASS>stallgehalen</lod:PART-PASS>
+      <lod:PART-PASS>stallgehalen / stallgehal</lod:PART-PASS>
       <lod:INDICATIF>
         <lod:PRESENT>
           <lod:P1>hale stall</lod:P1>
@@ -149,20 +161,20 @@
           <lod:P6>houle stall</lod:P6>
         </lod:IMPARFAIT>
         <lod:PASSE-COMPOSE>
-          <lod:P1>hu stallgehalen</lod:P1>
-          <lod:P2>hues stallgehalen</lod:P2>
-          <lod:P3>huet stallgehalen</lod:P3>
-          <lod:P4>hu stallgehalen</lod:P4>
-          <lod:P5>hutt stallgehalen</lod:P5>
-          <lod:P6>hu stallgehalen</lod:P6>
+          <lod:P1>hu stallgehalen / stallgehal</lod:P1>
+          <lod:P2>hues stallgehalen / stallgehal</lod:P2>
+          <lod:P3>huet stallgehalen / stallgehal</lod:P3>
+          <lod:P4>hu stallgehalen / stallgehal</lod:P4>
+          <lod:P5>hutt stallgehalen / stallgehal</lod:P5>
+          <lod:P6>hu stallgehalen / stallgehal</lod:P6>
         </lod:PASSE-COMPOSE>
         <lod:PLUS-QUE-PARFAIT>
-          <lod:P1>hat stallgehalen</lod:P1>
-          <lod:P2>has stallgehalen</lod:P2>
-          <lod:P3>hat stallgehalen</lod:P3>
-          <lod:P4>hate stallgehalen</lod:P4>
-          <lod:P5>hat stallgehalen</lod:P5>
-          <lod:P6>hate stallgehalen</lod:P6>
+          <lod:P1>hat stallgehalen / stallgehal</lod:P1>
+          <lod:P2>has stallgehalen / stallgehal</lod:P2>
+          <lod:P3>hat stallgehalen / stallgehal</lod:P3>
+          <lod:P4>hate stallgehalen / stallgehal</lod:P4>
+          <lod:P5>hat stallgehalen / stallgehal</lod:P5>
+          <lod:P6>hate stallgehalen / stallgehal</lod:P6>
         </lod:PLUS-QUE-PARFAIT>
       </lod:INDICATIF>
       <lod:CONDITIONNEL>
@@ -183,12 +195,12 @@
           <lod:P6>géife stallhalen</lod:P6>
         </lod:PRESENT-COMPOSE>
         <lod:PASSE-COMPOSE>
-          <lod:P1>hätt stallgehalen</lod:P1>
-          <lod:P2>häss stallgehalen</lod:P2>
-          <lod:P3>hätt stallgehalen</lod:P3>
-          <lod:P4>hätte stallgehalen</lod:P4>
-          <lod:P5>hätt stallgehalen</lod:P5>
-          <lod:P6>hätte stallgehalen</lod:P6>
+          <lod:P1>hätt stallgehalen / stallgehal</lod:P1>
+          <lod:P2>häss stallgehalen / stallgehal</lod:P2>
+          <lod:P3>hätt stallgehalen / stallgehal</lod:P3>
+          <lod:P4>hätte stallgehalen / stallgehal</lod:P4>
+          <lod:P5>hätt stallgehalen / stallgehal</lod:P5>
+          <lod:P6>hätte stallgehalen / stallgehal</lod:P6>
         </lod:PASSE-COMPOSE>
       </lod:CONDITIONNEL>
       <lod:IMPERATIF>

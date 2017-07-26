@@ -9,6 +9,7 @@
           <lod:CAT-GRAM-VRB/>
           <lod:VRB-AUXILIAIRE lod:AUXIL="SINN"/>
           <lod:PARTICIPE-PASSE>weidergaangen</lod:PARTICIPE-PASSE>
+          <lod:PARTICIPE-PASSE>weidergaang</lod:PARTICIPE-PASSE>
           <lod:TRAITEMENT-LING-VRB>
             <lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF"/>
             <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
@@ -27,6 +28,10 @@
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">poursuivre son chemin</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">passer</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">circuler (sans s'arrêter)</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">continuer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
@@ -40,19 +45,18 @@
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">prosseguir</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                    <lod:EXEMPLE>
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>si hu sech frëndlech begréisst a</lod:TEXTE>
-                        <lod:ABREV-AD>sinn</lod:ABREV-AD>
-                        <lod:TEXTE>zesumme</lod:TEXTE>
-                        <lod:ABREV-AD>weidergaangen</lod:ABREV-AD>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>weidergoen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>de Polizist sot zu de Leit, se sollte</lod:TEXTE>
                         <lod:ABREV-AD>w.</lod:ABREV-AD>
-                        <lod:TEXTE>an net afen</lod:TEXTE>
+                        <lod:TEXTE>amplaz ze afen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -70,12 +74,14 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">weiterführen, verlaufen</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">weiterführen, verlaufen, reichen</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">continuer</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>se prolonger, s'étendre plus loin</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">s'étendre</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>se prolonger</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to go on</lod:ETE-EXPLICITE>
@@ -93,6 +99,13 @@
                         <lod:ABREV-AD>geet</lod:ABREV-AD>
                         <lod:TEXTE>de Wee net méi</lod:TEXTE>
                         <lod:ABREV-AD>weider</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>dëse Bësch</lod:TEXTE>
+                        <lod:ABREV-AD>geet weider</lod:ABREV-AD>
+                        <lod:TEXTE>bis op d'Grenz</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -135,23 +148,15 @@
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>esou däerf et dach net</lod:TEXTE>
+                        <lod:TEXTE>esou kann et dach net</lod:TEXTE>
                         <lod:ABREV-AD>w.</lod:ABREV-AD>
                         <lod:TEXTE>!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Leit am Krisegebitt wëssen net, wéi et wäert</lod:TEXTE>
+                        <lod:TEXTE>d'Leit am Krisegebitt wëssen net, wéi et soll</lod:TEXTE>
                         <lod:ABREV-AD>w.</lod:ABREV-AD>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>erbloost Iech e bëssen, et</lod:TEXTE>
-                        <lod:ABREV-AD>geet</lod:ABREV-AD>
-                        <lod:TEXTE>gläich erëm</lod:TEXTE>
-                        <lod:ABREV-AD>weider</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -169,7 +174,7 @@
     </lod:ARTICLE>
     <lod:FLX-VRB>
       <lod:INFINITIF>weidergoen</lod:INFINITIF>
-      <lod:PART-PASS>weidergaangen</lod:PART-PASS>
+      <lod:PART-PASS>weidergaangen / weidergaang</lod:PART-PASS>
       <lod:INDICATIF>
         <lod:PRESENT>
           <lod:P1>gi weider</lod:P1>
@@ -188,20 +193,20 @@
           <lod:P6>gounge weider</lod:P6>
         </lod:IMPARFAIT>
         <lod:PASSE-COMPOSE>
-          <lod:P1>si weidergaangen</lod:P1>
-          <lod:P2>bass weidergaangen</lod:P2>
-          <lod:P3>ass weidergaangen</lod:P3>
-          <lod:P4>si weidergaangen</lod:P4>
-          <lod:P5>sidd weidergaangen</lod:P5>
-          <lod:P6>si weidergaangen</lod:P6>
+          <lod:P1>si weidergaangen / weidergaang</lod:P1>
+          <lod:P2>bass weidergaangen / weidergaang</lod:P2>
+          <lod:P3>ass weidergaangen / weidergaang</lod:P3>
+          <lod:P4>si weidergaangen / weidergaang</lod:P4>
+          <lod:P5>sidd weidergaangen / weidergaang</lod:P5>
+          <lod:P6>si weidergaangen / weidergaang</lod:P6>
         </lod:PASSE-COMPOSE>
         <lod:PLUS-QUE-PARFAIT>
-          <lod:P1>war weidergaangen</lod:P1>
-          <lod:P2>waars weidergaangen</lod:P2>
-          <lod:P3>war weidergaangen</lod:P3>
-          <lod:P4>ware weidergaangen</lod:P4>
-          <lod:P5>waart weidergaangen</lod:P5>
-          <lod:P6>ware weidergaangen</lod:P6>
+          <lod:P1>war weidergaangen / weidergaang</lod:P1>
+          <lod:P2>waars weidergaangen / weidergaang</lod:P2>
+          <lod:P3>war weidergaangen / weidergaang</lod:P3>
+          <lod:P4>ware weidergaangen / weidergaang</lod:P4>
+          <lod:P5>waart weidergaangen / weidergaang</lod:P5>
+          <lod:P6>ware weidergaangen / weidergaang</lod:P6>
         </lod:PLUS-QUE-PARFAIT>
       </lod:INDICATIF>
       <lod:CONDITIONNEL>
@@ -222,12 +227,12 @@
           <lod:P6>géife weidergoen</lod:P6>
         </lod:PRESENT-COMPOSE>
         <lod:PASSE-COMPOSE>
-          <lod:P1>wier weidergaangen</lod:P1>
-          <lod:P2>wiers weidergaangen</lod:P2>
-          <lod:P3>wier weidergaangen</lod:P3>
-          <lod:P4>wiere weidergaangen</lod:P4>
-          <lod:P5>wiert weidergaangen</lod:P5>
-          <lod:P6>wiere weidergaangen</lod:P6>
+          <lod:P1>wier weidergaangen / weidergaang</lod:P1>
+          <lod:P2>wiers weidergaangen / weidergaang</lod:P2>
+          <lod:P3>wier weidergaangen / weidergaang</lod:P3>
+          <lod:P4>wiere weidergaangen / weidergaang</lod:P4>
+          <lod:P5>wiert weidergaangen / weidergaang</lod:P5>
+          <lod:P6>wiere weidergaangen / weidergaang</lod:P6>
         </lod:PASSE-COMPOSE>
       </lod:CONDITIONNEL>
       <lod:IMPERATIF>

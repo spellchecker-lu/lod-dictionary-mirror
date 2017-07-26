@@ -24,27 +24,21 @@
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">gewöhnen (an)</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">erziehen (zu)</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">habituer (à)</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>accoutumer (à)</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">éduquer (à)</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to get used (to)</lod:ETE-EXPLICITE>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to be used (to)</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">habituar (a)</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>acostumar (a)</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Elteren</lod:TEXTE>
-                        <lod:ABREV-AD>hunn</lod:ABREV-AD>
-                        <lod:TEXTE>hiert Kand fréi dru</lod:TEXTE>
-                        <lod:ABREV-AD>gewinnt</lod:ABREV-AD>
-                        <lod:TEXTE>, eleng ze sinn</lod:TEXTE>
+                        <lod:TEXTE>d'Eltere sollen d'Kanner dru</lod:TEXTE>
+                        <lod:ABREV-AD>w.</lod:ABREV-AD>
+                        <lod:TEXTE>, fir matzäit schlofen ze goen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE>
@@ -54,38 +48,6 @@
                         <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-PRESENTS>
-                      <lod:TERME-SYN>gewinnen (un)</lod:TERME-SYN>
-                    </lod:SYN-PRESENTS>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="WINNEN1UNI1">
-                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
-                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">erziehen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>großziehen</lod:RS-ETA-PRESENTE>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">éduquer</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to bring up</lod:ETE-EXPLICITE>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to raise</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>children</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">educar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>criar</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>si</lod:TEXTE>
@@ -95,19 +57,21 @@
                         <lod:TEXTE>, datt se sech néierens kënne mat hinne weisen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>wéi een d'Kanner</lod:TEXTE>
                         <lod:ABREV-AD>winnt</lod:ABREV-AD>
                         <lod:TEXTE>, esou huet een se</lod:TEXTE>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>et ass ee selwer responsabel fir den eegene Kanner hir Erzéiung</lod:TEXTE>
+                        <lod:TEXTE>et spiert ee selwer d'Konsequenze vun der Erzéiung, déi ee senge Kanner gëtt</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>gewinnen (un)</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -144,14 +108,14 @@
                       <lod:TEXTE-EX>
                         <lod:TEXTE>meng Ae</lod:TEXTE>
                         <lod:ABREV-AD>w.</lod:ABREV-AD>
-                        <lod:TEXTE>sech lues a lues un d'Däischtert</lod:TEXTE>
+                        <lod:TEXTE>sech nëmme lues un d'Däischtert</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>et</lod:TEXTE>
                         <lod:ABREV-AD>winnt</lod:ABREV-AD>
-                        <lod:TEXTE>een sech un alles</lod:TEXTE>
+                        <lod:TEXTE>een sech un alles!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

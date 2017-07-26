@@ -28,7 +28,7 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">se déplacer en avant</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">se déplacer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
@@ -36,16 +36,12 @@
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to advance</lod:ETE-EXPLICITE>
                     <lod:RS-ETE-PRESENTE>to move forwards</lod:RS-ETE-PRESENTE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">avançar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>andar para a frente</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>wéinst dem Schnéi</lod:TEXTE>
                         <lod:ABREV-AD>si</lod:ABREV-AD>
-                        <lod:TEXTE>mer op der Streck nëmme lues</lod:TEXTE>
+                        <lod:TEXTE>mer nëmme lues</lod:TEXTE>
                         <lod:ABREV-AD>weiderkomm</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
@@ -68,18 +64,15 @@
                     <lod:RS-ETA-PRESENTE>Fortschritte machen</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">progresser</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>faire des progrès, évoluer</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">faire des progrès</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">réussir</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>avoir du succès</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to get on</lod:ETE-EXPLICITE>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to make progress</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">avançar</lod:ETP-EXPLICITE>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">progredir</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>fazer progressos, evoluir</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -89,17 +82,17 @@
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>wien an dësem Betrib wëllt</lod:TEXTE>
-                        <lod:ABREV-AD>w.</lod:ABREV-AD>
-                        <lod:TEXTE>, muss léieren, sech ze fügen</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
                         <lod:TEXTE>d'Aarbechten um Chantier</lod:TEXTE>
                         <lod:ABREV-AD>komme</lod:ABREV-AD>
                         <lod:TEXTE>gutt</lod:TEXTE>
                         <lod:ABREV-AD>weider</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>wien an dësem Betrib wëllt</lod:TEXTE>
+                        <lod:ABREV-AD>w.</lod:ABREV-AD>
+                        <lod:TEXTE>, muss léieren, sech ze fügen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

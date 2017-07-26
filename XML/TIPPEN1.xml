@@ -147,7 +147,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="TIPPEN1UNI3">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="INFO"/>
                   <lod:MARQUE-USAGE/>
                   <lod:UNITE-POLYLEX-LUX>tippen op / tippe widder</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
@@ -157,12 +157,14 @@
                     <lod:RS-ETA-PRESENTE>berühren</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tapoter, toucher</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>du bout du doigt</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tapoter</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">toucher</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>du bout du doigt, à l'aide d'un périphérique informatique</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">tocar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>com a ponta do dedo</lod:RS-ETP-PRESENTE>
+                    <lod:RS-ETP-PRESENTE>com a ponta do dedo, por meio de um periférico informático</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">

@@ -9,6 +9,7 @@
           <lod:CAT-GRAM-VRB/>
           <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
           <lod:PARTICIPE-PASSE>opgehaangen</lod:PARTICIPE-PASSE>
+          <lod:PARTICIPE-PASSE>opgehaang</lod:PARTICIPE-PASSE>
           <lod:TRAITEMENT-LING-VRB>
             <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
             <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
@@ -141,6 +142,7 @@
                         <lod:ABREV-AD>huet</lod:ABREV-AD>
                         <lod:TEXTE>iech eng</lod:TEXTE>
                         <lod:ABREV-AD>opgehaangen</lod:ABREV-AD>
+                        <lod:TEXTE>!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
@@ -201,9 +203,10 @@
                       <lod:TEXTE-EX>
                         <lod:TEXTE>wéinst esou enger Klengegkeet brauchs de dech net</lod:TEXTE>
                         <lod:ABREV-AD>opzehänken</lod:ABREV-AD>
+                        <lod:TEXTE>!</lod:TEXTE>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>wéinst esou enger Klengegkeet brauchs de net ze verzweiwelen</lod:TEXTE>
+                        <lod:TEXTE>wéinst esou enger Klengegkeet brauchs de net ze verzweiwelen!</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
@@ -260,7 +263,7 @@
     </lod:ARTICLE>
     <lod:FLX-VRB>
       <lod:INFINITIF>ophänken</lod:INFINITIF>
-      <lod:PART-PASS>opgehaangen</lod:PART-PASS>
+      <lod:PART-PASS>opgehaangen / opgehaang</lod:PART-PASS>
       <lod:INDICATIF>
         <lod:PRESENT>
           <lod:P1>hänken (mech) op</lod:P1>
@@ -279,20 +282,20 @@
           <lod:P6>houngen (sech) op</lod:P6>
         </lod:IMPARFAIT>
         <lod:PASSE-COMPOSE>
-          <lod:P1>hunn (mech) opgehaangen</lod:P1>
-          <lod:P2>hues (dech) opgehaangen</lod:P2>
-          <lod:P3>huet (sech) opgehaangen</lod:P3>
-          <lod:P4>hunn (eis) opgehaangen</lod:P4>
-          <lod:P5>hutt (iech) opgehaangen</lod:P5>
-          <lod:P6>hunn (sech) opgehaangen</lod:P6>
+          <lod:P1>hunn (mech) opgehaangen / opgehaang</lod:P1>
+          <lod:P2>hues (dech) opgehaangen / opgehaang</lod:P2>
+          <lod:P3>huet (sech) opgehaangen / opgehaang</lod:P3>
+          <lod:P4>hunn (eis) opgehaangen / opgehaang</lod:P4>
+          <lod:P5>hutt (iech) opgehaangen / opgehaang</lod:P5>
+          <lod:P6>hunn (sech) opgehaangen / opgehaang</lod:P6>
         </lod:PASSE-COMPOSE>
         <lod:PLUS-QUE-PARFAIT>
-          <lod:P1>hat (mech) opgehaangen</lod:P1>
-          <lod:P2>has (dech) opgehaangen</lod:P2>
-          <lod:P3>hat (sech) opgehaangen</lod:P3>
-          <lod:P4>haten (eis) opgehaangen</lod:P4>
-          <lod:P5>hat (iech) opgehaangen</lod:P5>
-          <lod:P6>haten (sech) opgehaangen</lod:P6>
+          <lod:P1>hat (mech) opgehaangen / opgehaang</lod:P1>
+          <lod:P2>has (dech) opgehaangen / opgehaang</lod:P2>
+          <lod:P3>hat (sech) opgehaangen / opgehaang</lod:P3>
+          <lod:P4>haten (eis) opgehaangen / opgehaang</lod:P4>
+          <lod:P5>hat (iech) opgehaangen / opgehaang</lod:P5>
+          <lod:P6>haten (sech) opgehaangen / opgehaang</lod:P6>
         </lod:PLUS-QUE-PARFAIT>
       </lod:INDICATIF>
       <lod:CONDITIONNEL>
@@ -313,12 +316,12 @@
           <lod:P6>géifen (sech) ophänken</lod:P6>
         </lod:PRESENT-COMPOSE>
         <lod:PASSE-COMPOSE>
-          <lod:P1>hätt (mech) opgehaangen</lod:P1>
-          <lod:P2>häss (dech) opgehaangen</lod:P2>
-          <lod:P3>hätt (sech) opgehaangen</lod:P3>
-          <lod:P4>hätten (eis) opgehaangen</lod:P4>
-          <lod:P5>hätt (iech) opgehaangen</lod:P5>
-          <lod:P6>hätten (sech) opgehaangen</lod:P6>
+          <lod:P1>hätt (mech) opgehaangen / opgehaang</lod:P1>
+          <lod:P2>häss (dech) opgehaangen / opgehaang</lod:P2>
+          <lod:P3>hätt (sech) opgehaangen / opgehaang</lod:P3>
+          <lod:P4>hätten (eis) opgehaangen / opgehaang</lod:P4>
+          <lod:P5>hätt (iech) opgehaangen / opgehaang</lod:P5>
+          <lod:P6>hätten (sech) opgehaangen / opgehaang</lod:P6>
         </lod:PASSE-COMPOSE>
       </lod:CONDITIONNEL>
       <lod:IMPERATIF>

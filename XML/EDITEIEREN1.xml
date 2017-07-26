@@ -49,6 +49,8 @@
                     <lod:SYN-PRESENTS>
                       <lod:TERME-SYN>erausbréngen</lod:TERME-SYN>
                       <lod:TERME-SYN>erausginn</lod:TERME-SYN>
+                      <lod:TERME-SYN>publizéieren</lod:TERME-SYN>
+                      <lod:TERME-SYN>verëffentlechen</lod:TERME-SYN>
                     </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
@@ -61,23 +63,18 @@
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">editieren</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:RS-ETA-PRESENTE>digitale Daten</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-NON-EXPLICITE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">des données numériques</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to edit</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">editar</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>den Informatiker</lod:TEXTE>
-                        <lod:ABREV-AD>editéiert</lod:ABREV-AD>
-                        <lod:TEXTE>seng Donnéeë mat engem spezielle Programm</lod:TEXTE>
+                        <lod:TEXTE>d'Dateien, déi s de de Moien</lod:TEXTE>
+                        <lod:ABREV-AD>editéiert hues</lod:ABREV-AD>
+                        <lod:TEXTE>, goufe leider net richteg ofgespäichert</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

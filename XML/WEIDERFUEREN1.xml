@@ -62,11 +62,13 @@
                   <lod:UNITE-POLYLEX-LUX>weiderfueren (mat)</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">fortfahren (mit)</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>fortsetzen</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">weitermachen (mit)</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">une activité</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">continuer (à faire)</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>une activité</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to continue (with)</lod:ETE-EXPLICITE>
@@ -79,7 +81,7 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>wéi et opgehalen hat mat reenen, konnten d'Leit mat hirer Aarbecht</lod:TEXTE>
+                        <lod:TEXTE>wéi et opgehalen hat mat reenen, konnt de Bauer mat senger Aarbecht</lod:TEXTE>
                         <lod:ABREV-AD>w.</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
@@ -88,6 +90,15 @@
                         <lod:TEXTE>wann s de an deem Tempo</lod:TEXTE>
                         <lod:ABREV-AD>weiderfiers</lod:ABREV-AD>
                         <lod:TEXTE>, da méchs de dech nach krank</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>looss dech net bei denger Aarbecht stéieren,</lod:TEXTE>
+                        <lod:ABREV-AD>fuer</lod:ABREV-AD>
+                        <lod:TEXTE>einfach</lod:TEXTE>
+                        <lod:ABREV-AD>weider</lod:ABREV-AD>
+                        <lod:TEXTE>!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
