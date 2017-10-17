@@ -7,6 +7,53 @@
       <lod:MICROSTRUCTURE>
         <lod:MS-TYPE-VRB>
           <lod:CAT-GRAM-VRB lod:C-G-VRB="VRB"/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
+          <lod:PARTICIPE-PASSE>ausgeheelt</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="AUSHEELEN1UNI2">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">ausheilen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>vollständig heilen</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">guérir</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>complètement</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to heal</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">curar</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>completamente</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>ausheelen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB lod:C-G-VRB="VRB"/>
           <lod:VRB-AUXILIAIRE lod:AUXIL="SINN"/>
           <lod:PARTICIPE-PASSE>ausgeheelt</lod:PARTICIPE-PASSE>
           <lod:TRAITEMENT-LING-VRB>
@@ -65,6 +112,56 @@
     <lod:FLX-VRB>
       <lod:INFINITIF>ausheelen</lod:INFINITIF>
       <lod:PART-PASS>ausgeheelt</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>heelen aus</lod:P1>
+          <lod:P2>heels aus</lod:P2>
+          <lod:P3>heelt aus</lod:P3>
+          <lod:P4>heelen aus</lod:P4>
+          <lod:P5>heelt aus</lod:P5>
+          <lod:P6>heelen aus</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hunn ausgeheelt</lod:P1>
+          <lod:P2>hues ausgeheelt</lod:P2>
+          <lod:P3>huet ausgeheelt</lod:P3>
+          <lod:P4>hunn ausgeheelt</lod:P4>
+          <lod:P5>hutt ausgeheelt</lod:P5>
+          <lod:P6>hunn ausgeheelt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat ausgeheelt</lod:P1>
+          <lod:P2>has ausgeheelt</lod:P2>
+          <lod:P3>hat ausgeheelt</lod:P3>
+          <lod:P4>haten ausgeheelt</lod:P4>
+          <lod:P5>hat ausgeheelt</lod:P5>
+          <lod:P6>haten ausgeheelt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif ausheelen</lod:P1>
+          <lod:P2>géifs ausheelen</lod:P2>
+          <lod:P3>géif ausheelen</lod:P3>
+          <lod:P4>géifen ausheelen</lod:P4>
+          <lod:P5>géift ausheelen</lod:P5>
+          <lod:P6>géifen ausheelen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt ausgeheelt</lod:P1>
+          <lod:P2>häss ausgeheelt</lod:P2>
+          <lod:P3>hätt ausgeheelt</lod:P3>
+          <lod:P4>hätten ausgeheelt</lod:P4>
+          <lod:P5>hätt ausgeheelt</lod:P5>
+          <lod:P6>hätten ausgeheelt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>heel aus!</lod:P2>
+          <lod:P5>heelt aus!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
       <lod:INDICATIF>
         <lod:PRESENT>
           <lod:P1>heelen aus</lod:P1>

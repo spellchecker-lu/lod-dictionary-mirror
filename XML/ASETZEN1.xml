@@ -13,7 +13,7 @@
             <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
             <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-DOMIN>einsetzen</lod:TRAD-ALL-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -21,24 +21,19 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">einfügen, einpassen</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einsetzen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einfügen</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">insérer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">ajouter</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">poser</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>encastrer</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to fit</lod:ETE-EXPLICITE>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to build in</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">inserir</lod:ETP-EXPLICITE>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">colocar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>encaixar, montar</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -47,35 +42,6 @@
                         <lod:TEXTE>?</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="ASETZEN1UNI5">
-                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
-                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einschieben</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>in einen Text</lod:RS-ETA-PRESENTE>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">ajouter</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>dans un texte</lod:RS-ETF-PRESENTE>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to insert</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>in a text</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">acrescentar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>num texto</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>dësen Abschnitt misst nach an den Text</lod:TEXTE>
@@ -95,8 +61,10 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einsetzen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einschalten</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>beauftragen</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-PRESENTE>hinzuziehen</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">faire appel à</lod:ETF-EXPLICITE>
@@ -139,8 +107,8 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">ernennen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einsetzen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>ernennen</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">désigner</lod:ETF-EXPLICITE>
@@ -154,11 +122,12 @@
                     <lod:RS-ETP-PRESENTE>escolher</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>asetzen</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>de Minister</lod:TEXTE>
+                        <lod:ABREV-AD>huet</lod:ABREV-AD>
+                        <lod:TEXTE>en neien Direkter fir d'Archiven</lod:TEXTE>
+                        <lod:ABREV-AD>agesat</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -174,8 +143,8 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">gebrauchen, verwenden</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einsetzen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>gebrauchen, verwenden</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">utiliser</lod:ETF-EXPLICITE>
@@ -230,18 +199,18 @@
                   <lod:DOM-SPEC lod:DOM="MED"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einsetzen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">transplantieren</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">transplanter</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:RS-ETF-PRESENTE>greffer</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to transplant</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">transplantar</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>por transplante cirúrgico</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
@@ -268,7 +237,7 @@
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einbuchten</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einlochen</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einsperren</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
@@ -313,7 +282,9 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">plötzlich beginnen</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einsetzen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">(plötzlich) beginnen</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
@@ -333,6 +304,13 @@
                         <lod:ABREV-AD>huet</lod:ABREV-AD>
                         <lod:TEXTE>den Orchester schonn</lod:TEXTE>
                         <lod:ABREV-AD>agesat</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>de Reen</lod:TEXTE>
+                        <lod:ABREV-AD>huet agesat</lod:ABREV-AD>
+                        <lod:TEXTE>, wéi ech grad doheem ukoum</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

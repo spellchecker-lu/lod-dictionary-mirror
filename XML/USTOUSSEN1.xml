@@ -25,9 +25,9 @@
                     <lod:RS-ETA-PRESENTE>eine Person, ein Tier im Straßenverkehr</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">heurter (en véhicule)</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">faucher</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">percuter (en véhicule)</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">percuter</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>un piéton, un animal</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-PO>
@@ -108,20 +108,19 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="USTOUSSEN1UNI4">
-                  <lod:DOM-SPEC lod:DOM="SPORT"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-NON-EXPLICITE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">beim Fußballspiel</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">donner le coup d'envoi</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:RS-ETF-PRESENTE>lors d'un match</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to kick off</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">dar o pontapé de saída</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>num jogo</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">

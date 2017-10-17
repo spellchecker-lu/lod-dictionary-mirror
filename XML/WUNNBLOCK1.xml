@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="WUNNBLOCK1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="WUNNBLOCK1ITE">Wunnblock</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="M"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-SIMPLE/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="IRREGULIER">Wunnbléck</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:TRAITEMENT-LING-SUBST>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WUNNBLOCK1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Häuserblock</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">pâté de maisons</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">pâté d'immeubles</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>Wunnblock</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>Block</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
+</lod:LOD>

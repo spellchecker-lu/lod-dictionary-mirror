@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="WUESSEN2"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="WUESSEN2ITE">wuessen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
+          <lod:PARTICIPE-PASSE>gewuesst</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WUESSEN2UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">wachsen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>mit Wachs überziehen</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cirer</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">farter</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>éier mer an de Wantersport fueren, muss ech meng Schier frësch</lod:TEXTE>
+                        <lod:ABREV-AD>w.</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>wuessen</lod:INFINITIF>
+      <lod:PART-PASS>gewuesst</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>wuessen</lod:P1>
+          <lod:P2>wuess</lod:P2>
+          <lod:P3>wuesst</lod:P3>
+          <lod:P4>wuessen</lod:P4>
+          <lod:P5>wuesst</lod:P5>
+          <lod:P6>wuessen</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu gewuesst</lod:P1>
+          <lod:P2>hues gewuesst</lod:P2>
+          <lod:P3>huet gewuesst</lod:P3>
+          <lod:P4>hu gewuesst</lod:P4>
+          <lod:P5>hutt gewuesst</lod:P5>
+          <lod:P6>hu gewuesst</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat gewuesst</lod:P1>
+          <lod:P2>has gewuesst</lod:P2>
+          <lod:P3>hat gewuesst</lod:P3>
+          <lod:P4>hate gewuesst</lod:P4>
+          <lod:P5>hat gewuesst</lod:P5>
+          <lod:P6>hate gewuesst</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif wuessen</lod:P1>
+          <lod:P2>géifs wuessen</lod:P2>
+          <lod:P3>géif wuessen</lod:P3>
+          <lod:P4>géife wuessen</lod:P4>
+          <lod:P5>géift wuessen</lod:P5>
+          <lod:P6>géife wuessen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt gewuesst</lod:P1>
+          <lod:P2>häss gewuesst</lod:P2>
+          <lod:P3>hätt gewuesst</lod:P3>
+          <lod:P4>hätte gewuesst</lod:P4>
+          <lod:P5>hätt gewuesst</lod:P5>
+          <lod:P6>hätte gewuesst</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>wuess!</lod:P2>
+          <lod:P5>wuesst!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
+  </lod:ITEM>
+</lod:LOD>

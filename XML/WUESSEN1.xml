@@ -16,28 +16,18 @@
               <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
-              <lod:TRAD-ALL-FR-SUBORDONNANTE>
-                <lod:TRAD-ALL-SUBORD>wachsen</lod:TRAD-ALL-SUBORD>
-                <lod:TRAD-FR-SUBORD>grandir</lod:TRAD-FR-SUBORD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WUESSEN1UNI1">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">sich (körperlich) entwickeln</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">wachsen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>sich körperlich, charakterlich entwickeln</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">pousser</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">grandir</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>physique, personnalité</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to grow</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>to develop physically</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">crescer</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>em tamanho</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -46,6 +36,103 @@
                         <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>wuessen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>ech hat him dat net zougetraut, mee hien</lod:TEXTE>
+                        <lod:ABREV-AD>ass</lod:ABREV-AD>
+                        <lod:TEXTE>u senger Aufgab</lod:TEXTE>
+                        <lod:ABREV-AD>gewuess</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>hien ass méi kompetent ginn duerch dat, wat hien huet misse maachen</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WUESSEN1UNI2">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:UNITE-POLYLEX-LUX>am Wuessen</lod:UNITE-POLYLEX-LUX>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">in der Wachstumsphase</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">en cours de croissance (physique)</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>wuessen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WUESSEN1UNI3">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">wachsen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Pflanze</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">pousser</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>végétal</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>wuessen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WUESSEN1UNI4">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:UNITE-POLYLEX-LUX>sech eppes wuesse loossen</lod:UNITE-POLYLEX-LUX>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sich etwas wachsen lassen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se faire pousser quelque chose</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>mäi Brudder léisst sech de Baart</lod:TEXTE>
@@ -55,13 +142,11 @@
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>hien</lod:TEXTE>
-                        <lod:ABREV-AD>ass</lod:ABREV-AD>
-                        <lod:TEXTE>den Erausfuerderungen net</lod:TEXTE>
-                        <lod:ABREV-AD>gewuess</lod:ABREV-AD>
+                        <lod:TEXTE>looss der keng gro Hoer</lod:TEXTE>
+                        <lod:ABREV-AD>w.</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>hien ass mat den Erausfuerderungen iwwerfuerdert</lod:TEXTE>
+                        <lod:TEXTE>maach der keng Suergen</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
@@ -69,33 +154,23 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WUESSEN1UNI2">
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WUESSEN1UNI5">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
+                  <lod:UNITE-POLYLEX-LUX>enger Saach (net) gewuess sinn</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">sich ausdehnen, zunehmen</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einer Sache (nicht) gewachsen sein</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">s'accroître</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">(ne pas) être à la hauteur de</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to grow</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>to increase</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">crescer</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>aumentar</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Agglomeratioun ronderëm d'Stad</lod:TEXTE>
-                        <lod:ABREV-AD>wiisst</lod:ABREV-AD>
-                        <lod:TEXTE>vu Joer zu Joer</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
                         <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
@@ -108,30 +183,23 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
-              </lod:TRAD-ALL-FR-SUBORDONNANTE>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WUESSEN1UNI3">
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WUESSEN1UNI6">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">steigen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>ansteigen</lod:RS-ETA-PRESENTE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sich ausdehnen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">monter</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>en niveau</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">grandir</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">s'étendre</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to rise</lod:ETE-EXPLICITE>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to climb</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>level</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">subir</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>atingir nível mais elevado</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -142,9 +210,35 @@
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-PRESENTS>
-                      <lod:TERME-SYN>klammen</lod:TERME-SYN>
-                    </lod:SYN-PRESENTS>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WUESSEN1UNI7">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">wachsen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>steigen</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">augmenter</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>monter</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>wuessen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>

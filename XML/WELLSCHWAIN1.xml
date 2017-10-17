@@ -12,9 +12,9 @@
             <lod:SUBST-COMP-PREMIER-ELEM-NON-TRAITE/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:TJ-NOMBRABLE>
+            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="WELLSCHWAIN1UNI1" lod:REFS-IDS-UNITES-DE-SENS-MASS="WELLSCHWAIN1UNI2">
               <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Wëllschwäin</lod:FORME-PLURIEL>
-            </lod:TJ-NOMBRABLE>
+            </lod:ALT-MASSIF-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
@@ -68,8 +68,8 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">marcassin</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>viande</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">chair</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">(wild) boar</lod:ETE-EXPLICITE>

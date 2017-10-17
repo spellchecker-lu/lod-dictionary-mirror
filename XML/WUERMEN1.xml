@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="WUERMEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="WUERMEN1ITE">wuermen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
+          <lod:PARTICIPE-PASSE>gewuermt</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WUERMEN1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">wurmen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">préoccuper</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tracasser</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>wat</lod:TEXTE>
+                        <lod:ABREV-AD>wuermt</lod:ABREV-AD>
+                        <lod:TEXTE>dech esou?</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>et</lod:TEXTE>
+                        <lod:ABREV-AD>wuermt</lod:ABREV-AD>
+                        <lod:TEXTE>mech, datt ech nëmmen den Zweeten an der Course gi sinn</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>wuermen</lod:INFINITIF>
+      <lod:PART-PASS>gewuermt</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P3>wuermt</lod:P3>
+          <lod:P6>wuermen</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P3>huet gewuermt</lod:P3>
+          <lod:P6>hu gewuermt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P3>hat gewuermt</lod:P3>
+          <lod:P6>hate gewuermt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P3>géif wuermen</lod:P3>
+          <lod:P6>géife wuermen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P3>hätt gewuermt</lod:P3>
+          <lod:P6>hätte gewuermt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+    </lod:FLX-VRB>
+  </lod:ITEM>
+</lod:LOD>

@@ -103,6 +103,54 @@
             </lod:UNITE-TRAD>
           </lod:TRAITEMENT-LING-VRB>
         </lod:MS-TYPE-VRB>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="SINN"/>
+          <lod:PARTICIPE-PASSE>gesprutzt</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SPRUTZEN1UNI2">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">spritzen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>als Spritzer</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">gicler</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to splatter</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">salpicar</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>espalhar-se em salpicos</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>d'Fett</lod:TEXTE>
+                        <lod:ABREV-AD>ass</lod:ABREV-AD>
+                        <lod:TEXTE>duerch d'ganz Kiche</lod:TEXTE>
+                        <lod:ABREV-AD>gesprutzt</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
     <lod:FLX-VRB>
@@ -110,54 +158,23 @@
       <lod:PART-PASS>gesprutzt</lod:PART-PASS>
       <lod:INDICATIF>
         <lod:PRESENT>
-          <lod:P1>sprutzen</lod:P1>
-          <lod:P2>sprutz</lod:P2>
           <lod:P3>sprutzt</lod:P3>
-          <lod:P4>sprutzen</lod:P4>
-          <lod:P5>sprutzt</lod:P5>
-          <lod:P6>sprutzen</lod:P6>
         </lod:PRESENT>
         <lod:PASSE-COMPOSE>
-          <lod:P1>hu gesprutzt</lod:P1>
-          <lod:P2>hues gesprutzt</lod:P2>
-          <lod:P3>huet gesprutzt</lod:P3>
-          <lod:P4>hu gesprutzt</lod:P4>
-          <lod:P5>hutt gesprutzt</lod:P5>
-          <lod:P6>hu gesprutzt</lod:P6>
+          <lod:P3>ass gesprutzt</lod:P3>
         </lod:PASSE-COMPOSE>
         <lod:PLUS-QUE-PARFAIT>
-          <lod:P1>hat gesprutzt</lod:P1>
-          <lod:P2>has gesprutzt</lod:P2>
-          <lod:P3>hat gesprutzt</lod:P3>
-          <lod:P4>hate gesprutzt</lod:P4>
-          <lod:P5>hat gesprutzt</lod:P5>
-          <lod:P6>hate gesprutzt</lod:P6>
+          <lod:P3>war gesprutzt</lod:P3>
         </lod:PLUS-QUE-PARFAIT>
       </lod:INDICATIF>
       <lod:CONDITIONNEL>
         <lod:PRESENT-COMPOSE>
-          <lod:P1>géif sprutzen</lod:P1>
-          <lod:P2>géifs sprutzen</lod:P2>
           <lod:P3>géif sprutzen</lod:P3>
-          <lod:P4>géife sprutzen</lod:P4>
-          <lod:P5>géift sprutzen</lod:P5>
-          <lod:P6>géife sprutzen</lod:P6>
         </lod:PRESENT-COMPOSE>
         <lod:PASSE-COMPOSE>
-          <lod:P1>hätt gesprutzt</lod:P1>
-          <lod:P2>häss gesprutzt</lod:P2>
-          <lod:P3>hätt gesprutzt</lod:P3>
-          <lod:P4>hätte gesprutzt</lod:P4>
-          <lod:P5>hätt gesprutzt</lod:P5>
-          <lod:P6>hätte gesprutzt</lod:P6>
+          <lod:P3>wier gesprutzt</lod:P3>
         </lod:PASSE-COMPOSE>
       </lod:CONDITIONNEL>
-      <lod:IMPERATIF>
-        <lod:PRESENT>
-          <lod:P2>sprutz!</lod:P2>
-          <lod:P5>sprutzt!</lod:P5>
-        </lod:PRESENT>
-      </lod:IMPERATIF>
     </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

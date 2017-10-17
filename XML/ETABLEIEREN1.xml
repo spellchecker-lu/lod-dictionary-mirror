@@ -72,8 +72,16 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Iddi vun der Weiderbildung ass am Gaang, sech iwwerall ze</lod:TEXTE>
+                        <lod:TEXTE>d'Weiderbildung ass am Gaang, sech iwwerall ze</lod:TEXTE>
                         <lod:ABREV-AD>e.</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>am Lëtzebuergeschen</lod:TEXTE>
+                        <lod:ABREV-AD>hu</lod:ABREV-AD>
+                        <lod:TEXTE>sech eng Rei englesch Wierder</lod:TEXTE>
+                        <lod:ABREV-AD>etabléiert</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -84,7 +92,9 @@
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>sech abiergeren</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>

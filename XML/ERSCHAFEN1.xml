@@ -9,6 +9,7 @@
           <lod:CAT-GRAM-VRB lod:C-G-VRB="VRB"/>
           <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
           <lod:PARTICIPE-PASSE>erschafen</lod:PARTICIPE-PASSE>
+          <lod:PARTICIPE-PASSE>erschaf</lod:PARTICIPE-PASSE>
           <lod:TRAITEMENT-LING-VRB>
             <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
             <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
@@ -18,7 +19,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="ERESCHAFEN1UNI1">
-                  <lod:DOM-SPEC lod:DOM="RELIOUN"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">erschaffen</lod:ETA-EXPLICITE>
@@ -26,11 +27,8 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">créer</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:RS-ETF-PRESENTE>donner l'existence à</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to create</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">criar</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>dar existência a</lod:RS-ETP-PRESENTE>

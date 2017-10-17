@@ -23,6 +23,8 @@
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">werfen</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-PRESENTE>schleudern</lod:RS-ETA-PRESENTE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">schmeißen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">jeter</lod:ETF-EXPLICITE>
@@ -30,15 +32,14 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">lancer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to throw</lod:ETE-EXPLICITE>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to fling</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">atirar</lod:ETP-EXPLICITE>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">lançar</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>werfen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
                         <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
@@ -152,44 +153,6 @@
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">werfen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>wegwerfen</lod:RS-ETA-PRESENTE>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">jeter</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>se défaire de</lod:RS-ETF-PRESENTE>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to throw away</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>to discard</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">deitar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>desfazer-se de</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>werfen</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-PRESENTS>
-                      <lod:TERME-SYN>geheien</lod:TERME-SYN>
-                    </lod:SYN-PRESENTS>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WERFEN1UNI3">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">werfen</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-PRESENTE>Junge zur Welt bringen</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
@@ -204,6 +167,94 @@
                         <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="PRONOM"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WERFEN1UNI3">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sich werfen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>sich verziehen</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se soulever</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>se déformer</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>werfen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WERFEN1UNI4">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:UNITE-POLYLEX-LUX>sech ... werfen</lod:UNITE-POLYLEX-LUX>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sich ... werfen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>impulsartig</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se jeter ...</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>se laisser tomber ..., se précipiter ...</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>werfen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>werfen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>werfen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE-GLOSE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>werfen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-ABSENTS/>

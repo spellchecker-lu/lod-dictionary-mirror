@@ -13,7 +13,7 @@
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
             <lod:TJ-NOMBRABLE>
-              <lod:FORME-PLURIEL lod:EIFEL="Stellunge" lod:TYPE-PLURIEL="REGULIER">Stellungen</lod:FORME-PLURIEL>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Stellungen</lod:FORME-PLURIEL>
             </lod:TJ-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
@@ -100,17 +100,19 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="STELLUNG1UNI2">
-                  <lod:DOM-SPEC lod:DOM="MILIT"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-NON-EXPLICITE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">von Truppen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">place</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">emplacement de troupes</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">posição</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>de forças militares</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>

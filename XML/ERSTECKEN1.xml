@@ -7,6 +7,95 @@
       <lod:MICROSTRUCTURE>
         <lod:MS-TYPE-VRB>
           <lod:CAT-GRAM-VRB lod:C-G-VRB="VRB"/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
+          <lod:PARTICIPE-PASSE>erstéckt</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:TRAD-ALL-FR-DOMIN>
+                <lod:TRAD-ALL-DOMIN>ersticken</lod:TRAD-ALL-DOMIN>
+                <lod:TRAD-FR-DOMIN>étouffer</lod:TRAD-FR-DOMIN>
+              </lod:TRAD-ALL-FR-DOMIN>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="ERSTECKEN1UNI1">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">umbringen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">tuer</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to smother</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to suffocate</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">abafar</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">sufocar</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>matar</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>am Film</lod:TEXTE>
+                        <lod:ABREV-AD>erstéckt</lod:ABREV-AD>
+                        <lod:TEXTE>de Mäerder seng räich Tatta mat engem Pillem</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="ERSTECKEN1UNI2">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">löschen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">éteindre</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to smother</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>a fire</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">abafar</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>apagar</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>e couragéierte jonke Mann</lod:TEXTE>
+                        <lod:ABREV-AD>huet</lod:ABREV-AD>
+                        <lod:TEXTE>d'Flame mat enger Decken</lod:TEXTE>
+                        <lod:ABREV-AD>erstéckt</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB lod:C-G-VRB="VRB"/>
           <lod:VRB-AUXILIAIRE lod:AUXIL="SINN"/>
           <lod:PARTICIPE-PASSE>erstéckt</lod:PARTICIPE-PASSE>
           <lod:TRAITEMENT-LING-VRB>
@@ -20,7 +109,7 @@
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="ERSTECKEN1UNI1">
+                <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="ERSTECKEN1UNI3">
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
@@ -65,7 +154,7 @@
             </lod:UNITE-TRAD>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ERSTECKEN1UNI2">
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ERSTECKEN1UNI4">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
@@ -107,6 +196,56 @@
     <lod:FLX-VRB>
       <lod:INFINITIF>erstécken</lod:INFINITIF>
       <lod:PART-PASS>erstéckt</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>erstécken</lod:P1>
+          <lod:P2>erstécks</lod:P2>
+          <lod:P3>erstéckt</lod:P3>
+          <lod:P4>erstécken</lod:P4>
+          <lod:P5>erstéckt</lod:P5>
+          <lod:P6>erstécken</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hunn erstéckt</lod:P1>
+          <lod:P2>hues erstéckt</lod:P2>
+          <lod:P3>huet erstéckt</lod:P3>
+          <lod:P4>hunn erstéckt</lod:P4>
+          <lod:P5>hutt erstéckt</lod:P5>
+          <lod:P6>hunn erstéckt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat erstéckt</lod:P1>
+          <lod:P2>has erstéckt</lod:P2>
+          <lod:P3>hat erstéckt</lod:P3>
+          <lod:P4>haten erstéckt</lod:P4>
+          <lod:P5>hat erstéckt</lod:P5>
+          <lod:P6>haten erstéckt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif erstécken</lod:P1>
+          <lod:P2>géifs erstécken</lod:P2>
+          <lod:P3>géif erstécken</lod:P3>
+          <lod:P4>géifen erstécken</lod:P4>
+          <lod:P5>géift erstécken</lod:P5>
+          <lod:P6>géifen erstécken</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt erstéckt</lod:P1>
+          <lod:P2>häss erstéckt</lod:P2>
+          <lod:P3>hätt erstéckt</lod:P3>
+          <lod:P4>hätten erstéckt</lod:P4>
+          <lod:P5>hätt erstéckt</lod:P5>
+          <lod:P6>hätten erstéckt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>erstéck!</lod:P2>
+          <lod:P5>erstéckt!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
       <lod:INDICATIF>
         <lod:PRESENT>
           <lod:P1>erstécken</lod:P1>

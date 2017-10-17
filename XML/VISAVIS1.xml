@@ -5,9 +5,11 @@
     <lod:ARTICLE>
       <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="VISAVIS1ITE">vis-à-vis</lod:ITEM-ADRESSE>
       <lod:MICROSTRUCTURE>
-        <lod:MS-TYPE-ADV>
-          <lod:CAT-GRAM-ADV/>
-          <lod:TRAITEMENT-LING-ADV>
+        <lod:MS-TYPE-PREP>
+          <lod:CAT-GRAM-PREP/>
+          <lod:TRAITEMENT-LING-PREP>
+            <lod:CAS-ATTENDU lod:CAS="DATIF"/>
+            <lod:SPATIOTEMP lod:ST="AUTRE"/>
             <lod:TRADUCTION-DOMINANTE>
               <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
@@ -16,18 +18,18 @@
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="VISAVIS1UNI1">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
-                  <lod:UNITE-POLYLEX-LUX>vis-à-vis (vun)</lod:UNITE-POLYLEX-LUX>
+                  <lod:UNITE-POLYLEX-LUX>vis-à-vis vun</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">gegenüber</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-PRESENTE>jenseits</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">vis-à-vis (de)</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>en face (de)</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">vis-à-vis de</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>en face de</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">em frente (a)</lod:ETP-EXPLICITE>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT"> defronte (de)</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">em frente a</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT"> defronte de</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -37,19 +39,11 @@
                         <lod:TEXTE>vun der Gare e Restaurant opgemaach</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Madamm vu</lod:TEXTE>
-                        <lod:ABREV-AD>v.</lod:ABREV-AD>
-                        <lod:TEXTE>kuckt zur Fënster eraus</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-PRESENTS>
-                      <lod:TERME-SYN>géigeniwwer</lod:TERME-SYN>
-                      <lod:TERME-SYN>géintiwwer</lod:TERME-SYN>
-                      <lod:TERME-SYN>déisäit</lod:TERME-SYN>
+                      <lod:TERME-SYN>géigeniwwer vun</lod:TERME-SYN>
+                      <lod:TERME-SYN>géintiwwer vun</lod:TERME-SYN>
                     </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
@@ -100,8 +94,8 @@
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-ADV>
-        </lod:MS-TYPE-ADV>
+          </lod:TRAITEMENT-LING-PREP>
+        </lod:MS-TYPE-PREP>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
   </lod:ITEM>

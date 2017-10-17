@@ -25,19 +25,19 @@
                 <lod:TRAD-ALL-SUBORD>Punkt</lod:TRAD-ALL-SUBORD>
                 <lod:TRAD-FR-SUBORD>point</lod:TRAD-FR-SUBORD>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="PUNKT1UNI7">
-                  <lod:DOM-SPEC lod:DOM="MATH"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-NON-EXPLICITE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Schnittstelle</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-NON-EXPLICITE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">géométrique</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">point</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ponto</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>geométrico</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -208,12 +208,12 @@
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>hien huet d'Saach op de</lod:TEXTE>
+                        <lod:TEXTE>du hues d'Saach op de</lod:TEXTE>
                         <lod:ABREV-AD>P.</lod:ABREV-AD>
-                        <lod:TEXTE>bruecht</lod:TEXTE>
+                        <lod:TEXTE>bruecht!</lod:TEXTE>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>hien huet d'Saach ganz kloer formuléiert</lod:TEXTE>
+                        <lod:TEXTE>du hues d'Saach ganz kloer formuléiert</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
@@ -229,7 +229,7 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">de bonification, de pénalisation, d'évaluation, </lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">de bonification, de pénalisation, d'évaluation</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
@@ -243,7 +243,7 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>am Franséische krut de Schüler op senger Prüfung dräi</lod:TEXTE>
+                        <lod:TEXTE>am Franséische krut de Schüler op senger Nott dräi</lod:TEXTE>
                         <lod:ABREV-AD>P.e</lod:ABREV-AD>
                         <lod:TEXTE>bäi</lod:TEXTE>
                       </lod:TEXTE-EX>
@@ -344,14 +344,14 @@
                       <lod:TEXTE-EX>
                         <lod:TEXTE>wann et iwwer e gewësse</lod:TEXTE>
                         <lod:ABREV-AD>P.</lod:ABREV-AD>
-                        <lod:TEXTE>erausgeet, maachen ech net méi mat</lod:TEXTE>
+                        <lod:TEXTE>erausgeet, maachen ech net méi mat!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>ech sinn um</lod:TEXTE>
                         <lod:ABREV-AD>P.</lod:ABREV-AD>
-                        <lod:TEXTE>, fir rosen ze ginn</lod:TEXTE>
+                        <lod:TEXTE>, fir rosen ze ginn!</lod:TEXTE>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
                         <lod:TEXTE>et dauert net méi laang, bis ech rose ginn</lod:TEXTE>

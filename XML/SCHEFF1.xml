@@ -104,6 +104,16 @@
                         <lod:TEXTE>meng Frëndin huet eiser Relatioun en Enn gesat</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>dat halleft</lod:TEXTE>
+                        <lod:ABREV-AD>S.</lod:ABREV-AD>
+                        <lod:TEXTE>war séikrank</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>d'Halschent vun de Passagéier war séikrank</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-ABSENTS/>
@@ -114,7 +124,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SCHEFF1UNI2">
-                  <lod:DOM-SPEC lod:DOM="ARCHIT"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Kirchenschiff</lod:ETA-EXPLICITE>
@@ -122,13 +132,14 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">nef</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:RS-ETF-PRESENTE>d'une église</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">nave</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">nave</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>de uma igreja</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">

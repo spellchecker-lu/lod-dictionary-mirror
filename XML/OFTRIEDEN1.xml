@@ -107,6 +107,65 @@
             </lod:UNITE-TRAD>
           </lod:TRAITEMENT-LING-VRB>
         </lod:MS-TYPE-VRB>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="SINN"/>
+          <lod:PARTICIPE-PASSE>ofgetrueden</lod:PARTICIPE-PASSE>
+          <lod:PARTICIPE-PASSE>ofgetratt</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="OFTRIEDEN1UNI3">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">abtreten</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>zurücktreten</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se retirer</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">abdiquer</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to step down</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to abdicate</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">retirar-se</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">abdicar</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>wie réckelt no, wann de President</lod:TEXTE>
+                        <lod:ABREV-AD>oftrëtt</lod:ABREV-AD>
+                        <lod:TEXTE>?</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>de Kinnek</lod:TEXTE>
+                        <lod:ABREV-AD>ass</lod:ABREV-AD>
+                        <lod:TEXTE>eréischt am héijen Alter</lod:TEXTE>
+                        <lod:ABREV-AD>ofgetratt</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
     <lod:FLX-VRB>
@@ -154,6 +213,56 @@
           <lod:P4>hätten ofgetrueden / ofgetratt</lod:P4>
           <lod:P5>hätt ofgetrueden / ofgetratt</lod:P5>
           <lod:P6>hätten ofgetrueden / ofgetratt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>triet of!</lod:P2>
+          <lod:P5>triet of!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>trieden of</lod:P1>
+          <lod:P2>trëts of</lod:P2>
+          <lod:P3>trëtt of</lod:P3>
+          <lod:P4>trieden of</lod:P4>
+          <lod:P5>triet of</lod:P5>
+          <lod:P6>trieden of</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>sinn ofgetrueden / ofgetratt</lod:P1>
+          <lod:P2>bass ofgetrueden / ofgetratt</lod:P2>
+          <lod:P3>ass ofgetrueden / ofgetratt</lod:P3>
+          <lod:P4>sinn ofgetrueden / ofgetratt</lod:P4>
+          <lod:P5>sidd ofgetrueden / ofgetratt</lod:P5>
+          <lod:P6>sinn ofgetrueden / ofgetratt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>war ofgetrueden / ofgetratt</lod:P1>
+          <lod:P2>waars ofgetrueden / ofgetratt</lod:P2>
+          <lod:P3>war ofgetrueden / ofgetratt</lod:P3>
+          <lod:P4>waren ofgetrueden / ofgetratt</lod:P4>
+          <lod:P5>waart ofgetrueden / ofgetratt</lod:P5>
+          <lod:P6>waren ofgetrueden / ofgetratt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif oftrieden</lod:P1>
+          <lod:P2>géifs oftrieden</lod:P2>
+          <lod:P3>géif oftrieden</lod:P3>
+          <lod:P4>géifen oftrieden</lod:P4>
+          <lod:P5>géift oftrieden</lod:P5>
+          <lod:P6>géifen oftrieden</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>wier ofgetrueden / ofgetratt</lod:P1>
+          <lod:P2>wiers ofgetrueden / ofgetratt</lod:P2>
+          <lod:P3>wier ofgetrueden / ofgetratt</lod:P3>
+          <lod:P4>wieren ofgetrueden / ofgetratt</lod:P4>
+          <lod:P5>wiert ofgetrueden / ofgetratt</lod:P5>
+          <lod:P6>wieren ofgetrueden / ofgetratt</lod:P6>
         </lod:PASSE-COMPOSE>
       </lod:CONDITIONNEL>
       <lod:IMPERATIF>

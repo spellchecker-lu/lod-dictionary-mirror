@@ -53,6 +53,54 @@
             </lod:UNITE-TRAD>
           </lod:TRAITEMENT-LING-VRB>
         </lod:MS-TYPE-VRB>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="SINN"/>
+          <lod:PARTICIPE-PASSE>kutschéiert</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="KUTSCHEIEREN1UNI2">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE lod:STYLE="EGS"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">kutschieren</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>irgendwohin fahren</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se balader (en voiture)</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to cruise around</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>in a vehicle</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">dar um passeio (de carro)</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>mir</lod:TEXTE>
+                        <lod:ABREV-AD>si</lod:ABREV-AD>
+                        <lod:TEXTE>mat der Tatta e ganzen Dag duerch d'Land</lod:TEXTE>
+                        <lod:ABREV-AD>kutschéiert</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
     <lod:FLX-VRB>
@@ -100,6 +148,56 @@
           <lod:P4>hätte kutschéiert</lod:P4>
           <lod:P5>hätt kutschéiert</lod:P5>
           <lod:P6>hätte kutschéiert</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>kutschéier!</lod:P2>
+          <lod:P5>kutschéiert!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>kutschéieren</lod:P1>
+          <lod:P2>kutschéiers</lod:P2>
+          <lod:P3>kutschéiert</lod:P3>
+          <lod:P4>kutschéieren</lod:P4>
+          <lod:P5>kutschéiert</lod:P5>
+          <lod:P6>kutschéieren</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>si kutschéiert</lod:P1>
+          <lod:P2>bass kutschéiert</lod:P2>
+          <lod:P3>ass kutschéiert</lod:P3>
+          <lod:P4>si kutschéiert</lod:P4>
+          <lod:P5>sidd kutschéiert</lod:P5>
+          <lod:P6>si kutschéiert</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>war kutschéiert</lod:P1>
+          <lod:P2>waars kutschéiert</lod:P2>
+          <lod:P3>war kutschéiert</lod:P3>
+          <lod:P4>ware kutschéiert</lod:P4>
+          <lod:P5>waart kutschéiert</lod:P5>
+          <lod:P6>ware kutschéiert</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif kutschéieren</lod:P1>
+          <lod:P2>géifs kutschéieren</lod:P2>
+          <lod:P3>géif kutschéieren</lod:P3>
+          <lod:P4>géife kutschéieren</lod:P4>
+          <lod:P5>géift kutschéieren</lod:P5>
+          <lod:P6>géife kutschéieren</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>wier kutschéiert</lod:P1>
+          <lod:P2>wiers kutschéiert</lod:P2>
+          <lod:P3>wier kutschéiert</lod:P3>
+          <lod:P4>wiere kutschéiert</lod:P4>
+          <lod:P5>wiert kutschéiert</lod:P5>
+          <lod:P6>wiere kutschéiert</lod:P6>
         </lod:PASSE-COMPOSE>
       </lod:CONDITIONNEL>
       <lod:IMPERATIF>

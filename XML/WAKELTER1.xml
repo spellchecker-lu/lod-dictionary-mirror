@@ -12,7 +12,9 @@
             <lod:SUBST-SIMPLE/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:TJ-MASSIF/>
+            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="WAKELTER1UNI1 WAKELTER1UNI3" lod:REFS-IDS-UNITES-DE-SENS-MASS="WAKELTER1UNI2 WAKELTER1UNI4">
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Wakelter</lod:FORME-PLURIEL>
+            </lod:ALT-MASSIF-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
@@ -29,7 +31,7 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">genévrier</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:RS-ETF-PRESENTE>plante</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">zimbro</lod:ETP-EXPLICITE>

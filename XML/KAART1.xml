@@ -165,6 +165,7 @@
                       <lod:TEXTE-EX>
                         <lod:TEXTE>dat Kouduerf ass op kenger</lod:TEXTE>
                         <lod:ABREV-AD>K.</lod:ABREV-AD>
+                        <lod:TEXTE>!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
@@ -240,13 +241,6 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>de Geldautomat huet meng</lod:TEXTE>
-                        <lod:ABREV-AD>K.</lod:ABREV-AD>
-                        <lod:TEXTE>agehalen</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
                         <lod:TEXTE>bezuelt Der boer oder mat der</lod:TEXTE>
                         <lod:ABREV-AD>K.</lod:ABREV-AD>
                         <lod:TEXTE>?</lod:TEXTE>
@@ -279,7 +273,7 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>fir hei eran, musst Dir Är</lod:TEXTE>
+                        <lod:TEXTE>fir hei era musst Dir Är</lod:TEXTE>
                         <lod:ABREV-AD>K.</lod:ABREV-AD>
                         <lod:TEXTE>weisen</lod:TEXTE>
                       </lod:TEXTE-EX>
@@ -367,23 +361,24 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="KAART1UNI9">
-                  <lod:DOM-SPEC lod:DOM="SPORT"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
+                  <lod:UNITE-POLYLEX-LUX>giel Kaart ; rout Kaart</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Karte</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>zur Verwarnung, zur Verweisung</lod:RS-ETA-PRESENTE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Gelbe Karte</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Rote Karte</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">carton</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>d'avertissement, d'expulsion</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">carton jaune</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">carton rouge</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">card</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>warning card, penalty card</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">cartão</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>de aviso, de expulsão</lod:RS-ETP-PRESENTE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">cartão amarelo</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">cartão vermelho</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">

@@ -109,12 +109,13 @@
                       <lod:TEXTE-EX>
                         <lod:TEXTE>wien derfir ass, soll d'Hand</lod:TEXTE>
                         <lod:ABREV-AD>h.</lod:ABREV-AD>
+                        <lod:TEXTE>!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:ABREV-AD>hief</lod:ABREV-AD>
-                        <lod:TEXTE>d'Féiss (an d'Luucht), et sinn héich Träppleken!</lod:TEXTE>
+                        <lod:TEXTE>d'Féiss (an d'Luucht), hei sinn héich Träppleken!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -184,7 +185,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="HIEWEN1UNI6">
-                  <lod:DOM-SPEC lod:DOM="GASTR"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:UNITE-POLYLEX-LUX>hiewen ënner</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
@@ -197,9 +198,6 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">incorporer délicatement à</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to fold in</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">incorporar delicadamente em</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
@@ -380,7 +378,7 @@
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">levantar-se</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">elevar-se</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>deslocar-se para cima</lod:RS-ETP-PRESENTE>
+                    <lod:RS-ETP-PRESENTE>deslocar- se para cima</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>

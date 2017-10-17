@@ -28,6 +28,11 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">fermer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>interdire à la circulation</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to cordon off</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to block</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to close (off)</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">cortar</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fechar</lod:ETP-EXPLICITE>
@@ -69,6 +74,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cadenasser</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to lock</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>with a key</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fechar à chave</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fechar a cadeado</lod:ETP-EXPLICITE>
@@ -117,6 +126,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">enfermer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>dans un lieu</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to lock (up)</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>in a place</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">encerrar</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fechar</lod:ETP-EXPLICITE>
@@ -165,6 +178,12 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">annuler</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>en guise de sanction</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to cut off</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>a supply</lod:RS-ETE-PRESENTE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to cancel</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>as a punishment</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">cortar (o abastecimento de)</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">cancelar</lod:ETP-EXPLICITE>
@@ -204,6 +223,11 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">bloquer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>un compte, une carte bancaire</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to block</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to freeze</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>an account, a bank card</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">bloquear</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">cancelar</lod:ETP-EXPLICITE>
@@ -227,18 +251,23 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SPAREN1UNI6">
-                  <lod:DOM-SPEC lod:DOM="SPORT"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sperren</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>ausschließen</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-PRESENTE>disqualifizieren</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">suspendre</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:RS-ETF-PRESENTE>d'une compétition sportive</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to ban</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to suspend</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">suspender</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>de uma competição desportiva</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
@@ -277,6 +306,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">fonctionner</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>clé, serrure</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to lock</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>key, lock</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fechar</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">funcionar</lod:ETP-EXPLICITE>

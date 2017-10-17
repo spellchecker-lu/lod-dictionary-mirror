@@ -12,33 +12,58 @@
             <lod:SUBST-SIMPLE/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:TJ-NOMBRABLE>
-              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER" lod:FREQ-PLURIEL="NORMALE">Homarden</lod:FORME-PLURIEL>
-            </lod:TJ-NOMBRABLE>
+            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="HOMARD1UNI1" lod:REFS-IDS-UNITES-DE-SENS-MASS="HOMARD1UNI2">
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Homarden</lod:FORME-PLURIEL>
+            </lod:ALT-MASSIF-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:PAS-DE-TRAD-DOMIN/>
+              <lod:TRAD-ALL-FR-DOMIN>
+                <lod:TRAD-ALL-DOMIN>Hummer</lod:TRAD-ALL-DOMIN>
+                <lod:TRAD-FR-DOMIN>homard</lod:TRAD-FR-DOMIN>
+              </lod:TRAD-ALL-FR-DOMIN>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="HOMARD1UNI1" lod:FREQ-EMPLOI="NORMAL">
-                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
-                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="HOMARD1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Hummer</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Tier</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">homard</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">animal</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">lobster</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">lavagante</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>en</lod:TEXTE>
+                        <lod:ABREV-AD>H.</lod:ABREV-AD>
+                        <lod:TEXTE>ka bis zu sechs Kilo schwéier ginn</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="HOMARD1UNI2">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Gericht</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">plat</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>

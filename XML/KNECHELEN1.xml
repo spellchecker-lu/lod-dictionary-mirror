@@ -106,6 +106,56 @@
             </lod:UNITE-TRAD>
           </lod:TRAITEMENT-LING-VRB>
         </lod:MS-TYPE-VRB>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="SINN"/>
+          <lod:PARTICIPE-PASSE>geknéchelt</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="KNECHELEN1UNI2">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE lod:STYLE="EGS"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">kraxeln</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">crapahuter</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to clamber</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to scramble</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">arrastar-se</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">caminhar com dificuldade</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>mir hu missen iwwer Fielse</lod:TEXTE>
+                        <lod:ABREV-AD>k.</lod:ABREV-AD>
+                        <lod:TEXTE>, fir bei d'Waasser ze kommen</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>kraxelen</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
     <lod:FLX-VRB>
@@ -153,6 +203,56 @@
           <lod:P4>hätte geknéchelt</lod:P4>
           <lod:P5>hätt geknéchelt</lod:P5>
           <lod:P6>hätte geknéchelt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>knéchel!</lod:P2>
+          <lod:P5>knéchelt!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>knéchelen</lod:P1>
+          <lod:P2>knéchels</lod:P2>
+          <lod:P3>knéchelt</lod:P3>
+          <lod:P4>knéchelen</lod:P4>
+          <lod:P5>knéchelt</lod:P5>
+          <lod:P6>knéchelen</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>si geknéchelt</lod:P1>
+          <lod:P2>bass geknéchelt</lod:P2>
+          <lod:P3>ass geknéchelt</lod:P3>
+          <lod:P4>si geknéchelt</lod:P4>
+          <lod:P5>sidd geknéchelt</lod:P5>
+          <lod:P6>si geknéchelt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>war geknéchelt</lod:P1>
+          <lod:P2>waars geknéchelt</lod:P2>
+          <lod:P3>war geknéchelt</lod:P3>
+          <lod:P4>ware geknéchelt</lod:P4>
+          <lod:P5>waart geknéchelt</lod:P5>
+          <lod:P6>ware geknéchelt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif knéchelen</lod:P1>
+          <lod:P2>géifs knéchelen</lod:P2>
+          <lod:P3>géif knéchelen</lod:P3>
+          <lod:P4>géife knéchelen</lod:P4>
+          <lod:P5>géift knéchelen</lod:P5>
+          <lod:P6>géife knéchelen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>wier geknéchelt</lod:P1>
+          <lod:P2>wiers geknéchelt</lod:P2>
+          <lod:P3>wier geknéchelt</lod:P3>
+          <lod:P4>wiere geknéchelt</lod:P4>
+          <lod:P5>wiert geknéchelt</lod:P5>
+          <lod:P6>wiere geknéchelt</lod:P6>
         </lod:PASSE-COMPOSE>
       </lod:CONDITIONNEL>
       <lod:IMPERATIF>

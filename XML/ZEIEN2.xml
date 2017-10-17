@@ -39,9 +39,9 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Brauereispäerd</lod:TEXTE>
+                        <lod:TEXTE>fréier</lod:TEXTE>
                         <lod:ABREV-AD>hunn</lod:ABREV-AD>
-                        <lod:TEXTE>de Won mat de Béierfässer</lod:TEXTE>
+                        <lod:TEXTE>d'Brauereispäerd de Won mat de Béierfässer</lod:TEXTE>
                         <lod:ABREV-AD>gezunn</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
@@ -123,6 +123,16 @@
                         <lod:ABREV-AD>z.</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
+                    <lod:EXEMPLE-GLOSE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zéien</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-ABSENTS/>
@@ -156,11 +166,11 @@
                     <lod:RS-ETP-PRESENTE>dispor, montar</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                    <lod:EXEMPLE>
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>fir nei Leitungen ze</lod:TEXTE>
-                        <lod:ABREV-AD>z.</lod:ABREV-AD>
-                        <lod:TEXTE>, gouf d'Strooss op der ganzer Breet opgerappt</lod:TEXTE>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zéien</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -189,18 +199,21 @@
                     <lod:RS-ETA-PRESENTE>herausnehmen</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">prendre de</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>faire sortir en tirant</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">sortir</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>en tirant</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to pull out</lod:ETE-EXPLICITE>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to take out</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">tirar de</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>tirar para fora, sacar</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>virum Wanter</lod:TEXTE>
+                        <lod:ABREV-AD>zitt</lod:ABREV-AD>
+                        <lod:TEXTE>de Fëscher säin Naachen aus dem Waasser</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>ech hunn näischt gemierkt, wéi den Täschendéif mer de Portmonni aus der Täsch</lod:TEXTE>
@@ -211,10 +224,10 @@
                       <lod:TEXTE-EX>
                         <lod:TEXTE>hoffentlech</lod:TEXTE>
                         <lod:ABREV-AD>zitts</lod:ABREV-AD>
-                        <lod:TEXTE>de eng Moral aus denger Geschicht!</lod:TEXTE>
+                        <lod:TEXTE>de eng Léier aus där Geschicht!</lod:TEXTE>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>hoffentlech hues de eppes aus denger Geschicht geléiert!</lod:TEXTE>
+                        <lod:TEXTE>hoffentlech léiers de eppes aus där Geschicht!</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
@@ -231,20 +244,16 @@
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">ziehen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>aus einer bestimmten Menge wählen</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-PRESENTE>Los, Karte</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tirer</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>choisir parmi d'autres</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-PRESENTE>dans un jeu, dans un tirage au sort</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to draw</lod:ETE-EXPLICITE>
                     <lod:RS-ETE-PRESENTE>a card, a number, a lottery ticket</lod:RS-ETE-PRESENTE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">tirar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>escolher entre outros</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -254,7 +263,7 @@
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>ech verstinn net, wéi hatt et mécht, fir all Kéier den Joker ze</lod:TEXTE>
+                        <lod:TEXTE>ech verstinn net, wéi hatt et mécht, fir all Kéier de Stippi ze</lod:TEXTE>
                         <lod:ABREV-AD>z.</lod:ABREV-AD>
                         <lod:TEXTE>!</lod:TEXTE>
                       </lod:TEXTE-EX>
@@ -279,22 +288,34 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">attirer</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>faire venir</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">drainer</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>à un endroit, vers un endroit</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to draw</lod:ETE-EXPLICITE>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to attract</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">atrair</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>fazer convergir</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                    <lod:EXEMPLE>
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>den erweiderte Choix</lod:TEXTE>
-                        <lod:ABREV-AD>zitt</lod:ABREV-AD>
-                        <lod:TEXTE>nei Clienten an d'Geschäft</lod:TEXTE>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zéien</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zéien</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zéien</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -310,7 +331,9 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE lod:STYLE="EGS"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sich lustig machen über</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">veralbern</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">veräppeln</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
@@ -337,9 +360,7 @@
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-PRESENTS>
-                      <lod:TERME-SYN>veräppelen</lod:TERME-SYN>
-                    </lod:SYN-PRESENTS>
+                    <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -406,16 +427,12 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tirer</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>avoir une bonne circulation d'air</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-PRESENTE>avoir un bon tirant d'air</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to exhaust</lod:ETE-EXPLICITE>
                     <lod:RS-ETE-PRESENTE>to extract</lod:RS-ETE-PRESENTE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ter tiragem</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>ter uma boa circulação de ar</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -438,27 +455,34 @@
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">ziehen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>Aroma abgeben</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-PRESENTE>Aroma entwickeln</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">infuser</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">être infusé</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>thé, tisane</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">être macéré</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to draw</lod:ETE-EXPLICITE>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to brew</lod:ETE-EXPLICITE>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to infuse</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">abrir</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>chá</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>ech hunn den Téi opgeschott an zéng Minutten</lod:TEXTE>
                         <lod:ABREV-AD>zéie</lod:ABREV-AD>
                         <lod:TEXTE>gelooss</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zéien</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zéien</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -479,16 +503,8 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">suinter</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>produire un liquide</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-PRESENTE>plaie</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to weep</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>to exude liquid</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">supurar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>deitar pus</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -561,7 +577,7 @@
                   <lod:MARQUE-USAGE lod:STYLE="EGS"/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sich drücken</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:RS-ETA-PRESENTE>sich einer Sache entziehen, vermeiden</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se défiler</lod:ETF-EXPLICITE>
@@ -605,20 +621,16 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE lod:STYLE="EGS"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sich in die Länge ziehen</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sich (in die Länge) ziehen</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">traîner en longueur</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">traîner</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>durée</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to drag on</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">arrastar-se</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>prolongar-se no tempo</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
                       <lod:TEXTE-EX>
@@ -661,22 +673,19 @@
                     <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se déplacer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">circuler</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to move</lod:ETE-EXPLICITE>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to travel</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">passar</lod:ETP-EXPLICITE>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">deslocar-se</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>en Orkan</lod:TEXTE>
-                        <lod:ABREV-AD>ass</lod:ABREV-AD>
-                        <lod:TEXTE>iwwer eist Land</lod:TEXTE>
-                        <lod:ABREV-AD>gezunn</lod:ABREV-AD>
+                        <lod:TEXTE>wann d'Madamm um Rez-de-chaussée Fritte mécht,</lod:TEXTE>
+                        <lod:ABREV-AD>zitt</lod:ABREV-AD>
+                        <lod:TEXTE>de Gestank duerch dat ganzt Trapenhaus</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -705,22 +714,17 @@
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZEIEN3UNI3">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
+                  <lod:UNITE-POLYLEX-LUX>zéien an</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">eindringen, einziehen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">ziehen in</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Feuchtigkeit, Geruch</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">pénétrer</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>s'infiltrer</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">pénétrer dans</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">s'infiltrer</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>humidité, liquide, odeur</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to seep into</lod:ETE-EXPLICITE>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to penetrate</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">penetrar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>infiltrar-se</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>

@@ -13,7 +13,7 @@
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
             <lod:TJ-NOMBRABLE>
-              <lod:FORME-PLURIEL lod:EIFEL="" lod:FREQ-PLURIEL="NORMALE" lod:TYPE-PLURIEL="REGULIER">Elementer</lod:FORME-PLURIEL>
+              <lod:FORME-PLURIEL lod:FREQ-PLURIEL="NORMALE" lod:TYPE-PLURIEL="REGULIER">Elementer</lod:FORME-PLURIEL>
             </lod:TJ-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
@@ -64,19 +64,19 @@
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ELEMENT1UNI2">
-                  <lod:DOM-SPEC lod:DOM="CHIM"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-NON-EXPLICITE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Substanz</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-NON-EXPLICITE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">substance</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">element</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">elemento</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>substância</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
