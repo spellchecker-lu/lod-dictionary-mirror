@@ -27,31 +27,32 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">fondre</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>se liquéfier</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se dissoudre</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to melt</lod:ETE-EXPLICITE>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to dissolve</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">derreter</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>liquefazer-se</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>dee Schockela</lod:TEXTE>
-                        <lod:ABREV-AD>zergeet</lod:ABREV-AD>
-                        <lod:TEXTE>engem op der Zong</lod:TEXTE>
+                        <lod:TEXTE>déi Pëllen däerfs de net mat Waasser anhuelen, mee du muss se lues am Mond</lod:TEXTE>
+                        <lod:ABREV-AD>zergoe</lod:ABREV-AD>
+                        <lod:TEXTE>loossen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE-GLOSE>
                       <lod:TEXTE-EX>
                         <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
                         <lod:ABREV-AD>zergoen</lod:ABREV-AD>
                         <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
+                      <lod:GLOSE>
+                        <lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
                     <lod:EXEMPLE-GLOSE>
                       <lod:TEXTE-EX>
                         <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>

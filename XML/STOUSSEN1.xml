@@ -137,6 +137,13 @@
                         <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>stoussen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-ABSENTS/>
@@ -251,7 +258,7 @@
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">esbarrar em alguma coisa</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">bater</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>ir (contra), magoar-se</lod:RS-ETP-PRESENTE>
+                    <lod:RS-ETP-PRESENTE>ir contra, magoar-se</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
@@ -265,6 +272,15 @@
                       <lod:TEXTE-EX>
                         <lod:ABREV-AD>stouss</lod:ABREV-AD>
                         <lod:TEXTE>dech net mam Kapp un enger Dunn!</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>de Mann</lod:TEXTE>
+                        <lod:ABREV-AD>huet</lod:ABREV-AD>
+                        <lod:TEXTE>sech esou fest</lod:TEXTE>
+                        <lod:ABREV-AD>gestouss</lod:ABREV-AD>
+                        <lod:TEXTE>, datt d'Haut opgeplatzt ass</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE>
@@ -287,7 +303,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="STOUSSEN1UNI8">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">lispeln</lod:ETA-EXPLICITE>

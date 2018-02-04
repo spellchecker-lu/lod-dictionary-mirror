@@ -21,7 +21,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="CHOLERA1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Cholera</lod:ETA-EXPLICITE>
@@ -41,9 +41,16 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>och an der haiteger Zäit bleift d'</lod:TEXTE>
+                        <lod:TEXTE>a Krisegebitter, an deenen et grave Hygienesmängel gëtt, brécht gär d'</lod:TEXTE>
                         <lod:ABREV-AD>C.</lod:ABREV-AD>
-                        <lod:TEXTE>en Thema</lod:TEXTE>
+                        <lod:TEXTE>aus</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>d'</lod:TEXTE>
+                        <lod:ABREV-AD>C.</lod:ABREV-AD>
+                        <lod:TEXTE>ass eng héichustiechend Daarminfektioun, un där ee bannent Stonne ka stierwen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

@@ -7,62 +7,9 @@
       <lod:MICROSTRUCTURE>
         <lod:MS-TYPE-ADJ>
           <lod:CAT-GRAM-ADJ/>
-          <lod:TRAITEMENT-LING-ADJ>
-            <lod:TRADUCTION-DOMINANTE>
-              <lod:PAS-DE-TRAD-DOMIN/>
-            </lod:TRADUCTION-DOMINANTE>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NOUTWENNEG1UNI1">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">notwendig</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>nötig</lod:RS-ETA-PRESENTE>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">nécessaire</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>indispensable, essentiel</lod:RS-ETF-PRESENTE>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">necessary</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>essential</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">necessário</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>indispensável, essencial</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>dës Computere sinn onbedéngt</lod:TEXTE>
-                        <lod:ABREV-AD>n.</lod:ABREV-AD>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>mir musse fir d'éischt déi</lod:TEXTE>
-                        <lod:ABREV-AD>n.</lod:ABREV-AD>
-                        <lod:TEXTE>Formalitéiten erleedegen</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>war dat do wierklech</lod:TEXTE>
-                        <lod:ABREV-AD>n.</lod:ABREV-AD>
-                        <lod:TEXTE>?</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-PRESENTS>
-                      <lod:TERME-SYN>néideg</lod:TERME-SYN>
-                    </lod:SYN-PRESENTS>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-ADJ>
+          <lod:RENVOI-ADJ lod:REF-ID-ITEM-ADRESSE="NOUTWENDEG1ITE">
+            <lod:VARIANTE-HOMOSEME/>
+          </lod:RENVOI-ADJ>
         </lod:MS-TYPE-ADJ>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>

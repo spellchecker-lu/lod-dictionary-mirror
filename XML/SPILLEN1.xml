@@ -65,7 +65,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SPILLEN1UNI2">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">eine Sportart</lod:ETA-EXPLICITE>
@@ -75,14 +75,6 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">jouer à</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>un sport</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to play</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>sport</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">jogar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>um desporto</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -101,7 +93,8 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SPILLEN1UNI3">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="THEATER"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">eine Rolle</lod:ETA-EXPLICITE>
@@ -149,7 +142,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SPILLEN1UNI4">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">ein Instrument</lod:ETA-EXPLICITE>
@@ -310,7 +303,7 @@
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SPILLEN1UNI7">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">als Sportler</lod:ETA-EXPLICITE>
@@ -320,14 +313,6 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">en tant que sportif</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to play</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>as a sportsman</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">jogar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>como desportista</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -350,7 +335,8 @@
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SPILLEN1UNI9">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="THEATER"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">als Schauspieler</lod:ETA-EXPLICITE>
@@ -390,7 +376,7 @@
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SPILLEN1UNI8">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">als Musiker</lod:ETA-EXPLICITE>
@@ -433,7 +419,7 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">für Geld</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">um Geld</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>

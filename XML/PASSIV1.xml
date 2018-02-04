@@ -45,6 +45,13 @@
                         <lod:TEXTE>Haltung</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>meng krank Mamm wënscht sech</lod:TEXTE>
+                        <lod:ABREV-AD>passiv</lod:ABREV-AD>
+                        <lod:TEXTE>Stierfhëllef, also stierwe gelooss ze ginn, wann de Moment do ass</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>d'Kanner fëmme</lod:TEXTE>
@@ -65,7 +72,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="PASSIV1UNI2">
-                  <lod:DOM-SPEC lod:DOM="LING"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">im Passiv</lod:ETA-EXPLICITE>

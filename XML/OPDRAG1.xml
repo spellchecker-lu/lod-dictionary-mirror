@@ -16,76 +16,9 @@
               <lod:FORME-PLURIEL lod:TYPE-PLURIEL="IRREGULIER">Opdräg</lod:FORME-PLURIEL>
             </lod:TJ-NOMBRABLE>
           </lod:PLURIEL>
-          <lod:TRAITEMENT-LING-SUBST>
-            <lod:TRADUCTION-DOMINANTE>
-              <lod:PAS-DE-TRAD-DOMIN/>
-            </lod:TRADUCTION-DOMINANTE>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="OPDRAG1UNI1">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Auftrag</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>Bestellung</lod:RS-ETA-PRESENTE>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">ordre (d'achat)</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">commande</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>d'une marchandise, d'un service</lod:RS-ETF-PRESENTE>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">order</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>for goods, for services</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ordem (de compra)</lod:ETP-EXPLICITE>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">encomenda</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>de uma mercadoria, de um serviço</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Dréckerei krut den</lod:TEXTE>
-                        <lod:ABREV-AD>O.</lod:ABREV-AD>
-                        <lod:TEXTE>, fir 1000 Exemplare vum Buch ze drécken</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>dee jonken Architekt huet schonn eng ganz Rei interessant</lod:TEXTE>
-                        <lod:ABREV-AD>Opdräg</lod:ABREV-AD>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Gewerkschaft huet eng nei Etüd an</lod:TEXTE>
-                        <lod:ABREV-AD>O.</lod:ABREV-AD>
-                        <lod:TEXTE>ginn</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                      <lod:GLOSE>
-                        <lod:TEXTE>d'Gewerkschaft huet eng nei Etüd bestallt</lod:TEXTE>
-                      </lod:GLOSE>
-                    </lod:EXEMPLE-GLOSE>
-                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>de Kënschtler realiséiert eng Skulptur am</lod:TEXTE>
-                        <lod:ABREV-AD>O.</lod:ABREV-AD>
-                        <lod:TEXTE>vun der Gemeng</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                      <lod:GLOSE>
-                        <lod:TEXTE>de Kënschtler ass vun der Gemeng chargéiert ginn, fir eng Skulptur ze realiséieren</lod:TEXTE>
-                      </lod:GLOSE>
-                    </lod:EXEMPLE-GLOSE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-SUBST>
+          <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="OPTRAG1ITE" lod:REFS-IDS-UNITES-DE-SENS="OPTRAG1UNI1">
+            <lod:VARIANTE-HOMOSEME/>
+          </lod:RENVOI-SUBST>
         </lod:MS-TYPE-SUBST>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>

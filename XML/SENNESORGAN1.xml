@@ -23,7 +23,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SENNESORGAN1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Sinnesorgan</lod:ETA-EXPLICITE>
@@ -52,6 +52,13 @@
                         <lod:TEXTE>dem Mënsch an dem Déier hir</lod:TEXTE>
                         <lod:ABREV-AD>S.er</lod:ABREV-AD>
                         <lod:TEXTE>sinn ënnerschiddlech entwéckelt</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>well blann Leit hir Aen net kënnen notzen, sinn hir aner</lod:TEXTE>
+                        <lod:ABREV-AD>S.er</lod:ABREV-AD>
+                        <lod:TEXTE>ëmsou méi empfindlech an entwéckelt</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

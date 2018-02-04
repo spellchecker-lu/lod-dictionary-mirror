@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="POLONIUM1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="POLONIUM1ITE">Polonium</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="M"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-SIMPLE/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-MASSIF/>
+          </lod:PLURIEL>
+          <lod:TRAITEMENT-LING-SUBST>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="POLONIUM1UNI1">
+                  <lod:DOM-SPEC lod:DOM="CHIM"/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Polonium</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>chemisches Element</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">polonium</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>élément chimique</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">polonium</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>chemical element</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">polónio</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>elemento químico</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>d'Element</lod:TEXTE>
+                        <lod:ABREV-AD>Polonium</lod:ABREV-AD>
+                        <lod:TEXTE>gëtt haut éischter zum Grupp vun de Metalle gerechent</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+      <lod:tag lod:typ="mass">208,9824</lod:tag>
+      <lod:tag lod:typ="ordz">84</lod:tag>
+      <lod:tag lod:typ="ofk">Po</lod:tag>
+    </lod:ARTICLE>
+  </lod:ITEM>
+</lod:LOD>

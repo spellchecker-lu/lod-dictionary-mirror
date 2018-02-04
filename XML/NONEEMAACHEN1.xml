@@ -9,91 +9,16 @@
           <lod:CAT-GRAM-VRB/>
           <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
           <lod:PARTICIPE-PASSE>noneegemaach</lod:PARTICIPE-PASSE>
-          <lod:TRAITEMENT-LING-VRB>
-            <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
-            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
-            <lod:TRADUCTION-DOMINANTE>
-              <lod:PAS-DE-TRAD-DOMIN/>
-            </lod:TRADUCTION-DOMINANTE>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NONEEMAACHEN1UNI1">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">zurechtmachen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">pomponner</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to dress up</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>to dress smartly</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ataviar</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>fir hire groussen Dag</lod:TEXTE>
-                        <lod:ABREV-AD>huet</lod:ABREV-AD>
-                        <lod:TEXTE>d'Braut sech extra schéin</lod:TEXTE>
-                        <lod:ABREV-AD>noneegemaach</lod:ABREV-AD>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NONEEMAACHEN1UNI2">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE lod:STYLE="EGS"/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">(übel) zurichten</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">amocher</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>par des coups</lod:RS-ETF-PRESENTE>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to duff up</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">sacudir o pó a</lod:ETP-EXPLICITE>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">moer de pancada</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>si</lod:TEXTE>
-                        <lod:ABREV-AD>hunn</lod:ABREV-AD>
-                        <lod:TEXTE>dee frechen Hond zerguttst</lod:TEXTE>
-                        <lod:ABREV-AD>noneegemaach</lod:ABREV-AD>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-VRB>
+          <lod:PARTICIPE-PASSE>noneegemaacht</lod:PARTICIPE-PASSE>
+          <lod:RENVOI-VRB lod:REF-ID-ITEM-ADRESSE="NOENEEMAACHEN1ITE">
+            <lod:VARIANTE-HOMOSEME/>
+          </lod:RENVOI-VRB>
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
     <lod:FLX-VRB>
       <lod:INFINITIF>noneemaachen</lod:INFINITIF>
-      <lod:PART-PASS>noneegemaach</lod:PART-PASS>
+      <lod:PART-PASS>noneegemaach / noneegemaacht</lod:PART-PASS>
       <lod:INDICATIF>
         <lod:PRESENT>
           <lod:P1>maachen noneen</lod:P1>
@@ -112,20 +37,20 @@
           <lod:P6>mouchen noneen</lod:P6>
         </lod:IMPARFAIT>
         <lod:PASSE-COMPOSE>
-          <lod:P1>hunn noneegemaach</lod:P1>
-          <lod:P2>hues noneegemaach</lod:P2>
-          <lod:P3>huet noneegemaach</lod:P3>
-          <lod:P4>hunn noneegemaach</lod:P4>
-          <lod:P5>hutt noneegemaach</lod:P5>
-          <lod:P6>hunn noneegemaach</lod:P6>
+          <lod:P1>hunn noneegemaach / noneegemaacht</lod:P1>
+          <lod:P2>hues noneegemaach / noneegemaacht</lod:P2>
+          <lod:P3>huet noneegemaach / noneegemaacht</lod:P3>
+          <lod:P4>hunn noneegemaach / noneegemaacht</lod:P4>
+          <lod:P5>hutt noneegemaach / noneegemaacht</lod:P5>
+          <lod:P6>hunn noneegemaach / noneegemaacht</lod:P6>
         </lod:PASSE-COMPOSE>
         <lod:PLUS-QUE-PARFAIT>
-          <lod:P1>hat noneegemaach</lod:P1>
-          <lod:P2>has noneegemaach</lod:P2>
-          <lod:P3>hat noneegemaach</lod:P3>
-          <lod:P4>haten noneegemaach</lod:P4>
-          <lod:P5>hat noneegemaach</lod:P5>
-          <lod:P6>haten noneegemaach</lod:P6>
+          <lod:P1>hat noneegemaach / noneegemaacht</lod:P1>
+          <lod:P2>has noneegemaach / noneegemaacht</lod:P2>
+          <lod:P3>hat noneegemaach / noneegemaacht</lod:P3>
+          <lod:P4>haten noneegemaach / noneegemaacht</lod:P4>
+          <lod:P5>hat noneegemaach / noneegemaacht</lod:P5>
+          <lod:P6>haten noneegemaach / noneegemaacht</lod:P6>
         </lod:PLUS-QUE-PARFAIT>
       </lod:INDICATIF>
       <lod:CONDITIONNEL>
@@ -146,12 +71,12 @@
           <lod:P6>géifen noneemaachen</lod:P6>
         </lod:PRESENT-COMPOSE>
         <lod:PASSE-COMPOSE>
-          <lod:P1>hätt noneegemaach</lod:P1>
-          <lod:P2>häss noneegemaach</lod:P2>
-          <lod:P3>hätt noneegemaach</lod:P3>
-          <lod:P4>hätten noneegemaach</lod:P4>
-          <lod:P5>hätt noneegemaach</lod:P5>
-          <lod:P6>hätten noneegemaach</lod:P6>
+          <lod:P1>hätt noneegemaach / noneegemaacht</lod:P1>
+          <lod:P2>häss noneegemaach / noneegemaacht</lod:P2>
+          <lod:P3>hätt noneegemaach / noneegemaacht</lod:P3>
+          <lod:P4>hätten noneegemaach / noneegemaacht</lod:P4>
+          <lod:P5>hätt noneegemaach / noneegemaacht</lod:P5>
+          <lod:P6>hätten noneegemaach / noneegemaacht</lod:P6>
         </lod:PASSE-COMPOSE>
       </lod:CONDITIONNEL>
       <lod:IMPERATIF>

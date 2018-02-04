@@ -51,7 +51,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="VERBRENNEN1UNI2">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">verbrennen</lod:ETA-EXPLICITE>
@@ -72,12 +72,6 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:ABREV-AD>verbrenn</lod:ABREV-AD>
-                        <lod:TEXTE>mech net mat denger Zigarett!</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
                         <lod:TEXTE>ech</lod:TEXTE>
                         <lod:ABREV-AD>hu</lod:ABREV-AD>
                         <lod:TEXTE>mer d'Fangeren un der Kachplack</lod:TEXTE>
@@ -89,6 +83,14 @@
                         <lod:TEXTE>bleif vum Grill ewech, soss</lod:TEXTE>
                         <lod:ABREV-AD>verbrenns</lod:ABREV-AD>
                         <lod:TEXTE>de dech nach!</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>beim Groussasaz</lod:TEXTE>
+                        <lod:ABREV-AD>huet</lod:ABREV-AD>
+                        <lod:TEXTE>e Pompjee sech ganz uerg</lod:TEXTE>
+                        <lod:ABREV-AD>verbrannt</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">

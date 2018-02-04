@@ -23,7 +23,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZEIWENNOL1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Zehennagel</lod:ETA-EXPLICITE>
@@ -39,6 +39,13 @@
                         <lod:TEXTE>ech hu mer d'</lod:TEXTE>
                         <lod:ABREV-AD>Zéiwenneel</lod:ABREV-AD>
                         <lod:TEXTE>rout lackéiert</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>ech muss mer deen agewuessen</lod:TEXTE>
+                        <lod:ABREV-AD>Zéiwennol</lod:ABREV-AD>
+                        <lod:TEXTE>behandele loossen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

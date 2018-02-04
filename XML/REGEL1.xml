@@ -120,7 +120,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="REGEL1UNI2">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Menstruation</lod:ETA-EXPLICITE>
@@ -144,6 +144,13 @@
                         <lod:TEXTE>ech hu meng</lod:TEXTE>
                         <lod:ABREV-AD>R.</lod:ABREV-AD>
                         <lod:TEXTE>eng Woch méi spéit kritt ewéi gewéinlech</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>well hir</lod:TEXTE>
+                        <lod:ABREV-AD>Regel</lod:ABREV-AD>
+                        <lod:TEXTE>esou staark ass, leit d'Fra stänneg ënner Eisemangel</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

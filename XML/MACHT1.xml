@@ -16,91 +16,9 @@
               <lod:FORME-PLURIEL lod:TYPE-PLURIEL="IRREGULIER">Mächten</lod:FORME-PLURIEL>
             </lod:TJ-NOMBRABLE>
           </lod:PLURIEL>
-          <lod:TRAITEMENT-LING-SUBST>
-            <lod:TRADUCTION-DOMINANTE>
-              <lod:PAS-DE-TRAD-DOMIN/>
-            </lod:TRADUCTION-DOMINANTE>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="MACHT1UNI1">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Macht</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>Befehlsgewalt, Autorität</lod:RS-ETA-PRESENTE>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">pouvoir</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>autorité, puissance</lod:RS-ETF-PRESENTE>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">power</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>authority</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:ABREV-AD>M.</lod:ABREV-AD>
-                        <lod:TEXTE>schaaft dacks eng gewëssen Arroganz</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>de Generol ass duerch e Putsch un d'</lod:TEXTE>
-                        <lod:ABREV-AD>M.</lod:ABREV-AD>
-                        <lod:TEXTE>komm</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>Wëssen ass</lod:TEXTE>
-                        <lod:ABREV-AD>M.</lod:ABREV-AD>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="MACHT1UNI2">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Macht</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>Staat</lod:RS-ETA-PRESENTE>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">puissance</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>État</lod:RS-ETF-PRESENTE>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">power</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>state</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">potência</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>Estado</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>déi grouss</lod:TEXTE>
-                        <lod:ABREV-AD>M.e</lod:ABREV-AD>
-                        <lod:TEXTE>verhandelen, fir deen internationale Konflikt definitiv ze léisen</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-SUBST>
+          <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="MUECHT1ITE" lod:REFS-IDS-UNITES-DE-SENS="MUECHT1UNI1 MUECHT1UNI2">
+            <lod:VARIANTE-HOMOSEME/>
+          </lod:RENVOI-SUBST>
         </lod:MS-TYPE-SUBST>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>

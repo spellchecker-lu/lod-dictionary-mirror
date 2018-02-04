@@ -36,6 +36,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tour</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>parcours (en boucle)</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">lap</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">circuit</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">volta</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>percurso (circular)</lod:RS-ETP-PRESENTE>
@@ -100,6 +104,9 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tournée</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>de service</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">(delivery) round</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">volta</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">giro</lod:ETP-EXPLICITE>
@@ -142,6 +149,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tournée</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>de vente, de promotion</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">round</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>selling goods, promoting goods</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">tournée</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>comercial, promocional</lod:RS-ETP-PRESENTE>
@@ -185,6 +196,11 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tour</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>excursion, sortie</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">trip</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">turn</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">stroll</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">volta</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>excursão, saída</lod:RS-ETP-PRESENTE>
@@ -239,6 +255,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">randonnée</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>organisée</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">(organised) tour</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>for tourists</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">circuito (turístico)</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">passeio</lod:ETP-EXPLICITE>
@@ -274,6 +294,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tour</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>dans un ordre de succession</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">turn</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>in a succession</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">vez</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">turno</lod:ETP-EXPLICITE>
@@ -315,7 +339,7 @@
                       <lod:FORME-PLURIEL lod:TYPE-PLURIEL="IRREGULIER">Tier</lod:FORME-PLURIEL>
                     </lod:TJ-NOMBRABLE>
                   </lod:INDICATION-SPECIALE-PLURIEL-SUBST>
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Runde</lod:ETA-EXPLICITE>
@@ -325,6 +349,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tour</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>d'une compétition, d'un championnat, d'un tournoi</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">round</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>of a competition</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">volta</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>de uma competição, de um campeonato, de um torneio</lod:RS-ETP-PRESENTE>
@@ -364,6 +392,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tour</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>d'un jeu</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">round</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>of a game</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">jogada</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>de um jogo</lod:RS-ETP-PRESENTE>
@@ -403,6 +435,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tour</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>durée déterminée</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">round</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>period of time</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">volta</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>tempo determinado</lod:RS-ETP-PRESENTE>
@@ -436,7 +472,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="TOUR1UNI14">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Tour</lod:ETA-EXPLICITE>
@@ -446,6 +482,9 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tour</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>compétition cycliste</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">cycle race</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">volta</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>competição de ciclismo</lod:RS-ETP-PRESENTE>
@@ -485,6 +524,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tour</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>de scrutin</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">round</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>of voting</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">volta</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>de escrutínio</lod:RS-ETP-PRESENTE>
@@ -522,6 +565,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tour</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>de rotation</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">turn</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>of rotation</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">volta</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>rotação</lod:RS-ETP-PRESENTE>
@@ -561,6 +608,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tour</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>d'un moteur</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">revolution</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>of an engine</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">rotação</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>de um motor</lod:RS-ETP-PRESENTE>
@@ -621,6 +672,9 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tour</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>du potier</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">potter's wheel</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">torno</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>do oleiro</lod:RS-ETP-PRESENTE>
@@ -655,6 +709,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">(mauvais) tour</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>entourloupe</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">trick</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>prank</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">brincadeira (de mau gosto)</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">partida</lod:ETP-EXPLICITE>
@@ -689,6 +747,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">ampleur</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>d'un vêtement, d'un rideau</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">fullness</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>of a dress, of curtains</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">roda</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>de uma roupa</lod:RS-ETP-PRESENTE>

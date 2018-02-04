@@ -7,7 +7,7 @@
       <lod:MICROSTRUCTURE>
         <lod:MS-TYPE-SUBST>
           <lod:CAT-GRAM-SUBST/>
-          <lod:GENRE lod:GEN="N"/>
+          <lod:GENRE lod:GEN="FN"/>
           <lod:TYPE-SUBST>
             <lod:SUBST-SIMPLE/>
           </lod:TYPE-SUBST>
@@ -28,12 +28,12 @@
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Zimmer</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:RS-ETA-PRESENTE>Wohnraum</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">pièce</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>dans une habitation</lod:RS-ETF-PRESENTE>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">chambre (à coucher)</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">chambre</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
@@ -57,6 +57,13 @@
                         <lod:TEXTE>nom Sträit mat sengem Papp huet d'Meedche sech op säin</lod:TEXTE>
                         <lod:ABREV-AD>Z.</lod:ABREV-AD>
                         <lod:TEXTE>verfuusst</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>Zëmmer</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

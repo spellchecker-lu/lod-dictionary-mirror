@@ -26,9 +26,7 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">satisfaire</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">contenter</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:RS-ETF-PRESENTE>contenter</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to satisfy</lod:ETE-EXPLICITE>
@@ -39,10 +37,11 @@
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">contentar</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                    <lod:EXEMPLE>
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>et ass schwéier, fir jiddwereen</lod:TEXTE>
-                        <lod:ABREV-AD>zefriddenzestellen</lod:ABREV-AD>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zefriddestellen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

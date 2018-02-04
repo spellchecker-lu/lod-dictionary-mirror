@@ -14,7 +14,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="KRANKHAFT1UNI2">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">krankhaft</lod:ETA-EXPLICITE>
@@ -40,6 +40,13 @@
                         <lod:TEXTE>hien ass</lod:TEXTE>
                         <lod:ABREV-AD>k.</lod:ABREV-AD>
                         <lod:TEXTE>jalous</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>menger Mamm hire Botzfimmel fänkt u</lod:TEXTE>
+                        <lod:ABREV-AD>k.</lod:ABREV-AD>
+                        <lod:TEXTE>ze ginn</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

@@ -14,41 +14,9 @@
           <lod:PLURIEL>
             <lod:TJ-MASSIF/>
           </lod:PLURIEL>
-          <lod:TRAITEMENT-LING-SUBST>
-            <lod:TRADUCTION-DOMINANTE>
-              <lod:PAS-DE-TRAD-DOMIN/>
-            </lod:TRADUCTION-DOMINANTE>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="CAROTIN1UNI1">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Carotin</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">carotène</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">carotene</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>an de Muerten ass vill</lod:TEXTE>
-                        <lod:ABREV-AD>C.</lod:ABREV-AD>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-SUBST>
+          <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="KAROTIN1ITE" lod:REFS-IDS-UNITES-DE-SENS="KAROTIN1UNI1">
+            <lod:VARIANTE-ORTHOGRAPHIQUE/>
+          </lod:RENVOI-SUBST>
         </lod:MS-TYPE-SUBST>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>

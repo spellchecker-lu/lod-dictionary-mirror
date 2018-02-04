@@ -23,7 +23,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WIMPER1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Wimper</lod:ETA-EXPLICITE>
@@ -44,6 +44,13 @@
                       <lod:TEXTE-EX>
                         <lod:TEXTE>meng Frëndin huet schéi laang</lod:TEXTE>
                         <lod:ABREV-AD>W.en</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>am Fall vun enger Chimiotherapie kënnen dem Patient esouguer d'</lod:TEXTE>
+                        <lod:ABREV-AD>W.en</lod:ABREV-AD>
+                        <lod:TEXTE>ausfalen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">

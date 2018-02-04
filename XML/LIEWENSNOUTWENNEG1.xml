@@ -7,42 +7,9 @@
       <lod:MICROSTRUCTURE>
         <lod:MS-TYPE-ADJ>
           <lod:CAT-GRAM-ADJ/>
-          <lod:TRAITEMENT-LING-ADJ>
-            <lod:TRADUCTION-DOMINANTE>
-              <lod:PAS-DE-TRAD-DOMIN/>
-            </lod:TRADUCTION-DOMINANTE>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="LIEWENSNOUTWENNEG1UNI1">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">lebensnotwendig</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">vital</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>essentiel à la vie, à la survie</lod:RS-ETF-PRESENTE>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">vital</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>essential for life</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>proppert Drénkwaasser ass fir de Mënsch</lod:TEXTE>
-                        <lod:ABREV-AD>l.</lod:ABREV-AD>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-ADJ>
+          <lod:RENVOI-ADJ lod:REF-ID-ITEM-ADRESSE="LIEWENSNOUTWENDEG1ITE">
+            <lod:VARIANTE-HOMOSEME/>
+          </lod:RENVOI-ADJ>
         </lod:MS-TYPE-ADJ>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>

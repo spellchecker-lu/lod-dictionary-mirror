@@ -23,7 +23,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="KNEIKAUL1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Kniekehle</lod:ETA-EXPLICITE>
@@ -46,6 +46,13 @@
                         <lod:TEXTE>de Spiller krut déi rout Kaart, well en e Géigner an d'</lod:TEXTE>
                         <lod:ABREV-AD>K.</lod:ABREV-AD>
                         <lod:TEXTE>gerannt hat</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>déi Knupp a menger</lod:TEXTE>
+                        <lod:ABREV-AD>Knéikaul</lod:ABREV-AD>
+                        <lod:TEXTE>huet sech als Schwier erausgestallt</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

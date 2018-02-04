@@ -14,88 +14,9 @@
           <lod:PLURIEL>
             <lod:TJ-MASSIF/>
           </lod:PLURIEL>
-          <lod:TRAITEMENT-LING-SUBST>
-            <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-DOMIN>Untergang</lod:TRAD-ALL-DOMIN>
-            </lod:TRADUCTION-DOMINANTE>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ENNERGANK1UNI2" lod:FREQ-EMPLOI="NORMAL">
-                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
-                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">eines Schiffs</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">naufrage</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>d'un navire</lod:RS-ETF-PRESENTE>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">shipwreck</lod:ETE-EXPLICITE>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">sinking</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>of a ship</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">naufrágio</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>de um navio</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>et hunn nëmmen aacht Persounen den</lod:TEXTE>
-                        <lod:ABREV-AD>Ë.</lod:ABREV-AD>
-                        <lod:TEXTE>iwwerlieft</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ENNERGANK1UNI1" lod:FREQ-EMPLOI="NORMAL">
-                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
-                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Niedergang</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">déclin</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">disparition</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">fall</lod:ETE-EXPLICITE>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">decline</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">declínio</lod:ETP-EXPLICITE>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">queda</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Ënnergank</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-PRESENTS>
-                      <lod:TERME-SYN>Niddergang</lod:TERME-SYN>
-                    </lod:SYN-PRESENTS>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-SUBST>
+          <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="ENNERGANG1ITE" lod:REFS-IDS-UNITES-DE-SENS="ENNERGANG1UNI2 ENNERGANG1UNI1">
+            <lod:VARIANTE-HOMOSEME/>
+          </lod:RENVOI-SUBST>
         </lod:MS-TYPE-SUBST>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>

@@ -16,74 +16,9 @@
               <lod:FORME-PLURIEL lod:TYPE-PLURIEL="IRREGULIER">Donneschdeger</lod:FORME-PLURIEL>
             </lod:TJ-NOMBRABLE>
           </lod:PLURIEL>
-          <lod:TRAITEMENT-LING-SUBST>
-            <lod:TRADUCTION-DOMINANTE>
-              <lod:PAS-DE-TRAD-DOMIN/>
-            </lod:TRADUCTION-DOMINANTE>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="DONNESCHDEN1UNI1" lod:FREQ-EMPLOI="NORMAL">
-                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
-                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Donnerstag</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">jeudi</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">Thursday</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">quinta-feira</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Strooss ass bis nächsten</lod:TEXTE>
-                        <lod:ABREV-AD>D.</lod:ABREV-AD>
-                        <lod:TEXTE>gespaart</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>ech hunn déi nächst dräi</lod:TEXTE>
-                        <lod:ABREV-AD>Donneschdeger</lod:ABREV-AD>
-                        <lod:TEXTE>Rendez-vous beim Zänndokter</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>mir gesinn eis en</lod:TEXTE>
-                        <lod:ABREV-AD>D.</lod:ABREV-AD>
-                      </lod:TEXTE-EX>
-                      <lod:GLOSE>
-                        <lod:TEXTE>mir gesinn eis nächsten</lod:TEXTE>
-                        <lod:ABREV-AD>D.</lod:ABREV-AD>
-                      </lod:GLOSE>
-                    </lod:EXEMPLE-GLOSE>
-                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>mir hunn eis en</lod:TEXTE>
-                        <lod:ABREV-AD>Donneschde</lod:ABREV-AD>
-                        <lod:TEXTE>gesinn</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                      <lod:GLOSE>
-                        <lod:TEXTE>mir hunn eis leschten</lod:TEXTE>
-                        <lod:ABREV-AD>Donneschde</lod:ABREV-AD>
-                        <lod:TEXTE>gesinn</lod:TEXTE>
-                      </lod:GLOSE>
-                    </lod:EXEMPLE-GLOSE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-SUBST>
+          <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="DONNESCHDEG1ITE" lod:REFS-IDS-UNITES-DE-SENS="DONNESCHDEG1UNI1">
+            <lod:VARIANTE-HOMOSEME/>
+          </lod:RENVOI-SUBST>
         </lod:MS-TYPE-SUBST>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>

@@ -26,7 +26,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZONG1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Organ</lod:ETA-EXPLICITE>
@@ -50,6 +50,12 @@
                         <lod:TEXTE>leck d'Messer net of, soss schneits de dech an d'</lod:TEXTE>
                         <lod:ABREV-AD>Z.</lod:ABREV-AD>
                         <lod:TEXTE>!</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>den Dokter sot mer, ech hätt e Pilz un der</lod:TEXTE>
+                        <lod:ABREV-AD>Zong</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">

@@ -7,47 +7,9 @@
       <lod:MICROSTRUCTURE>
         <lod:MS-TYPE-ADV>
           <lod:CAT-GRAM-ADV/>
-          <lod:TRAITEMENT-LING-ADV>
-            <lod:TRADUCTION-DOMINANTE>
-              <lod:PAS-DE-TRAD-DOMIN/>
-            </lod:TRADUCTION-DOMINANTE>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="APAARTI1UNI1" lod:FREQ-EMPLOI="NORMAL">
-                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
-                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">besonders</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>sehr</lod:RS-ETA-PRESENTE>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">particulièrement</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>très</lod:RS-ETF-PRESENTE>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">especially</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>very much</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">particularmente</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>muito</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>apaarti</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-ADV>
+          <lod:RENVOI-ADV lod:REF-ID-ITEM-ADRESSE="APAART2ITE">
+            <lod:VARIANTE-HOMOSEME/>
+          </lod:RENVOI-ADV>
         </lod:MS-TYPE-ADV>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>

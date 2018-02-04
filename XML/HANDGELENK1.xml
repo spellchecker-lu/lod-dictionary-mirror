@@ -23,7 +23,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="HANDGELENK1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Handgelenk</lod:ETA-EXPLICITE>
@@ -52,6 +52,13 @@
                       <lod:TEXTE-EX>
                         <lod:TEXTE>ech hunn eng Arthrite am rietsen</lod:TEXTE>
                         <lod:ABREV-AD>H.</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>de Patient ass mat engem déck geschwollenen</lod:TEXTE>
+                        <lod:ABREV-AD>Handgelenk</lod:ABREV-AD>
+                        <lod:TEXTE>an d'Urgence komm</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE>

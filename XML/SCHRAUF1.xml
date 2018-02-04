@@ -112,26 +112,35 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SCHRAUF1UNI3">
-                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Schraube</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>Figur</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-PRESENTE>Sprung, Drehung</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">vrille</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>saut</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-PRESENTE>saut, rotation</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">twist</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">parafuso</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>salto</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>den Äiskonschtleefer ass zwou dräifach</lod:TEXTE>
+                        <lod:TEXTE>den Äiskonschtleefer ass zwou</lod:TEXTE>
                         <lod:ABREV-AD>Schrauwen</lod:ABREV-AD>
                         <lod:TEXTE>hannerenee gesprongen</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>bei enger</lod:TEXTE>
+                        <lod:ABREV-AD>S.</lod:ABREV-AD>
+                        <lod:TEXTE>huet de Pilot d'Kontroll iwwer säi Fliger verluer</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

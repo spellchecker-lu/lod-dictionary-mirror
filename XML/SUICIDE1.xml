@@ -23,7 +23,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SUICIDE1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Selbstmord</lod:ETA-EXPLICITE>
@@ -33,6 +33,9 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">suicide</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">suicide</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">suicídio</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
@@ -46,9 +49,9 @@
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Police geet beim Doudesfall vun engem</lod:TEXTE>
+                        <lod:TEXTE>mäi Psychiater huet mer gehollef, fir vu menge Gedanken u</lod:TEXTE>
                         <lod:ABREV-AD>S.</lod:ABREV-AD>
-                        <lod:TEXTE>aus</lod:TEXTE>
+                        <lod:TEXTE>lasszekommen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

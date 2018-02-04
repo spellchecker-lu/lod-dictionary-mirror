@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="KAILCHEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="KAILCHEN1ITE">Kailchen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST lod:C-G-SUBST="SUBST"/>
+          <lod:GENRE lod:GEN="F"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-SIMPLE/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:FREQ-PLURIEL="NORMALE" lod:TYPE-PLURIEL="IRREGULIER">Kailercher</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:RENVOI-ET-TRAIT-LING-SUPPL-SUBST>
+            <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="KAUL1ITE" lod:REFS-IDS-UNITES-DE-SENS="KAUL1UNI1">
+              <lod:FORME-DIMINUTIVE/>
+            </lod:RENVOI-SUBST>
+            <lod:TRAITEMENT-LING-SUBST>
+              <lod:TRADUCTION-DOMINANTE>
+                <lod:PAS-DE-TRAD-DOMIN/>
+              </lod:TRADUCTION-DOMINANTE>
+              <lod:UNITE-TRAD>
+                <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                  <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="KAILCHEN1UNI1">
+                    <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                    <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                    <lod:EQUIV-TRAD-ALL>
+                      <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Grübchen</lod:ETA-EXPLICITE>
+                      <lod:RS-ETA-PRESENTE>im Gesicht</lod:RS-ETA-PRESENTE>
+                    </lod:EQUIV-TRAD-ALL>
+                    <lod:EQUIV-TRAD-FR>
+                      <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">fossette</lod:ETF-EXPLICITE>
+                      <lod:RS-ETF-PRESENTE>du visage</lod:RS-ETF-PRESENTE>
+                    </lod:EQUIV-TRAD-FR>
+                    <lod:EXEMPLIFICATION>
+                      <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                        <lod:TEXTE-EX>
+                          <lod:TEXTE>dat Meedchen huet eng léif</lod:TEXTE>
+                          <lod:ABREV-AD>K.</lod:ABREV-AD>
+                          <lod:TEXTE>am Kënn</lod:TEXTE>
+                        </lod:TEXTE-EX>
+                      </lod:EXEMPLE>
+                      <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                        <lod:TEXTE-EX>
+                          <lod:TEXTE>wann s de laachs, gesäit een deng</lod:TEXTE>
+                          <lod:ABREV-AD>Kailercher</lod:ABREV-AD>
+                          <lod:TEXTE>an de Baken nach besser</lod:TEXTE>
+                        </lod:TEXTE-EX>
+                      </lod:EXEMPLE>
+                    </lod:EXEMPLIFICATION>
+                    <lod:SYNONYMES>
+                      <lod:SYN-ABSENTS/>
+                    </lod:SYNONYMES>
+                  </lod:UNITE-DE-SENS>
+                </lod:PAS-DE-TRAD-SUBORDONNANTE>
+              </lod:UNITE-TRAD>
+            </lod:TRAITEMENT-LING-SUBST>
+          </lod:RENVOI-ET-TRAIT-LING-SUPPL-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
+</lod:LOD>

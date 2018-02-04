@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="QUADRATMETER1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="QUADRATMETER1ITE">Quadratmeter</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="M"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-COMPOSE lod:REF-ID-ARTICLE-DOMIN="QUADRAT1"/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Quadratmeter</lod:FORME-PLURIEL>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Quadratmeteren</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:TRAITEMENT-LING-SUBST>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="QUADRATMETER1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Quadratmeter</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">mètre carré</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>wéi vill</lod:TEXTE>
+                        <lod:ABREV-AD>Q.</lod:ABREV-AD>
+                        <lod:TEXTE> huet däin neit Appartement?</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>duerch eng schlecht Opdeelung vun de Raim kënne vill</lod:TEXTE>
+                        <lod:ABREV-AD>Q.en</lod:ABREV-AD>
+                        <lod:TEXTE>am Gebai net optimal ausgenotzt ginn</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
+</lod:LOD>

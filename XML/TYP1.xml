@@ -37,7 +37,9 @@
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">type</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>person, kind</lod:RS-ETE-PRESENTE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">sort</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">kind</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>person</lod:RS-ETE-PRESENTE>
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">tipo (de pessoa)</lod:ETP-EXPLICITE>
@@ -89,6 +91,12 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">type</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>catégorie</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">type</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">sort</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">kind</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>category</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">tipo</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>categoria</lod:RS-ETP-PRESENTE>

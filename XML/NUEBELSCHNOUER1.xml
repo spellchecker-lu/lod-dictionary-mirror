@@ -23,7 +23,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NUEBELSCHNOUER1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Nabelschnur</lod:ETA-EXPLICITE>
@@ -45,6 +45,13 @@
                         <lod:TEXTE>den Dokter huet d'</lod:TEXTE>
                         <lod:ABREV-AD>N.</lod:ABREV-AD>
                         <lod:TEXTE>duerchgeschnidden</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>wéi d'Kand op d'Welt koum, hat et d'</lod:TEXTE>
+                        <lod:ABREV-AD>N.</lod:ABREV-AD>
+                        <lod:TEXTE>ëm den Hals gewéckelt</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">

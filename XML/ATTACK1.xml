@@ -27,9 +27,9 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Anschlag</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Überfall</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Anschlag</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
@@ -58,28 +58,31 @@
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
                 <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="ATTACK1UNI3">
-                  <lod:DOM-SPEC lod:DOM="SPORT"/>
+                  <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Angriff</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Attacke</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-NON-EXPLICITE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">action sportive, militaire</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">attack</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ataque</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>jogada ofensiva</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>de Golkipp huet d'</lod:TEXTE>
-                        <lod:ABREV-AD>Attacke</lod:ABREV-AD>
-                        <lod:TEXTE>gutt ofgewiert</lod:TEXTE>
+                        <lod:TEXTE>mat véier</lod:TEXTE>
+                        <lod:ABREV-AD>Attacken</lod:ABREV-AD>
+                        <lod:TEXTE>an der éischter Halschent hu mer dräi Goler geschoss</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>déi feindlech</lod:TEXTE>
+                        <lod:ABREV-AD>Attack</lod:ABREV-AD>
+                        <lod:TEXTE>huet d'Zaldoten am Schlof iwwerrascht</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
@@ -130,19 +133,6 @@
                         <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>elo gi mer an d'</lod:TEXTE>
-                        <lod:ABREV-AD>A.</lod:ABREV-AD>
-                        <lod:TEXTE>!</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                      <lod:GLOSE>
-                        <lod:TEXTE>elo ënnerhuele mer eppes géint eis Géigner</lod:TEXTE>
-                      </lod:GLOSE>
-                      <lod:GLOSE>
-                        <lod:TEXTE>elo fänke mer u mat schaffen</lod:TEXTE>
-                      </lod:GLOSE>
-                    </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-ABSENTS/>

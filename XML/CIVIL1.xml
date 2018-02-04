@@ -7,57 +7,9 @@
       <lod:MICROSTRUCTURE>
         <lod:MS-TYPE-ADJ>
           <lod:CAT-GRAM-ADJ/>
-          <lod:TRAITEMENT-LING-ADJ>
-            <lod:TRADUCTION-DOMINANTE>
-              <lod:PAS-DE-TRAD-DOMIN/>
-            </lod:TRADUCTION-DOMINANTE>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="CIVIL1UNI1">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">zivil</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>bürgerlich</lod:RS-ETA-PRESENTE>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">civil</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>non militaire, non religieux</lod:RS-ETF-PRESENTE>
-                    <lod:ETF-ALT lod:TYPE-ETF-ALT="FORME-ADVERBIALE-ADJ">civilement</lod:ETF-ALT>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">civil</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>not military or religious</lod:RS-ETE-PRESENTE>
-                    <lod:ETE-ALT lod:TYPE-ETE-ALT="FORME-ADVERBIALE-ADJ">civilly</lod:ETE-ALT>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">civil</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>não militar, não religioso</lod:RS-ETP-PRESENTE>
-                    <lod:ETP-ALT lod:TYPE-ETP-ALT="FORME-ADVERBIALE-ADJ">civilmente</lod:ETP-ALT>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>d'</lod:TEXTE>
-                        <lod:ABREV-AD>c.t</lod:ABREV-AD>
-                        <lod:TEXTE>Bestietnes ass nächste Freideg</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>ech halen drop,</lod:TEXTE>
-                        <lod:ABREV-AD>c.</lod:ABREV-AD>
-                        <lod:TEXTE>begruewen ze ginn</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-ADJ>
+          <lod:RENVOI-ADJ lod:REF-ID-ITEM-ADRESSE="ZIVIL1ITE">
+            <lod:VARIANTE-HOMOSEME/>
+          </lod:RENVOI-ADJ>
         </lod:MS-TYPE-ADJ>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>

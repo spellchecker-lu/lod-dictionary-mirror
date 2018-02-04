@@ -18,7 +18,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="KRANKSCHREIWEN1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">krankschreiben</lod:ETA-EXPLICITE>
@@ -39,8 +39,10 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>obwuel et mir wierklech schlecht goung, wollt den Dokter mech net</lod:TEXTE>
-                        <lod:ABREV-AD>k.</lod:ABREV-AD>
+                        <lod:TEXTE>no menger Operatioun</lod:TEXTE>
+                        <lod:ABREV-AD>huet</lod:ABREV-AD>
+                        <lod:TEXTE>den Dokter mech sechs Woche</lod:TEXTE>
+                        <lod:ABREV-AD>krankgeschriwwen</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

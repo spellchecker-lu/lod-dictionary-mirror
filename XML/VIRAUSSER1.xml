@@ -7,83 +7,9 @@
       <lod:MICROSTRUCTURE>
         <lod:MS-TYPE-ADV>
           <lod:CAT-GRAM-ADV/>
-          <lod:TRAITEMENT-LING-ADV>
-            <lod:TRADUCTION-DOMINANTE>
-              <lod:PAS-DE-TRAD-DOMIN/>
-            </lod:TRADUCTION-DOMINANTE>
-            <lod:UNITE-TRAD>
-              <lod:TRAD-FR-SUBORDONNANTE>
-                <lod:TRAD-FR-SUBORD>devant</lod:TRAD-FR-SUBORD>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="VIRAUSSER1UNI1">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">vorne</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">an der Vorderseite</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>eines Gebäudes</lod:RS-ETA-PRESENTE>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">sur la face avant</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>d'un immeuble</lod:RS-ETF-PRESENTE>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">in front</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>at the front of a building</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">na frente</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>de um edifício</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>mueres hu mir d'Sonn</lod:TEXTE>
-                        <lod:ABREV-AD>v.</lod:ABREV-AD>
-                        <lod:TEXTE>, owes hannenaus op der Terrass</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="VIRAUSSER1UNI2">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">vorne</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">im vorderen Teil</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">dans la partie avant</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">in front</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>in the front part of a building</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">na parte da frente</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>mir schlofen neierdéngs hannenaus,</lod:TEXTE>
-                        <lod:ABREV-AD>v.</lod:ABREV-AD>
-                        <lod:TEXTE>ass ze vill Kaméidi</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:TRAD-FR-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-ADV>
+          <lod:RENVOI-ADV lod:REF-ID-ITEM-ADRESSE="VIRAUS2ITE">
+            <lod:VARIANTE-HOMOSEME/>
+          </lod:RENVOI-ADV>
         </lod:MS-TYPE-ADV>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>

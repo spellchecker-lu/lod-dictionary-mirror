@@ -23,7 +23,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="MELLECHZANT1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Milchzahn</lod:ETA-EXPLICITE>
@@ -45,6 +45,13 @@
                         <lod:TEXTE>dee klenge Jong huet säin éischte</lod:TEXTE>
                         <lod:ABREV-AD>M.</lod:ABREV-AD>
                         <lod:TEXTE>verluer</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>eist Klengt huet missen e</lod:TEXTE>
+                        <lod:ABREV-AD>Mëllechzant</lod:ABREV-AD>
+                        <lod:TEXTE>gerappt kréien</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

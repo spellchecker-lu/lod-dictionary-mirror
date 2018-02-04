@@ -24,7 +24,7 @@
               <lod:TRAD-ALL-SUBORDONNANTE>
                 <lod:TRAD-ALL-SUBORD>Spritze</lod:TRAD-ALL-SUBORD>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SPRETZ1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Injektionsspritze</lod:ETA-EXPLICITE>
@@ -49,6 +49,13 @@
                         <lod:TEXTE>ausgedeelt</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>fréier goufe</lod:TEXTE>
+                        <lod:ABREV-AD>S.en</lod:ABREV-AD>
+                        <lod:TEXTE>nom Gebrauch desinfizéiert an dann nees benotzt</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-PRESENTS>
@@ -57,7 +64,7 @@
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SPRETZ1UNI2">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Injektion</lod:ETA-EXPLICITE>

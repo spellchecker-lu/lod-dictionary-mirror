@@ -13,7 +13,7 @@
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
             <lod:TJ-NOMBRABLE>
-              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Knéischeiwen</lod:FORME-PLURIEL>
+              <lod:FORME-PLURIEL lod:EIFEL="Knéischeiwe" lod:TYPE-PLURIEL="REGULIER">Knéischeiwen</lod:FORME-PLURIEL>
             </lod:TJ-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
@@ -23,7 +23,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="KNEISCHEIF1UNI1">
-                  <lod:DOM-SPEC lod:DOM="ANAT"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Kniescheibe</lod:ETA-EXPLICITE>
@@ -31,13 +31,11 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">rotule</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:RS-ETF-PRESENTE>os</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">kneecap</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">rótula</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>articulação tibiofemoral</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>

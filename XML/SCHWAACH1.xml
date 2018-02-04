@@ -51,6 +51,12 @@
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
+                        <lod:TEXTE>de Patient ass net méi a Liewensgefor, mee am Moment nach ganz</lod:TEXTE>
+                        <lod:ABREV-AD>s.</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
                         <lod:TEXTE>meng Täscheluucht liicht just nach ganz</lod:TEXTE>
                         <lod:ABREV-AD>s.</lod:ABREV-AD>
                       </lod:TEXTE-EX>
@@ -73,7 +79,7 @@
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">weak</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>deficient, lacking</lod:RS-ETE-PRESENTE>
+                    <lod:RS-ETE-PRESENTE>below standard, lacking in ability</lod:RS-ETE-PRESENTE>
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fraco</lod:ETP-EXPLICITE>
@@ -166,7 +172,8 @@
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to weaken</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>to give in</lod:RS-ETE-PRESENTE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to give in</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to succumb</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ceder</lod:ETP-EXPLICITE>
@@ -224,7 +231,7 @@
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SCHWAACH1UNI6">
-                  <lod:DOM-SPEC lod:DOM="LING"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">(grammatisch) schwach</lod:ETA-EXPLICITE>
@@ -234,6 +241,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">faible</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>grammaticalement</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">weak</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>grammatically</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fraco</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>gramaticalmente</lod:RS-ETP-PRESENTE>

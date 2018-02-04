@@ -22,26 +22,18 @@
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">zeichnen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>zeichnend darstellen</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-PRESENTE>darstellen</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">dessiner</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>représenter par un dessin</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to draw</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>to depict</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">desenhar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>representar por meio de desenho</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                    <lod:EXEMPLE>
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>dësen Architekt</lod:TEXTE>
-                        <lod:ABREV-AD>zeechent</lod:ABREV-AD>
-                        <lod:TEXTE>nëmmen Haiser mat engem flaachen Daach</lod:TEXTE>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zeechnen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -52,10 +44,11 @@
                         <lod:ABREV-AD>gezeechent</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                    <lod:EXEMPLE>
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>am Exercice steet, et soll ee fir d'éischt zwou parallel Linnen</lod:TEXTE>
-                        <lod:ABREV-AD>z.</lod:ABREV-AD>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zeechnen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -74,27 +67,18 @@
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">markieren</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">kennzeichnen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:RS-ETA-PRESENTE>eine Stelle in einem Buch</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">marquer</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>distinguer par un signe</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-PRESENTE>la page d'un ouvrage</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to mark</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>to indicate with a sign</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">marcar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>indicar com sinal distintivo</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                    <lod:EXEMPLE>
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>ech</lod:TEXTE>
-                        <lod:ABREV-AD>hu</lod:ABREV-AD>
-                        <lod:TEXTE>mer déi Plaz am Buch</lod:TEXTE>
-                        <lod:ABREV-AD>gezeechent</lod:ABREV-AD>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zeechnen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -109,6 +93,43 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZEECHNEN1UNI3">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">beschriften</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">mit einem Etikett versehen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">étiqueter</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>un objet</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zeechnen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zeechnen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZEECHNEN1UNI4">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
@@ -132,15 +153,15 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>säi Gesiicht ass vun där laanger Krankheet</lod:TEXTE>
+                        <lod:TEXTE>dat traumatescht Erliefnes</lod:TEXTE>
+                        <lod:ABREV-AD>huet</lod:ABREV-AD>
+                        <lod:TEXTE>hie fir d'ganzt Liewe</lod:TEXTE>
                         <lod:ABREV-AD>gezeechent</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>dat traumatescht Erliefnes</lod:TEXTE>
-                        <lod:ABREV-AD>huet</lod:ABREV-AD>
-                        <lod:TEXTE>hie fir d'ganzt Liewe</lod:TEXTE>
+                        <lod:TEXTE>säi Gesiicht ass vun där laanger Krankheet</lod:TEXTE>
                         <lod:ABREV-AD>gezeechent</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
@@ -155,7 +176,7 @@
             </lod:UNITE-TRAD>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZEECHNEN1UNI4">
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZEECHNEN1UNI5">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
@@ -165,17 +186,13 @@
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">signaler</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">indiquer</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">indiquer par une signalisation</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to sign</lod:ETE-EXPLICITE>
                     <lod:RS-ETE-PRESENTE>to signpost</lod:RS-ETE-PRESENTE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">sinalizar</lod:ETP-EXPLICITE>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">indicar</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -186,8 +203,35 @@
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Afaart vum Parking ass mat engem Schëld</lod:TEXTE>
+                        <lod:TEXTE>d'Afaart vum Parking ass</lod:TEXTE>
                         <lod:ABREV-AD>gezeechent</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZEECHNEN1UNI6">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">zeichnen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Wertpapiere</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">souscrire</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>en banque</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>ech hunn et verpasst, déi doten Obligatiounen ze</lod:TEXTE>
+                        <lod:ABREV-AD>z.</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -206,25 +250,17 @@
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZEECHNEN1UNI5">
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZEECHNEN1UNI7">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">zeichnen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>Zeichnungen anfertigen</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-PRESENTE>darstellen</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">dessiner</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>faire des dessins, exercer le dessin</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to draw</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>a picture</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">desenhar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>fazer desenhos</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -242,31 +278,23 @@
             </lod:UNITE-TRAD>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZEECHNEN1UNI6">
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZEECHNEN1UNI8">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sich abzeichnen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>durchscheinen</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-PRESENTE>unter Kleidungsstücken</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">marquer</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>se dessiner</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-PRESENTE>vêtements</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to show through</lod:ETE-EXPLICITE>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to be outlined</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">deixar marcas</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>desenhar-se</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>de Slip</lod:TEXTE>
+                        <lod:TEXTE>an där enker Box</lod:TEXTE>
                         <lod:ABREV-AD>zeechent</lod:ABREV-AD>
-                        <lod:TEXTE>ënner der Jupe</lod:TEXTE>
+                        <lod:TEXTE>mäi Slip</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

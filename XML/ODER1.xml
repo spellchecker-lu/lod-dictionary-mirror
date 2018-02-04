@@ -24,7 +24,7 @@
               <lod:TRAD-FR-SUBORDONNANTE>
                 <lod:TRAD-FR-SUBORD>veine</lod:TRAD-FR-SUBORD>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ODER1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Blutgefäß</lod:ETA-EXPLICITE>
@@ -48,6 +48,13 @@
                         <lod:TEXTE>mir ass eng</lod:TEXTE>
                         <lod:ABREV-AD>O.</lod:ABREV-AD>
                         <lod:TEXTE>am A geplatzt</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>wann ech an d'Bluttanalys ginn, huet d'Infirmière ëmmer Méi, meng</lod:TEXTE>
+                        <lod:ABREV-AD>O.</lod:ABREV-AD>
+                        <lod:TEXTE>ze fannen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">

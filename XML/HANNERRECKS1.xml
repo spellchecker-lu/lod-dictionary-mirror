@@ -18,9 +18,7 @@
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">rückwärts</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">nach hinten</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:RS-ETA-PRESENTE>nach hinten</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">en arrière</lod:ETF-EXPLICITE>
@@ -48,16 +46,61 @@
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>hien ass mam Auto</lod:TEXTE>
+                        <lod:TEXTE>ech fueren ëmmer</lod:TEXTE>
                         <lod:ABREV-AD>h.</lod:ABREV-AD>
-                        <lod:TEXTE>an d'Garage gefuer</lod:TEXTE>
+                        <lod:TEXTE>mam Auto an d'Garage</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>an der Reha léiert de Patient nees,</lod:TEXTE>
+                        <lod:ABREV-AD>h.</lod:ABREV-AD>
+                        <lod:TEXTE>ze goen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-PRESENTS>
                       <lod:TERME-SYN>hannerzeg</lod:TERME-SYN>
-                      <lod:TERME-SYN>zeréckuetesch</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="HANNERRECKS1UNI2" lod:FREQ-EMPLOI="NORMAL">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">rückwärts</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>von hinten nach vorn</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">à rebours</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">à l'envers</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>de Schoulmeeschter huet d'Kanner gedoen, vun honnert un</lod:TEXTE>
+                        <lod:ABREV-AD>hannerrécks</lod:ABREV-AD>
+                        <lod:TEXTE>ze zielen</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>als Kanner ware mir versiess drop, witzeg Filmzeenen</lod:TEXTE>
+                        <lod:ABREV-AD>hannerrécks</lod:ABREV-AD>
+                        <lod:TEXTE>ze kucken</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>hannerzeg</lod:TERME-SYN>
                     </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>

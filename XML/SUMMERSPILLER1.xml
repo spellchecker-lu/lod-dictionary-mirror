@@ -21,7 +21,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SUMMERSPILLER1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:UNITE-POLYLEX-LUX>(Olympesch) Summerspiller</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
@@ -32,6 +32,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">Jeux (olympiques) d'été</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">Summer Games</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>Olympic Games</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">Jogos (Olímpicos) de verão</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
