@@ -23,21 +23,17 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">hinterherfahren</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">folgen</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">un autre véhicule</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">longer</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>conducteur, véhicule</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to drive behind</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>to follow</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">seguir</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ir atrás de</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>um outro veículo</lod:RS-ETP-PRESENTE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">seguir</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>condutor, veículo</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -49,32 +45,6 @@
                         <lod:TEXTE>, well ech de Wee net kennen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NOFUEREN1UNI2">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">entlangfahren</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">longer</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>conducteur, véhicule</lod:RS-ETF-PRESENTE>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to follow</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>to drive in the same direction as</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">seguir</lod:ETP-EXPLICITE>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ir ao longo de</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>condutor, veículo</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:ABREV-AD>fuer</lod:ABREV-AD>
@@ -88,7 +58,7 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NOFUEREN1UNI3">
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NOFUEREN1UNI2">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
@@ -139,7 +109,7 @@
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">seguir</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>com uma esferográfica, com o dedo</lod:RS-ETP-PRESENTE>
+                    <lod:RS-ETP-PRESENTE>com a caneta, com o dedo</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -163,8 +133,12 @@
                   <lod:MARQUE-USAGE/>
                   <lod:UNITE-POLYLEX-LUX>nofueren (mat)</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">(noch einmal) fahren (mit)</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>wischend über eine Fläche bewegen</lod:RS-ETA-PRESENTE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">(noch einmal) wischen (mit)</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">(noch einmal) streichen (mit)</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">(noch einmal) auftragen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">(re)passer</lod:ETF-EXPLICITE>
@@ -176,7 +150,8 @@
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">passar (novamente)</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>um objeto, para lavar ou enxugar uma superfície</lod:RS-ETP-PRESENTE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">esfregar (novamente)</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>para limpar uma superfície</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">

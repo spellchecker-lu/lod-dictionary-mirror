@@ -18,7 +18,7 @@
             <lod:UNITE-TRAD>
               <lod:TRAD-ALL-SUBORDONNANTE>
                 <lod:TRAD-ALL-SUBORD>zusammenschlagen</lod:TRAD-ALL-SUBORD>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZESUMMESCHLOEN1UNI2">
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZESUMMESCHLOEN1UNI1">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
@@ -28,6 +28,8 @@
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">rouer de coups</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tabasser</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>jusqu'à effondrement</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to beat up</lod:ETE-EXPLICITE>
@@ -50,7 +52,7 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZESUMMESCHLOEN1UNI1">
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZESUMMESCHLOEN1UNI2">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
@@ -69,17 +71,18 @@
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">bater um contra o outro</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                    <lod:EXEMPLE>
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>wann ech der en Zeeche ginn, da</lod:TEXTE>
-                        <lod:ABREV-AD>schléis</lod:ABREV-AD>
-                        <lod:TEXTE>de d'Jummdeckelen eemol</lod:TEXTE>
-                        <lod:ABREV-AD>zesummen</lod:ABREV-AD>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zesummeschloen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>widdereneeschloen</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:TRAD-ALL-SUBORDONNANTE>
@@ -95,22 +98,18 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">regrouper</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>unir</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-PRESENTE>fusionner</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to merge</lod:ETE-EXPLICITE>
                     <lod:RS-ETE-PRESENTE>to combine</lod:RS-ETE-PRESENTE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">agrupar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>unir</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>am Betrib</lod:TEXTE>
+                        <lod:TEXTE>an eisem Betrib</lod:TEXTE>
                         <lod:ABREV-AD>ginn</lod:ABREV-AD>
-                        <lod:TEXTE>zwee Servicer</lod:TEXTE>
+                        <lod:TEXTE>elo zwee Servicer</lod:TEXTE>
                         <lod:ABREV-AD>zesummegeschloen</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>

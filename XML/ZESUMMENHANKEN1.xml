@@ -32,6 +32,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">être lié (à)</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">estar relacionado (com)</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">estar ligado (a)</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -60,6 +64,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">être inséparables</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>personnes</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ser inseparáveis</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>pessoas</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -79,5 +87,55 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>zesummenhänken</lod:INFINITIF>
+      <lod:PART-PASS>zesummegehaangen / zesummegehaang</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P3>hänkt zesummen</lod:P3>
+          <lod:P4>hänken zesummen</lod:P4>
+          <lod:P5>hänkt zesummen</lod:P5>
+          <lod:P6>hänken zesummen</lod:P6>
+        </lod:PRESENT>
+        <lod:IMPARFAIT>
+          <lod:P3>houng zesummen</lod:P3>
+          <lod:P4>houngen zesummen</lod:P4>
+          <lod:P5>houngt zesummen</lod:P5>
+          <lod:P6>houngen zesummen</lod:P6>
+        </lod:IMPARFAIT>
+        <lod:PASSE-COMPOSE>
+          <lod:P3>huet zesummegehaangen / zesummegehaang</lod:P3>
+          <lod:P4>hunn zesummegehaangen / zesummegehaang</lod:P4>
+          <lod:P5>hutt zesummegehaangen / zesummegehaang</lod:P5>
+          <lod:P6>hunn zesummegehaangen / zesummegehaang</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P3>hat zesummegehaangen / zesummegehaang</lod:P3>
+          <lod:P4>haten zesummegehaangen / zesummegehaang</lod:P4>
+          <lod:P5>hat zesummegehaangen / zesummegehaang</lod:P5>
+          <lod:P6>haten zesummegehaangen / zesummegehaang</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-SIMPLE>
+          <lod:P3>héing zesummen</lod:P3>
+          <lod:P4>héingen zesummen</lod:P4>
+          <lod:P5>héingt zesummen</lod:P5>
+          <lod:P6>héingen zesummen</lod:P6>
+        </lod:PRESENT-SIMPLE>
+        <lod:PRESENT-COMPOSE>
+          <lod:P3>géif zesummenhänken</lod:P3>
+          <lod:P4>géifen zesummenhänken</lod:P4>
+          <lod:P5>géift zesummenhänken</lod:P5>
+          <lod:P6>géifen zesummenhänken</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P3>hätt zesummegehaangen / zesummegehaang</lod:P3>
+          <lod:P4>hätten zesummegehaangen / zesummegehaang</lod:P4>
+          <lod:P5>hätt zesummegehaangen / zesummegehaang</lod:P5>
+          <lod:P6>hätten zesummegehaangen / zesummegehaang</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

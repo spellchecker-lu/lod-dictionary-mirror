@@ -27,6 +27,8 @@
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">revenir</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>au point de départ</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">retourner</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>au point de départ</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to come back</lod:ETE-EXPLICITE>
@@ -40,19 +42,40 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>de Bréif</lod:TEXTE>
-                        <lod:ABREV-AD>ass zeréckkomm</lod:ABREV-AD>
-                        <lod:TEXTE>, well eng falsch Adress dropsteet</lod:TEXTE>
+                        <lod:TEXTE>am Fréijoer</lod:TEXTE>
+                        <lod:ABREV-AD>kommen</lod:ABREV-AD>
+                        <lod:TEXTE>d'Schmuebelen</lod:TEXTE>
+                        <lod:ABREV-AD>zeréck</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>dëse Weekend</lod:TEXTE>
-                        <lod:ABREV-AD>komme</lod:ABREV-AD>
-                        <lod:TEXTE>vill Leit aus der Vakanz</lod:TEXTE>
+                        <lod:TEXTE>ech fueren dës Woch dohin a</lod:TEXTE>
+                        <lod:ABREV-AD>kommen</lod:ABREV-AD>
+                        <lod:TEXTE>déi nächst Woch</lod:TEXTE>
                         <lod:ABREV-AD>zeréck</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
+                    <lod:EXEMPLE-GLOSE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zeréckkommen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
+                    <lod:EXEMPLE-GLOSE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zeréckkommen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-PRESENTS>

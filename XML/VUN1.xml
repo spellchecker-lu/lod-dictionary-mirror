@@ -66,7 +66,7 @@
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT"/>
-                    <lod:INFO-FONCTION-ETA>Übersetzung mit Genitiv</lod:INFO-FONCTION-ETA>
+                    <lod:INFO-FONCTION-ETA>drückt eine Zugehörigkeitsrelation aus</lod:INFO-FONCTION-ETA>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">de</lod:ETF-EXPLICITE>
@@ -79,20 +79,6 @@
                     <lod:INFO-FONCTION-ETP>introduz um complemento do nome</lod:INFO-FONCTION-ETP>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>op wéi eng</lod:TEXTE>
-                        <lod:ABREV-AD>v.</lod:ABREV-AD>
-                        <lod:TEXTE>dengen zwou Adresse soll ech der de Mail schécken?</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>hie gëtt allgemeng als ee</lod:TEXTE>
-                        <lod:ABREV-AD>v.</lod:ABREV-AD>
-                        <lod:TEXTE>deene beschten Historiker ugesinn</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>an dësem Haus hunn d'Grousseltere</lod:TEXTE>
@@ -167,6 +153,20 @@
                     <lod:RS-ETP-PRESENTE>de entre</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>op wéi eng</lod:TEXTE>
+                        <lod:ABREV-AD>v.</lod:ABREV-AD>
+                        <lod:TEXTE>dengen zwou Adresse soll ech der de Mail schécken?</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>hie gëtt allgemeng als ee</lod:TEXTE>
+                        <lod:ABREV-AD>v.</lod:ABREV-AD>
+                        <lod:TEXTE>deene beschten Historiker ugesinn</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:ABREV-AD>v.</lod:ABREV-AD>
@@ -441,6 +441,49 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="VUN1UNI10">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:UNITE-POLYLEX-LUX>vun ... bis</lod:UNITE-POLYLEX-LUX>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">von ... bis</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">de ... (jusqu')à</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">de ... a</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">de ... até</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>limite no tempo</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>vun</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>d'Aarbechtszäite si</lod:TEXTE>
+                        <lod:ABREV-AD>v.</lod:ABREV-AD>
+                        <lod:TEXTE>8 bis 12 a</lod:TEXTE>
+                        <lod:ABREV-AD>vu</lod:ABREV-AD>
+                        <lod:TEXTE>14 bis 18 Auer</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="VUN1UNI11">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:UNITE-POLYLEX-LUX>vun elauter</lod:UNITE-POLYLEX-LUX>

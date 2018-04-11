@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="ORTHODONTISTIN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="ORTHODONTISTIN1ITE">Orthodontistin</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="F"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-SIMPLE/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="IRREGULIER">Orthodontistinnen</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="ORTHODONTIST1ITE" lod:REFS-IDS-UNITES-DE-SENS="ORTHODONTIST1UNI1">
+            <lod:FORME-FEM>
+              <lod:SYNONS>
+                <lod:SYN-ABS/>
+              </lod:SYNONS>
+            </lod:FORME-FEM>
+          </lod:RENVOI-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
+</lod:LOD>

@@ -31,23 +31,18 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">soupe</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>potage</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">potage</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">soup</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">sopa</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>caldo</lod:RS-ETP-PRESENTE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">caldo</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>de Kach huet ze vill Salz an d'</lod:TEXTE>
-                        <lod:ABREV-AD>Z.</lod:ABREV-AD>
-                        <lod:TEXTE>gemaach</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
                         <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
@@ -55,7 +50,14 @@
                         <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>de Kach schéngt verléift ze sinn, d'</lod:TEXTE>
+                        <lod:ABREV-AD>Z.</lod:ABREV-AD>
+                        <lod:TEXTE>ass versalzt</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>de Bop grommelt, wann d'</lod:TEXTE>
                         <lod:ABREV-AD>Z.</lod:ABREV-AD>
@@ -65,17 +67,17 @@
                         <lod:TEXTE>de Bop grommelt, wann d'Iessen net matzäit um Dësch steet</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
-                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>et gëtt keng</lod:TEXTE>
                         <lod:ABREV-AD>Z.</lod:ABREV-AD>
-                        <lod:TEXTE>esou gliddeg giess, wéi se gekacht gëtt</lod:TEXTE>
+                        <lod:TEXTE>esou waarm giess, wéi se gekacht gëtt!</lod:TEXTE>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>am Endeffekt ass alles net esou schlëmm, wéi et ufangs ausgesäit</lod:TEXTE>
+                        <lod:TEXTE>zu gudder Lescht ass alles net esou schlëmm, wéi et ufangs ausgesäit</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
-                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>mir hunn hinnen d'</lod:TEXTE>
                         <lod:ABREV-AD>Z.</lod:ABREV-AD>
@@ -85,16 +87,35 @@
                         <lod:TEXTE>mir hunn hinnen et schwéier gemaach</lod:TEXTE>
                       </lod:GLOSE>
                       <lod:GLOSE>
-                        <lod:TEXTE>mir hunn hire Plang verduerwen</lod:TEXTE>
+                        <lod:TEXTE>mir hunn hire Plang verhënnert</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
-                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>an deem Beruff verdéngs de d'Salz net fir an d'</lod:TEXTE>
                         <lod:ABREV-AD>Z.</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>an deem Beruff verdéngs de bal keng Suen</lod:TEXTE>
+                        <lod:TEXTE>an deem Beruff verdéngs de guer net vill</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>dee gesäit aus, du mengs, e kréich keng waarm</lod:TEXTE>
+                        <lod:ABREV-AD>Z.</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>dee gesäit gouereg a schappeg aus</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>do gouf et</lod:TEXTE>
+                        <lod:ABREV-AD>Z.</lod:ABREV-AD>
+                        <lod:TEXTE>an ze iessen</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>do gouf et vëllegen a genuch ze iessen</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>

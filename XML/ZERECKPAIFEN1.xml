@@ -22,7 +22,7 @@
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">zurückpfeifen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>durch Pfiffe herbeirufen</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">siffler</lod:ETF-EXPLICITE>
@@ -39,12 +39,23 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>de Besëtzer</lod:TEXTE>
+                        <lod:TEXTE>de Jeeër</lod:TEXTE>
                         <lod:ABREV-AD>huet</lod:ABREV-AD>
-                        <lod:TEXTE>säi groussen Hond</lod:TEXTE>
+                        <lod:TEXTE>säin Hond</lod:TEXTE>
                         <lod:ABREV-AD>zeréckgepaff</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>d'Aarbechter waren op Streik agestallt, mee d'Gewerkschaft</lod:TEXTE>
+                        <lod:ABREV-AD>huet</lod:ABREV-AD>
+                        <lod:TEXTE>se am leschten Ament</lod:TEXTE>
+                        <lod:ABREV-AD>zeréckgepaff</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>d'Aarbechter waren op Streik agestallt, mee d'Gewerkschaft huet se am leschten Ament dovun ofgehalen</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-ABSENTS/>

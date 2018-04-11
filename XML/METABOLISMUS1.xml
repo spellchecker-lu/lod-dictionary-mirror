@@ -21,7 +21,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="METABOLISMUS1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Metabolismus</lod:ETA-EXPLICITE>
@@ -39,9 +39,9 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>duerch meng Medikamenter huet sech mäi</lod:TEXTE>
+                        <lod:TEXTE>duerch meng Medikamenter huet mäi</lod:TEXTE>
                         <lod:ABREV-AD>M.</lod:ABREV-AD>
-                        <lod:TEXTE>verännert</lod:TEXTE>
+                        <lod:TEXTE>sech verännert</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

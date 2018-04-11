@@ -26,7 +26,7 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">récupérer</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>ce qui a été prêté ou perdu</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-PRESENTE>ce qui a été payé, prêté, perdu</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to get back</lod:ETE-EXPLICITE>
@@ -34,7 +34,8 @@
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">recuperar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>algo emprestado ou perdido</lod:RS-ETP-PRESENTE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">receber de volta</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>o que tinha sido pago, emprestado, perdido</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -45,6 +46,24 @@
                         <lod:ABREV-AD>zeréckkritt</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>dëst Joer</lod:TEXTE>
+                        <lod:ABREV-AD>kréie</lod:ABREV-AD>
+                        <lod:TEXTE>mer e Batz Sue vun de Steieren</lod:TEXTE>
+                        <lod:ABREV-AD>zeréck</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE-GLOSE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zeréckkréien</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-PRESENTS>
