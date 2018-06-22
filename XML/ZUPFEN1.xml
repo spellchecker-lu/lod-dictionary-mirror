@@ -28,6 +28,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">pincer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>un instrument à cordes</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">dedilhar</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>um instrumento de cordas</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -48,5 +52,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>zupfen</lod:INFINITIF>
+      <lod:PART-PASS>gezupft</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>zupfen</lod:P1>
+          <lod:P2>zupfs</lod:P2>
+          <lod:P3>zupft</lod:P3>
+          <lod:P4>zupfen</lod:P4>
+          <lod:P5>zupft</lod:P5>
+          <lod:P6>zupfen</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu gezupft</lod:P1>
+          <lod:P2>hues gezupft</lod:P2>
+          <lod:P3>huet gezupft</lod:P3>
+          <lod:P4>hu gezupft</lod:P4>
+          <lod:P5>hutt gezupft</lod:P5>
+          <lod:P6>hu gezupft</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat gezupft</lod:P1>
+          <lod:P2>has gezupft</lod:P2>
+          <lod:P3>hat gezupft</lod:P3>
+          <lod:P4>hate gezupft</lod:P4>
+          <lod:P5>hat gezupft</lod:P5>
+          <lod:P6>hate gezupft</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif zupfen</lod:P1>
+          <lod:P2>géifs zupfen</lod:P2>
+          <lod:P3>géif zupfen</lod:P3>
+          <lod:P4>géifen zupfen</lod:P4>
+          <lod:P5>géift zupfen</lod:P5>
+          <lod:P6>géifen zupfen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt gezupft</lod:P1>
+          <lod:P2>häss gezupft</lod:P2>
+          <lod:P3>hätt gezupft</lod:P3>
+          <lod:P4>hätte gezupft</lod:P4>
+          <lod:P5>hätt gezupft</lod:P5>
+          <lod:P6>hätte gezupft</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>zupf!</lod:P2>
+          <lod:P5>zupft!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

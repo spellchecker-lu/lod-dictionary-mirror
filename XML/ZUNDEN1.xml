@@ -30,6 +30,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">faire détoner</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fazer explodir</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fazer detonar</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -59,5 +63,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>zünden</lod:INFINITIF>
+      <lod:PART-PASS>gezünt</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>zünden</lod:P1>
+          <lod:P2>zünts</lod:P2>
+          <lod:P3>zünt</lod:P3>
+          <lod:P4>zünden</lod:P4>
+          <lod:P5>zünt</lod:P5>
+          <lod:P6>zünden</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu gezünt</lod:P1>
+          <lod:P2>hues gezünt</lod:P2>
+          <lod:P3>huet gezünt</lod:P3>
+          <lod:P4>hu gezünt</lod:P4>
+          <lod:P5>hutt gezünt</lod:P5>
+          <lod:P6>hu gezünt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat gezünt</lod:P1>
+          <lod:P2>has gezünt</lod:P2>
+          <lod:P3>hat gezünt</lod:P3>
+          <lod:P4>hate gezünt</lod:P4>
+          <lod:P5>hat gezünt</lod:P5>
+          <lod:P6>hate gezünt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif zünden</lod:P1>
+          <lod:P2>géifs zünden</lod:P2>
+          <lod:P3>géif zünden</lod:P3>
+          <lod:P4>géifen zünden</lod:P4>
+          <lod:P5>géift zünden</lod:P5>
+          <lod:P6>géifen zünden</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt gezünt</lod:P1>
+          <lod:P2>häss gezünt</lod:P2>
+          <lod:P3>hätt gezünt</lod:P3>
+          <lod:P4>hätte gezünt</lod:P4>
+          <lod:P5>hätt gezünt</lod:P5>
+          <lod:P6>hätte gezünt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>zünt!</lod:P2>
+          <lod:P5>zünt!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

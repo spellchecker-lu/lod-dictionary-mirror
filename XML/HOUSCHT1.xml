@@ -54,9 +54,9 @@
             </lod:UNITE-TRAD>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="HOUSCHT1UNI2" lod:FREQ-EMPLOI="NORMAL">
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="HOUSCHT1UNI2">
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
-                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:MARQUE-USAGE/>
                   <lod:UNITE-POLYLEX-LUX>bloen Houscht</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Keuchhusten</lod:ETA-EXPLICITE>
@@ -67,21 +67,26 @@
                     <lod:RS-ETF-PRESENTE>maladie</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">pertussis</lod:ETE-EXPLICITE>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">whooping cough</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">tosse convulsa</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">coqueluche</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>doença</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>eis Kanner kruten allen zwee de bloen</lod:TEXTE>
-                        <lod:ABREV-AD>H.</lod:ABREV-AD>
+                        <lod:TEXTE>géint de bloen</lod:TEXTE>
+                        <lod:ABREV-AD>Houscht</lod:ABREV-AD>
+                        <lod:TEXTE>gëtt et eng Impfung</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>Coqueluche</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>

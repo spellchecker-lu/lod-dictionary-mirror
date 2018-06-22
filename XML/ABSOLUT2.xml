@@ -47,6 +47,13 @@
                         <lod:TEXTE>Recht!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>absolut</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-ABSENTS/>
@@ -101,5 +108,42 @@
         </lod:MS-TYPE-ADJ>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>absolut</lod:POSITIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>absolutten</lod:NOM>
+              <lod:AKK>absolutten</lod:AKK>
+              <lod:DAT>absolutten</lod:DAT>
+              <lod:GEN>absolutten</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>absolut</lod:NOM>
+              <lod:AKK>absolut</lod:AKK>
+              <lod:DAT>absolutter</lod:DAT>
+              <lod:GEN>absolutter</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>absolut</lod:NOM>
+              <lod:AKK>absolut</lod:AKK>
+              <lod:DAT>absolutten</lod:DAT>
+              <lod:GEN>absolutten</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>absolut</lod:NOM>
+              <lod:AKK>absolut</lod:AKK>
+              <lod:DAT>absolutten</lod:DAT>
+              <lod:GEN>absolutter</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
   </lod:ITEM>
 </lod:LOD>
