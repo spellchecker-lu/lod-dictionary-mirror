@@ -12,7 +12,9 @@
             <lod:SUBST-SIMPLE/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:TJ-MASSIF/>
+            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="NEUROCHIRURGIE1UNI2" lod:REFS-IDS-UNITES-DE-SENS-MASS="NEUROCHIRURGIE1UNI1">
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Neurochirurgien</lod:FORME-PLURIEL>
+            </lod:ALT-MASSIF-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
@@ -67,14 +69,6 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">service de neurochirurgie</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">neurosurgery</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>medical department</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">neurocirurgia</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>departamento</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>

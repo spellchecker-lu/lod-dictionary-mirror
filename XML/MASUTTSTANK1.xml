@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="MASUTTSTANK1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="MASUTTSTANK1ITE">Masuttstank</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="M"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-COMPOSE lod:REF-ID-ARTICLE-DOMIN="MAZOUT1"/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Masuttstanken</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="MAZOUTSTANK1ITE" lod:REFS-IDS-UNITES-DE-SENS="MAZOUTSTANK1UNI1">
+            <lod:VARIANTE-ORTHOGRAPHIQUE/>
+          </lod:RENVOI-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
+</lod:LOD>

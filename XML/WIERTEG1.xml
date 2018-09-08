@@ -22,7 +22,7 @@
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="WIERTEG1UNI1">
                   <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
+                  <lod:MARQUE-USAGE lod:STYLE="VEREELZT"/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Werktag</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
@@ -31,6 +31,9 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">jour ouvrable</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">workday</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">dia útil</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>

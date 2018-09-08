@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="REZEPTPFLICHTEG1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="REZEPTPFLICHTEG1ITE">rezeptpflichteg</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-ADJ>
+          <lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ"/>
+          <lod:RENVOI-ADJ lod:REF-ID-ITEM-ADRESSE="REZEPTFLICHTEG1ITE">
+            <lod:VARIANTE-HOMOSEME/>
+          </lod:RENVOI-ADJ>
+        </lod:MS-TYPE-ADJ>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>rezeptpflichteg</lod:POSITIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>rezeptpflichtegen</lod:NOM>
+              <lod:AKK>rezeptpflichtegen</lod:AKK>
+              <lod:DAT>rezeptpflichtegen</lod:DAT>
+              <lod:GEN>rezeptpflichtegen</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>rezeptpflichteg</lod:NOM>
+              <lod:AKK>rezeptpflichteg</lod:AKK>
+              <lod:DAT>rezeptpflichteger</lod:DAT>
+              <lod:GEN>rezeptpflichteger</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>rezeptpflichtegt</lod:NOM>
+              <lod:AKK>rezeptpflichtegt</lod:AKK>
+              <lod:DAT>rezeptpflichtegen</lod:DAT>
+              <lod:GEN>rezeptpflichtegen</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>rezeptpflichteg</lod:NOM>
+              <lod:AKK>rezeptpflichteg</lod:AKK>
+              <lod:DAT>rezeptpflichtegen</lod:DAT>
+              <lod:GEN>rezeptpflichteger</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
+  </lod:ITEM>
+</lod:LOD>

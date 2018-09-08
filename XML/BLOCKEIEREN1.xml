@@ -43,13 +43,15 @@
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>d'Demonstrante</lod:TEXTE>
-                        <lod:ABREV-AD>b.</lod:ABREV-AD>
+                        <lod:ABREV-AD>blockéieren</lod:ABREV-AD>
                         <lod:TEXTE>d'Strooss</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>de Verkéier ass wéinst engem Accident komplett</lod:TEXTE>
+                        <lod:TEXTE>de Verkéier</lod:TEXTE>
+                        <lod:ABREV-AD>ass</lod:ABREV-AD>
+                        <lod:TEXTE>wéinst engem Accident komplett</lod:TEXTE>
                         <lod:ABREV-AD>blockéiert</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
@@ -85,7 +87,7 @@
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:ABREV-AD>blockéier</lod:ABREV-AD>
-                        <lod:TEXTE>d'Rieder vum Weenchen, soss rullt e fort</lod:TEXTE>
+                        <lod:TEXTE>d'Rieder vum Weenchen, soss rullt e weider</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -149,7 +151,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="BLOCKEIEREN1UNI4">
-                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:DOM-SPEC lod:DOM="TECH"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">blockieren</lod:ETA-EXPLICITE>
@@ -157,20 +159,16 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">se bloquer</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>s'enrayer</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to lock (up)</lod:ETE-EXPLICITE>
                     <lod:RS-ETE-PRESENTE>to jam</lod:RS-ETE-PRESENTE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">bloquear</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>emperrar, encravar</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>hien huet d'Kontroll iwwer den Auto verluer, well d'Rieder</lod:TEXTE>
+                        <lod:TEXTE>de Chauffer huet d'Kontroll iwwer den Auto verluer, well d'Rieder</lod:TEXTE>
                         <lod:ABREV-AD>blockéiert hunn</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>

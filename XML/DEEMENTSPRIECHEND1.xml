@@ -5,9 +5,9 @@
     <lod:ARTICLE>
       <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="DEEMENTSPRIECHEND1ITE">deementspriechend</lod:ITEM-ADRESSE>
       <lod:MICROSTRUCTURE>
-        <lod:MS-TYPE-ADV>
-          <lod:CAT-GRAM-ADV/>
-          <lod:TRAITEMENT-LING-ADV>
+        <lod:MS-TYPE-ADJ>
+          <lod:CAT-GRAM-ADJ/>
+          <lod:TRAITEMENT-LING-ADJ>
             <lod:TRADUCTION-DOMINANTE>
               <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
@@ -21,17 +21,29 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">en conséquence</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">correspondant</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>en rapport</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-ALT lod:TYPE-ETF-ALT="FORME-ADVERBIALE-ADJ">en conséquence</lod:ETF-ALT>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">accordingly</lod:ETE-EXPLICITE>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">consequently</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">corresponding</lod:ETE-EXPLICITE>
+                    <lod:ETE-ALT lod:TYPE-ETE-ALT="FORME-ADVERBIALE-ADJ">correspondingly</lod:ETE-ALT>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">consequentemente</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>deementspriechend</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>deementspriechend</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
                         <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
@@ -41,16 +53,51 @@
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-PRESENTS>
-                      <lod:TERME-SYN>deemno</lod:TERME-SYN>
-                    </lod:SYN-PRESENTS>
+                    <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-ADV>
-        </lod:MS-TYPE-ADV>
+          </lod:TRAITEMENT-LING-ADJ>
+        </lod:MS-TYPE-ADJ>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>deementspriechend</lod:POSITIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>deementspriechenden</lod:NOM>
+              <lod:AKK>deementspriechenden</lod:AKK>
+              <lod:DAT>deementspriechenden</lod:DAT>
+              <lod:GEN>deementspriechenden</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>deementspriechend</lod:NOM>
+              <lod:AKK>deementspriechend</lod:AKK>
+              <lod:DAT>deementspriechender</lod:DAT>
+              <lod:GEN>deementspriechender</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>deementspriechend</lod:NOM>
+              <lod:AKK>deementspriechend</lod:AKK>
+              <lod:DAT>deementspriechenden</lod:DAT>
+              <lod:GEN>deementspriechenden</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>deementspriechend</lod:NOM>
+              <lod:AKK>deementspriechend</lod:AKK>
+              <lod:DAT>deementspriechenden</lod:DAT>
+              <lod:GEN>deementspriechender</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
   </lod:ITEM>
 </lod:LOD>

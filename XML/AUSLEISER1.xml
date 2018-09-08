@@ -14,6 +14,7 @@
           <lod:PLURIEL>
             <lod:TJ-NOMBRABLE>
               <lod:FORME-PLURIEL lod:FREQ-PLURIEL="NORMALE" lod:TYPE-PLURIEL="REGULIER">Ausléiser</lod:FORME-PLURIEL>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Ausléiseren</lod:FORME-PLURIEL>
             </lod:TJ-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
@@ -23,7 +24,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="AUSLEISER1UNI1">
-                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:DOM-SPEC lod:DOM="TECH"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Knopf</lod:ETA-EXPLICITE>
@@ -31,12 +32,12 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">déclencheur</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>dispositif</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-PRESENTE>bouton</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">disparador</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>dispositivo</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">shutter release</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">shutter button</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -69,7 +70,7 @@
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">trigger</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>catalyst</lod:RS-ETE-PRESENTE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">catalyst</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">causa</lod:ETP-EXPLICITE>

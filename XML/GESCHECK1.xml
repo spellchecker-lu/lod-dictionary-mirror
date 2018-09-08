@@ -12,9 +12,9 @@
             <lod:SUBST-SIMPLE/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:TJ-NOMBRABLE>
-              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER" lod:FREQ-PLURIEL="NORMALE">Geschécker</lod:FORME-PLURIEL>
-            </lod:TJ-NOMBRABLE>
+            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="GESCHECK1UNI1 GESCHECK1UNI3" lod:REFS-IDS-UNITES-DE-SENS-MASS="GESCHECK1UNI2" lod:REFS-IDS-UNITES-DE-SENS-PL-TANTUM="GESCHECK1UNI3">
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Geschécker</lod:FORME-PLURIEL>
+            </lod:ALT-MASSIF-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
@@ -27,7 +27,7 @@
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Geschick</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>Geschicklichkeit, Handfertigkeit</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-PRESENTE>Fähigkeit, Handfertigkeit</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">habileté</lod:ETF-EXPLICITE>
@@ -63,7 +63,7 @@
                         <lod:TEXTE>!</lod:TEXTE>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>Äre Betrib ass schlecht organiséiert</lod:TEXTE>
+                        <lod:TEXTE>Äre Betrib ass schlecht organiséiert!</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
@@ -75,7 +75,7 @@
             </lod:UNITE-TRAD>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="GESCHECK1UNI3">
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="GESCHECK1UNI2">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
@@ -101,9 +101,44 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>mat deem</lod:TEXTE>
+                        <lod:TEXTE>kann dee Bus net e bësse méi séier fueren, soss verpasse mir mat deem</lod:TEXTE>
                         <lod:ABREV-AD>G.</lod:ABREV-AD>
-                        <lod:TEXTE>verpasse mer de Fliger!</lod:TEXTE>
+                        <lod:TEXTE>nach de Fliger!</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="GESCHECK1UNI3" lod:FREQ-EMPLOI="NORMAL">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Geschick</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Entwicklung, Schicksal</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">destin</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>avenir, sort</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>no 32 Joer hunn ech d'</lod:TEXTE>
+                        <lod:ABREV-AD>Geschécker</lod:ABREV-AD>
+                        <lod:TEXTE>vun der Zeitung vu mengem Papp iwwerholl</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>de Wieler entscheet, wien déi nächst fënnef Joer d'</lod:TEXTE>
+                        <lod:ABREV-AD>Geschécker</lod:ABREV-AD>
+                        <lod:TEXTE>vun eisem Land wäert leeden</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

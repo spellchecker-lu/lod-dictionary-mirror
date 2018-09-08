@@ -3,7 +3,7 @@
   <lod:ITEM>
     <lod:META lod:ID="BRANDSTEFTUNG1"/>
     <lod:ARTICLE>
-      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="BRANDSTEFTUNG1ITE">Brandstëftung_</lod:ITEM-ADRESSE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="BRANDSTEFTUNG1ITE">Brandstëftung</lod:ITEM-ADRESSE>
       <lod:MICROSTRUCTURE>
         <lod:MS-TYPE-SUBST>
           <lod:CAT-GRAM-SUBST/>
@@ -33,11 +33,14 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">incendie volontaire</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>acte criminel</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fogo posto</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
                         <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Brandstëftung_</lod:ABREV-AD>
+                        <lod:ABREV-AD>Brandstëftung</lod:ABREV-AD>
                         <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>

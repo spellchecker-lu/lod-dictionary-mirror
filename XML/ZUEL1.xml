@@ -33,6 +33,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">nombre</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>chiffre</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">number</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>arithmetical value</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">número</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>algarismo</lod:RS-ETP-PRESENTE>
@@ -106,7 +110,9 @@
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>Unzuel</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -129,6 +135,11 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">dans le rouge</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>bilan</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">in the black</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">in the red</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>balance</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>

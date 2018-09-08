@@ -12,27 +12,29 @@
             <lod:SUBST-SIMPLE/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:TJ-NOMBRABLE>
-              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Zylinderen</lod:FORME-PLURIEL>
-            </lod:TJ-NOMBRABLE>
+            <lod:SITUATION-PLURIEL-COMPLEXE/>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-DOMIN>Zylinder</lod:TRAD-ALL-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
-              <lod:TRAD-FR-SUBORDONNANTE>
-                <lod:TRAD-FR-SUBORD>cylindre</lod:TRAD-FR-SUBORD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZYLINDER1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:INDICATION-SPECIALE-PLURIEL-SUBST>
+                    <lod:TJ-NOMBRABLE>
+                      <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Zylinderen</lod:FORME-PLURIEL>
+                    </lod:TJ-NOMBRABLE>
+                  </lod:INDICATION-SPECIALE-PLURIEL-SUBST>
+                  <lod:DOM-SPEC lod:DOM="MATH"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">geometrische Form</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Zylinder</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>geometrische Form</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">forme géométrique</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cylindre</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>forme géométrique</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -47,40 +49,26 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZYLINDER1UNI2">
-                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">zylinderförmiger Gegenstand</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">objet en forme cylindrique</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Zylinder</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZYLINDER1UNI3">
-                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:INDICATION-SPECIALE-PLURIEL-SUBST>
+                    <lod:TJ-NOMBRABLE>
+                      <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Zylinder</lod:FORME-PLURIEL>
+                      <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Zylinderen</lod:FORME-PLURIEL>
+                    </lod:TJ-NOMBRABLE>
+                  </lod:INDICATION-SPECIALE-PLURIEL-SUBST>
+                  <lod:DOM-SPEC lod:DOM="TECH"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">des Motors</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Zylinder</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>eines Motors</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">du moteur</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cylindre</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>d'un moteur</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
@@ -90,25 +78,37 @@
                         <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>zwee</lod:TEXTE>
+                        <lod:ABREV-AD>Zylindere</lod:ABREV-AD>
+                        <lod:TEXTE>vu mengem Oldtimer hu keen Drock méi</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
-              </lod:TRAD-FR-SUBORDONNANTE>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="ZYLINDER1UNI4">
+                  <lod:INDICATION-SPECIALE-PLURIEL-SUBST>
+                    <lod:TJ-NOMBRABLE>
+                      <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Zylinderen</lod:FORME-PLURIEL>
+                    </lod:TJ-NOMBRABLE>
+                  </lod:INDICATION-SPECIALE-PLURIEL-SUBST>
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Hut</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Zylinder</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Hut</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">haut-de-forme</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cylindre</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>haut-de-forme</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>

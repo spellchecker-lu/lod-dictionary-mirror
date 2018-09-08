@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="SCHASSEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="SCHASSEN1ITE">schassen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
+          <lod:PARTICIPE-PASSE>geschasst</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SCHASSEN1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE lod:STYLE="EGS"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">schassen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">rausschmeißen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">virer</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>renvoyer</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>well de Manager eng grouss Zomm ënnerschloen huet,</lod:TEXTE>
+                        <lod:ABREV-AD>gouf</lod:ABREV-AD>
+                        <lod:TEXTE>hie vum Verwaltungsrot</lod:TEXTE>
+                        <lod:ABREV-AD>geschasst</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>schassen</lod:INFINITIF>
+      <lod:PART-PASS>geschasst</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>schassen</lod:P1>
+          <lod:P2>schass</lod:P2>
+          <lod:P3>schasst</lod:P3>
+          <lod:P4>schassen</lod:P4>
+          <lod:P5>schasst</lod:P5>
+          <lod:P6>schassen</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu geschasst</lod:P1>
+          <lod:P2>hues geschasst</lod:P2>
+          <lod:P3>huet geschasst</lod:P3>
+          <lod:P4>hu geschasst</lod:P4>
+          <lod:P5>hutt geschasst</lod:P5>
+          <lod:P6>hu geschasst</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat geschasst</lod:P1>
+          <lod:P2>has geschasst</lod:P2>
+          <lod:P3>hat geschasst</lod:P3>
+          <lod:P4>hate geschasst</lod:P4>
+          <lod:P5>hat geschasst</lod:P5>
+          <lod:P6>hate geschasst</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif schassen</lod:P1>
+          <lod:P2>géifs schassen</lod:P2>
+          <lod:P3>géif schassen</lod:P3>
+          <lod:P4>géife schassen</lod:P4>
+          <lod:P5>géift schassen</lod:P5>
+          <lod:P6>géife schassen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt geschasst</lod:P1>
+          <lod:P2>häss geschasst</lod:P2>
+          <lod:P3>hätt geschasst</lod:P3>
+          <lod:P4>hätte geschasst</lod:P4>
+          <lod:P5>hätt geschasst</lod:P5>
+          <lod:P6>hätte geschasst</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>schass!</lod:P2>
+          <lod:P5>schasst!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
+  </lod:ITEM>
+</lod:LOD>

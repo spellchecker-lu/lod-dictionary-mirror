@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="SCHOULDIREKTESCH1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="SCHOULDIREKTESCH1ITE">Schouldirektesch</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="F"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-COMPOSE lod:REF-ID-ARTICLE-DOMIN="SCHOUL1"/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Schouldirekteschen</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="SCHOULDIREKTER1ITE" lod:REFS-IDS-UNITES-DE-SENS="SCHOULDIREKTER1UNI1">
+            <lod:FORME-FEM>
+              <lod:SYNONS>
+                <lod:SYN-ABS/>
+              </lod:SYNONS>
+            </lod:FORME-FEM>
+          </lod:RENVOI-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+  </lod:ITEM>
+</lod:LOD>

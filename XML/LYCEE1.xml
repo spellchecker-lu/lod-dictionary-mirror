@@ -12,13 +12,13 @@
             <lod:SUBST-SIMPLE/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="LYCEE1UNI2" lod:REFS-IDS-UNITES-DE-SENS-MASS="LYCEE1UNI1">
+            <lod:TJ-NOMBRABLE>
               <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Lycéeën</lod:FORME-PLURIEL>
-            </lod:ALT-MASSIF-NOMBRABLE>
+            </lod:TJ-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-DOMIN>Gymnasium</lod:TRAD-ALL-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -26,12 +26,12 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Institution</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">weiterführende Schule</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Institution</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">enseignement secondaire</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>collège et lycée</lod:RS-ETF-PRESENTE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">(école d')enseignement secondaire</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>institution</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">grammar school</lod:ETE-EXPLICITE>
@@ -39,14 +39,28 @@
                     <lod:RS-ETE-PRESENTE>institution</lod:RS-ETE-PRESENTE>
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ensino secundário</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">(escola de) ensino secundário</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>instituição</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Lycée</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>d'Schoulflicht zu Lëtzebuerg ëmfaasst zéng Joer, no der Primärschoul nach e puer Joer (am)</lod:TEXTE>
+                        <lod:ABREV-AD>L.</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>am</lod:TEXTE>
+                        <lod:ABREV-AD>L.</lod:ABREV-AD>
+                        <lod:TEXTE>gi verschidde Formatioune ugebueden, vun der Beruffsausbildung bis hin zur Première</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>mäi beschte Frënd war am</lod:TEXTE>
+                        <lod:ABREV-AD>L.</lod:ABREV-AD>
+                        <lod:TEXTE>an enger Parellelklass</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE>
@@ -61,14 +75,14 @@
                     </lod:EXEMPLE-GLOSE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>eise</lod:TEXTE>
-                        <lod:ABREV-AD>L.</lod:ABREV-AD>
-                        <lod:TEXTE>féiert all Joer en Theaterstéck op</lod:TEXTE>
+                        <lod:TEXTE>déi zwee</lod:TEXTE>
+                        <lod:ABREV-AD>Lycéeë</lod:ABREV-AD>
+                        <lod:TEXTE>féieren um Enn vum Schouljoer e grousst Theaterstéck op</lod:TEXTE>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>d'Gemeinschaft aus eisem</lod:TEXTE>
-                        <lod:ABREV-AD>L.</lod:ABREV-AD>
-                        <lod:TEXTE>féiert all Joer en Theaterstéck op</lod:TEXTE>
+                        <lod:TEXTE>d'Gemeinschaft aus deenen zwee</lod:TEXTE>
+                        <lod:ABREV-AD>Lycéeë</lod:ABREV-AD>
+                        <lod:TEXTE>féiert um Enn vum Schouljoer e grousst Theaterstéck op</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
@@ -84,8 +98,8 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Gebäude</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">weiterführende Schule</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Gebäude</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">collège</lod:ETF-EXPLICITE>
@@ -108,6 +122,13 @@
                         <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
                         <lod:ABREV-AD>Lycée</lod:ABREV-AD>
                         <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>no der Vergréisserung vum</lod:TEXTE>
+                        <lod:ABREV-AD>L.</lod:ABREV-AD>
+                        <lod:TEXTE>ass Plaz fir iwwer 1000 Schüler</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
