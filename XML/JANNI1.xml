@@ -26,7 +26,9 @@
                   <lod:UNITE-POLYLEX-LUX>Jänni a Männi</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Gott und die Welt</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>jeder</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Hinz und Kunz</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tout un chacun</lod:ETF-EXPLICITE>
@@ -44,6 +46,13 @@
                         <lod:TEXTE>hien huet</lod:TEXTE>
                         <lod:ABREV-AD>J.</lod:ABREV-AD>
                         <lod:TEXTE>a Männi beméit, fir déi Plaz ze kréien</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>du gees dat do elo awer net</lod:TEXTE>
+                        <lod:ABREV-AD>J.</lod:ABREV-AD>
+                        <lod:TEXTE>a Männi erzielen!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

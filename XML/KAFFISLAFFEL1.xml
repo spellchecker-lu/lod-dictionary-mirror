@@ -12,7 +12,9 @@
             <lod:SUBST-COMPOSE lod:REF-ID-ARTICLE-DOMIN="KAFFI1"/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:SITUATION-PLURIEL-COMPLEXE/>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Kaffisläffelen</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
@@ -24,11 +26,6 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="KAFFISLAFFEL1UNI1">
-                  <lod:INDICATION-SPECIALE-PLURIEL-SUBST>
-                    <lod:TJ-NOMBRABLE>
-                      <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Kaffisläffelen</lod:FORME-PLURIEL>
-                    </lod:TJ-NOMBRABLE>
-                  </lod:INDICATION-SPECIALE-PLURIEL-SUBST>
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
@@ -51,9 +48,16 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>déi grujeleg</lod:TEXTE>
+                        <lod:TEXTE>déi bleche</lod:TEXTE>
                         <lod:ABREV-AD>K.e</lod:ABREV-AD>
                         <lod:TEXTE>passen absolut net bei deng schéi Parzeläinstasen</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>fréier hu vill Leit sëlwer</lod:TEXTE>
+                        <lod:ABREV-AD>K.e</lod:ABREV-AD>
+                        <lod:TEXTE>gesammelt</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -66,12 +70,6 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="KAFFISLAFFEL1UNI2">
-                  <lod:INDICATION-SPECIALE-PLURIEL-SUBST>
-                    <lod:TJ-NOMBRABLE>
-                      <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Kaffisläffel</lod:FORME-PLURIEL>
-                      <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Kaffisläffelen</lod:FORME-PLURIEL>
-                    </lod:TJ-NOMBRABLE>
-                  </lod:INDICATION-SPECIALE-PLURIEL-SUBST>
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
@@ -79,23 +77,26 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">contenu</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cuillerée</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">teaspoon</lod:ETE-EXPLICITE>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">teaspoonful</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">colher de café</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>conteúdo</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>maach nach e</lod:TEXTE>
                         <lod:ABREV-AD>K.</lod:ABREV-AD>
                         <lod:TEXTE>Moschter an d'Vinaigrette!</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>Kanner sollen net méi ewéi dräi Mol am Dag e</lod:TEXTE>
+                        <lod:ABREV-AD>K.</lod:ABREV-AD>
+                        <lod:TEXTE>vun deem Sirop huelen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

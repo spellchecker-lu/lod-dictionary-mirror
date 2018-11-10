@@ -36,15 +36,14 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>Krankheete wéi MS verlafe</lod:TEXTE>
-                        <lod:ABREV-AD>schubaarteg</lod:ABREV-AD>
+                        <lod:TEXTE>duerch de</lod:TEXTE>
+                        <lod:ABREV-AD>schubaartege</lod:ABREV-AD>
+                        <lod:TEXTE>Verlaf vun der Krankheet mussen d'Medikamenter bei MS-Patiente regelméisseg ugepasst ginn</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-PRESENTS>
-                      <lod:TERME-SYN>schubweis</lod:TERME-SYN>
-                    </lod:SYN-PRESENTS>
+                    <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -53,5 +52,42 @@
         </lod:MS-TYPE-ADJ>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>schubaarteg</lod:POSITIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>schubaartegen</lod:NOM>
+              <lod:AKK>schubaartegen</lod:AKK>
+              <lod:DAT>schubaartegen</lod:DAT>
+              <lod:GEN>schubaartegen</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>schubaarteg</lod:NOM>
+              <lod:AKK>schubaarteg</lod:AKK>
+              <lod:DAT>schubaarteger</lod:DAT>
+              <lod:GEN>schubaarteger</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>schubaartegt</lod:NOM>
+              <lod:AKK>schubaartegt</lod:AKK>
+              <lod:DAT>schubaartegen</lod:DAT>
+              <lod:GEN>schubaartegen</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>schubaarteg</lod:NOM>
+              <lod:AKK>schubaarteg</lod:AKK>
+              <lod:DAT>schubaartegen</lod:DAT>
+              <lod:GEN>schubaarteger</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
   </lod:ITEM>
 </lod:LOD>

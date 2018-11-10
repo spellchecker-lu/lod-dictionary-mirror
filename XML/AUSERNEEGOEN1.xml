@@ -42,12 +42,29 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Koppel</lod:TEXTE>
-                        <lod:ABREV-AD>ass</lod:ABREV-AD>
-                        <lod:TEXTE>am Sträit</lod:TEXTE>
-                        <lod:ABREV-AD>auserneegaangen</lod:ABREV-AD>
+                        <lod:TEXTE>éier mer</lod:TEXTE>
+                        <lod:ABREV-AD>auserneegaange sinn</lod:ABREV-AD>
+                        <lod:TEXTE>, hu mer en neie Rendez-vous festgeluecht</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>déi zwee Auto-pédestrë begéinen sech bei der Kierch a</lod:TEXTE>
+                        <lod:ABREV-AD>ginn</lod:ABREV-AD>
+                        <lod:TEXTE>dono nees</lod:TEXTE>
+                        <lod:ABREV-AD>auserneen</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE-GLOSE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>auserneegoen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE>
+                        <lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-ABSENTS/>
@@ -95,32 +112,43 @@
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="AUSERNEEGOEN1UNI3">
                   <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE lod:STYLE="EGS"/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">dick werden</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">weiter werden</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">s'empâter</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">s'élargir</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to fill out</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>to put on weight</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ficar cheiinho</lod:ETP-EXPLICITE>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">engordar</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>no ongeféier zwanzeg Kilometer</lod:TEXTE>
+                        <lod:ABREV-AD>geet</lod:ABREV-AD>
+                        <lod:TEXTE>den Dall</lod:TEXTE>
+                        <lod:ABREV-AD>auserneen</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>mäi Brautkleed ass uewe schmuel a</lod:TEXTE>
+                        <lod:ABREV-AD>geet</lod:ABREV-AD>
+                        <lod:TEXTE>no ënnen</lod:TEXTE>
+                        <lod:ABREV-AD>auserneen</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>a leschter Zäit</lod:TEXTE>
                         <lod:ABREV-AD>ass</lod:ABREV-AD>
                         <lod:TEXTE>hie schéin</lod:TEXTE>
                         <lod:ABREV-AD>auserneegaangen</lod:ABREV-AD>
                       </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
+                      <lod:GLOSE>
+                        <lod:TEXTE>a leschter Zäit ass hie schéin déck ginn</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-ABSENTS/>
