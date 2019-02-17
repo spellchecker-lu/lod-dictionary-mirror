@@ -10,7 +10,7 @@
           <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
           <lod:PARTICIPE-PASSE>opgehat</lod:PARTICIPE-PASSE>
           <lod:TRAITEMENT-LING-VRB>
-            <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
+            <lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF"/>
             <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
             <lod:TRADUCTION-DOMINANTE>
               <lod:PAS-DE-TRAD-DOMIN/>
@@ -112,13 +112,6 @@
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-VRB>
-          <lod:TRAITEMENT-LING-VRB>
-            <lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF"/>
-            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
-            <lod:TRADUCTION-DOMINANTE>
-              <lod:PAS-DE-TRAD-DOMIN/>
-            </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="OPHUNN1UNI3">
@@ -130,16 +123,12 @@
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">être ouvert</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>être accessible, être en activité</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-PRESENTE>à la clientèle, au public</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to be open</lod:ETE-EXPLICITE>
                     <lod:RS-ETE-PRESENTE>for business</lod:RS-ETE-PRESENTE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">estar aberto</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>estar acessível, estar em atividade</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>

@@ -12,9 +12,9 @@
             <lod:SUBST-SIMPLE/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:TJ-NOMBRABLE>
-              <lod:FORME-PLURIEL lod:FREQ-PLURIEL="NORMALE" lod:TYPE-PLURIEL="REGULIER">Feuteren</lod:FORME-PLURIEL>
-            </lod:TJ-NOMBRABLE>
+            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="FEUTER1UNI2" lod:REFS-IDS-UNITES-DE-SENS-MASS="FEUTER1UNI1">
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Feuteren</lod:FORME-PLURIEL>
+            </lod:ALT-MASSIF-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
@@ -57,7 +57,9 @@
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>Filz</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -87,7 +89,7 @@
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Kand krut gejaut, well et mam</lod:TEXTE>
+                        <lod:TEXTE>de Bouf krut gejaut, well e mam</lod:TEXTE>
                         <lod:ABREV-AD>F.</lod:ABREV-AD>
                         <lod:TEXTE>op d'Tapéit gemoolt hat</lod:TEXTE>
                       </lod:TEXTE-EX>
@@ -98,7 +100,7 @@
                       <lod:TERME-SYN>Filzstëft</lod:TERME-SYN>
                       <lod:TERME-SYN>Stëft</lod:TERME-SYN>
                       <lod:TERME-SYN>Tuschbic</lod:TERME-SYN>
-                      <lod:TERME-SYN>Tuschfaarf</lod:TERME-SYN>
+                      <lod:TERME-SYN>Tuschstëft</lod:TERME-SYN>
                     </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>

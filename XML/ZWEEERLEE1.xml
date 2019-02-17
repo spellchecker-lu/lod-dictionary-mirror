@@ -5,9 +5,9 @@
     <lod:ARTICLE>
       <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="ZWEEERLEE1ITE">zweeërlee</lod:ITEM-ADRESSE>
       <lod:MICROSTRUCTURE>
-        <lod:MS-TYPE-ADJ>
-          <lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ-INDECL"/>
-          <lod:TRAITEMENT-LING-ADJ>
+        <lod:MS-TYPE-PRON>
+          <lod:CAT-GRAM-PRON lod:TYPE-PRON="INDEFINI"/>
+          <lod:TRAITEMENT-LING-PRON>
             <lod:TRADUCTION-DOMINANTE>
               <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
@@ -27,8 +27,6 @@
                     <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">deux espèces de</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">deux paires de manche</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">of two different kinds</lod:ETE-EXPLICITE>
@@ -42,12 +40,16 @@
                         <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                    <lod:EXEMPLE-GLOSE>
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>et gutt mengen an et gutt maachen, ass</lod:TEXTE>
-                        <lod:ABREV-AD>z.</lod:ABREV-AD>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>zweeërlee</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
                       </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
+                      <lod:GLOSE>
+                        <lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-ABSENTS/>
@@ -55,8 +57,8 @@
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-ADJ>
-        </lod:MS-TYPE-ADJ>
+          </lod:TRAITEMENT-LING-PRON>
+        </lod:MS-TYPE-PRON>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
   </lod:ITEM>

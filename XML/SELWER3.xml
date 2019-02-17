@@ -5,9 +5,9 @@
     <lod:ARTICLE>
       <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="SELWER3ITE">selwer</lod:ITEM-ADRESSE>
       <lod:MICROSTRUCTURE>
-        <lod:MS-TYPE-PART>
-          <lod:CAT-GRAM-PART/>
-          <lod:TRAITEMENT-LING-PART>
+        <lod:MS-TYPE-ADV>
+          <lod:CAT-GRAM-ADV/>
+          <lod:TRAITEMENT-LING-ADV>
             <lod:TRADUCTION-DOMINANTE>
               <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
@@ -29,6 +29,10 @@
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">oneself</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">mesmo</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">próprio</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -51,8 +55,8 @@
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-PART>
-        </lod:MS-TYPE-PART>
+          </lod:TRAITEMENT-LING-ADV>
+        </lod:MS-TYPE-ADV>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
   </lod:ITEM>
