@@ -17,7 +17,7 @@
             </lod:TJ-NOMBRABLE>
           </lod:PLURIEL>
           <lod:RENVOI-ET-TRAIT-LING-SUPPL-SUBST>
-            <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="GANG1ITE" lod:REFS-IDS-UNITES-DE-SENS="GANG1UNI1 GANG1UNI2 GANG1UNI4 GANG1UNI5">
+            <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="GANG1ITE" lod:REFS-IDS-UNITES-DE-SENS="GANG1UNI1 GANG1UNI2 GANG1UNI3">
               <lod:VARIANTE-HOMOSEME/>
             </lod:RENVOI-SUBST>
             <lod:TRAITEMENT-LING-SUBST>
@@ -58,6 +58,41 @@
                           <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
                           <lod:ABREV-AD>Gank</lod:ABREV-AD>
                           <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        </lod:TEXTE-EX>
+                      </lod:EXEMPLE>
+                    </lod:EXEMPLIFICATION>
+                    <lod:SYNONYMES>
+                      <lod:SYN-ABSENTS/>
+                    </lod:SYNONYMES>
+                  </lod:UNITE-DE-SENS>
+                </lod:PAS-DE-TRAD-SUBORDONNANTE>
+              </lod:UNITE-TRAD>
+              <lod:UNITE-TRAD>
+                <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                  <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="GANK1UNI2">
+                    <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                    <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                    <lod:EQUIV-TRAD-ALL>
+                      <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Gang</lod:ETA-EXPLICITE>
+                      <lod:RS-ETA-PRESENTE>eines Getriebes</lod:RS-ETA-PRESENTE>
+                    </lod:EQUIV-TRAD-ALL>
+                    <lod:EQUIV-TRAD-FR>
+                      <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">vitesse</lod:ETF-EXPLICITE>
+                      <lod:RS-ETF-PRESENTE>d'une boîte de vitesses</lod:RS-ETF-PRESENTE>
+                    </lod:EQUIV-TRAD-FR>
+                    <lod:EQUIV-TRAD-EN>
+                      <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">gear</lod:ETE-EXPLICITE>
+                      <lod:RS-ETE-PRESENTE>of a car transmission</lod:RS-ETE-PRESENTE>
+                    </lod:EQUIV-TRAD-EN>
+                    <lod:EQUIV-TRAD-PO>
+                      <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">velocidade</lod:ETP-EXPLICITE>
+                      <lod:RS-ETP-PRESENTE>de uma caixa de velocidades</lod:RS-ETP-PRESENTE>
+                    </lod:EQUIV-TRAD-PO>
+                    <lod:EXEMPLIFICATION>
+                      <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                        <lod:TEXTE-EX>
+                          <lod:TEXTE>vill nei Autoen hunn haut sechs</lod:TEXTE>
+                          <lod:ABREV-AD>Gäng</lod:ABREV-AD>
                         </lod:TEXTE-EX>
                       </lod:EXEMPLE>
                     </lod:EXEMPLIFICATION>

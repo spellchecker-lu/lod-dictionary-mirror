@@ -69,27 +69,23 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Takt</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Häufigkeit</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>Takt</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">fréquence</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>nombre, répétition</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cadence</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">frequency</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>rate</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">frequência</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>número, repetição</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>d'</lod:TEXTE>
                         <lod:ABREV-AD>F.</lod:ABREV-AD>
-                        <lod:TEXTE>, mat där d'Bussen an d'Stad fueren, misst erhéicht ginn</lod:TEXTE>
+                        <lod:TEXTE>, mat där d'Bussen an d'Stad fueren, misst eropgesat ginn</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
