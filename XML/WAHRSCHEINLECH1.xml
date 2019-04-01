@@ -5,9 +5,9 @@
     <lod:ARTICLE>
       <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="WAHRSCHEINLECH1ITE">wahrscheinlech</lod:ITEM-ADRESSE>
       <lod:MICROSTRUCTURE>
-        <lod:MS-TYPE-ADV>
-          <lod:CAT-GRAM-ADV/>
-          <lod:TRAITEMENT-LING-ADV>
+        <lod:MS-TYPE-ADJ>
+          <lod:CAT-GRAM-ADJ/>
+          <lod:TRAITEMENT-LING-ADJ>
             <lod:TRADUCTION-DOMINANTE>
               <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
@@ -21,16 +21,25 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">probablement</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">probable</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-ALT lod:TYPE-ETF-ALT="FORME-ADVERBIALE-ADJ">probablement</lod:ETF-ALT>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">probably</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">provavelmente</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>Wëssenschaftler a Medeziner warne bei dësem Mëttel viru</lod:TEXTE>
+                        <lod:ABREV-AD>wahrscheinleche</lod:ABREV-AD>
+                        <lod:TEXTE>Kriibsrisiken an anere Gesondheetsgeforen</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>et ass zimlech</lod:TEXTE>
+                        <lod:ABREV-AD>wahrscheinlech</lod:ABREV-AD>
+                        <lod:TEXTE>, datt een nom aneren an der Famill dee Virus erwëscht</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
                         <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
@@ -40,16 +49,83 @@
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-PRESENTS>
-                      <lod:TERME-SYN>viraussiichtlech</lod:TERME-SYN>
-                    </lod:SYN-PRESENTS>
+                    <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-ADV>
-        </lod:MS-TYPE-ADV>
+          </lod:TRAITEMENT-LING-ADJ>
+        </lod:MS-TYPE-ADJ>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>wahrscheinlech</lod:POSITIV>
+        <lod:KOMPARATIV>méi wahrscheinlech</lod:KOMPARATIV>
+        <lod:SUPERLATIV>am wahrscheinlechsten</lod:SUPERLATIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>wahrscheinlechen</lod:NOM>
+              <lod:AKK>wahrscheinlechen</lod:AKK>
+              <lod:DAT>wahrscheinlechen</lod:DAT>
+              <lod:GEN>wahrscheinlechen</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>wahrscheinlech</lod:NOM>
+              <lod:AKK>wahrscheinlech</lod:AKK>
+              <lod:DAT>wahrscheinlecher</lod:DAT>
+              <lod:GEN>wahrscheinlecher</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>wahrscheinlecht</lod:NOM>
+              <lod:AKK>wahrscheinlecht</lod:AKK>
+              <lod:DAT>wahrscheinlechen</lod:DAT>
+              <lod:GEN>wahrscheinlechen</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>wahrscheinlech</lod:NOM>
+              <lod:AKK>wahrscheinlech</lod:AKK>
+              <lod:DAT>wahrscheinlechen</lod:DAT>
+              <lod:GEN>wahrscheinlecher</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+        <lod:SUPERLATIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>wahrscheinlechsten</lod:NOM>
+              <lod:AKK>wahrscheinlechsten</lod:AKK>
+              <lod:DAT>wahrscheinlechsten</lod:DAT>
+              <lod:GEN>wahrscheinlechsten</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>wahrscheinlechst</lod:NOM>
+              <lod:AKK>wahrscheinlechst</lod:AKK>
+              <lod:DAT>wahrscheinlechster</lod:DAT>
+              <lod:GEN>wahrscheinlechster</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>wahrscheinlechst</lod:NOM>
+              <lod:AKK>wahrscheinlechst</lod:AKK>
+              <lod:DAT>wahrscheinlechsten</lod:DAT>
+              <lod:GEN>wahrscheinlechsten</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>wahrscheinlechst</lod:NOM>
+              <lod:AKK>wahrscheinlechst</lod:AKK>
+              <lod:DAT>wahrscheinlechsten</lod:DAT>
+              <lod:GEN>wahrscheinlechster</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:SUPERLATIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
   </lod:ITEM>
 </lod:LOD>

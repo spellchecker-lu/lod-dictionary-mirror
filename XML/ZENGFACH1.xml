@@ -26,6 +26,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">dix fois</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">tenfold</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">ten times</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -47,5 +51,42 @@
         </lod:MS-TYPE-ADJ>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>zéngfach</lod:POSITIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>zéngfachen</lod:NOM>
+              <lod:AKK>zéngfachen</lod:AKK>
+              <lod:DAT>zéngfachen</lod:DAT>
+              <lod:GEN>zéngfachen</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>zéngfach</lod:NOM>
+              <lod:AKK>zéngfach</lod:AKK>
+              <lod:DAT>zéngfacher</lod:DAT>
+              <lod:GEN>zéngfacher</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>zéngfacht</lod:NOM>
+              <lod:AKK>zéngfacht</lod:AKK>
+              <lod:DAT>zéngfachen</lod:DAT>
+              <lod:GEN>zéngfachen</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>zéngfach</lod:NOM>
+              <lod:AKK>zéngfach</lod:AKK>
+              <lod:DAT>zéngfachen</lod:DAT>
+              <lod:GEN>zéngfacher</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
   </lod:ITEM>
 </lod:LOD>
