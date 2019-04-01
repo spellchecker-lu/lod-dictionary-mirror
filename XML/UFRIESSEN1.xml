@@ -30,6 +30,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">ronger</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">roer</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">picar</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -58,6 +62,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">entamer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>corroder</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">atacar</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">corroer</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -88,6 +96,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">prendre ...</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>du ventre, des kilos</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ganhar ...</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>barriga, peso</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -107,5 +119,67 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>ufriessen</lod:INFINITIF>
+      <lod:PART-PASS>ugefriess</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>friessen un</lod:P1>
+          <lod:P2>frëss un</lod:P2>
+          <lod:P3>frësst un</lod:P3>
+          <lod:P4>friessen un</lod:P4>
+          <lod:P5>friesst un</lod:P5>
+          <lod:P6>friessen un</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hunn ugefriess</lod:P1>
+          <lod:P2>hues ugefriess</lod:P2>
+          <lod:P3>huet ugefriess</lod:P3>
+          <lod:P4>hunn ugefriess</lod:P4>
+          <lod:P5>hutt ugefriess</lod:P5>
+          <lod:P6>hunn ugefriess</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat ugefriess</lod:P1>
+          <lod:P2>has ugefriess</lod:P2>
+          <lod:P3>hat ugefriess</lod:P3>
+          <lod:P4>haten ugefriess</lod:P4>
+          <lod:P5>hat ugefriess</lod:P5>
+          <lod:P6>haten ugefriess</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-SIMPLE>
+          <lod:P1>fréiss un</lod:P1>
+          <lod:P2>fréiss un</lod:P2>
+          <lod:P3>fréiss un</lod:P3>
+          <lod:P4>fréissen un</lod:P4>
+          <lod:P5>fréisst un</lod:P5>
+          <lod:P6>fréissen un</lod:P6>
+        </lod:PRESENT-SIMPLE>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif ufriessen</lod:P1>
+          <lod:P2>géifs ufriessen</lod:P2>
+          <lod:P3>géif ufriessen</lod:P3>
+          <lod:P4>géifen ufriessen</lod:P4>
+          <lod:P5>géift ufriessen</lod:P5>
+          <lod:P6>géifen ufriessen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt ugefriess</lod:P1>
+          <lod:P2>häss ugefriess</lod:P2>
+          <lod:P3>hätt ugefriess</lod:P3>
+          <lod:P4>hätten ugefriess</lod:P4>
+          <lod:P5>hätt ugefriess</lod:P5>
+          <lod:P6>hätten ugefriess</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>friess un!</lod:P2>
+          <lod:P5>friesst un!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>
