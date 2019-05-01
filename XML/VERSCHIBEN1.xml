@@ -32,6 +32,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">renvoyer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">adiar</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">diferir</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -54,5 +58,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verschiben</lod:INFINITIF>
+      <lod:PART-PASS>verschiibt</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verschiben</lod:P1>
+          <lod:P2>verschiibs</lod:P2>
+          <lod:P3>verschiibt</lod:P3>
+          <lod:P4>verschiben</lod:P4>
+          <lod:P5>verschiibt</lod:P5>
+          <lod:P6>verschiben</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu verschiibt</lod:P1>
+          <lod:P2>hues verschiibt</lod:P2>
+          <lod:P3>huet verschiibt</lod:P3>
+          <lod:P4>hu verschiibt</lod:P4>
+          <lod:P5>hutt verschiibt</lod:P5>
+          <lod:P6>hu verschiibt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat verschiibt</lod:P1>
+          <lod:P2>has verschiibt</lod:P2>
+          <lod:P3>hat verschiibt</lod:P3>
+          <lod:P4>hate verschiibt</lod:P4>
+          <lod:P5>hat verschiibt</lod:P5>
+          <lod:P6>hate verschiibt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif verschiben</lod:P1>
+          <lod:P2>géifs verschiben</lod:P2>
+          <lod:P3>géif verschiben</lod:P3>
+          <lod:P4>géife verschiben</lod:P4>
+          <lod:P5>géift verschiben</lod:P5>
+          <lod:P6>géife verschiben</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt verschiibt</lod:P1>
+          <lod:P2>häss verschiibt</lod:P2>
+          <lod:P3>hätt verschiibt</lod:P3>
+          <lod:P4>hätte verschiibt</lod:P4>
+          <lod:P5>hätt verschiibt</lod:P5>
+          <lod:P6>hätte verschiibt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verschib!</lod:P2>
+          <lod:P5>verschiibt!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

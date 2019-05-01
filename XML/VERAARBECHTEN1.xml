@@ -32,6 +32,11 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">transformer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">trabalhar</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">tratar</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">transformar</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -62,6 +67,11 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">traiter</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>des données numériques</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">tratar</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">processar</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>dados digitais</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -90,5 +100,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>veraarbechten</lod:INFINITIF>
+      <lod:PART-PASS>veraarbecht</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>veraarbechten</lod:P1>
+          <lod:P2>veraarbechts</lod:P2>
+          <lod:P3>veraarbecht</lod:P3>
+          <lod:P4>veraarbechten</lod:P4>
+          <lod:P5>veraarbecht</lod:P5>
+          <lod:P6>veraarbechten</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu veraarbecht</lod:P1>
+          <lod:P2>hues veraarbecht</lod:P2>
+          <lod:P3>huet veraarbecht</lod:P3>
+          <lod:P4>hu veraarbecht</lod:P4>
+          <lod:P5>hutt veraarbecht</lod:P5>
+          <lod:P6>hu veraarbecht</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat veraarbecht</lod:P1>
+          <lod:P2>has veraarbecht</lod:P2>
+          <lod:P3>hat veraarbecht</lod:P3>
+          <lod:P4>hate veraarbecht</lod:P4>
+          <lod:P5>hat veraarbecht</lod:P5>
+          <lod:P6>hate veraarbecht</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif veraarbechten</lod:P1>
+          <lod:P2>géifs veraarbechten</lod:P2>
+          <lod:P3>géif veraarbechten</lod:P3>
+          <lod:P4>géife veraarbechten</lod:P4>
+          <lod:P5>géift veraarbechten</lod:P5>
+          <lod:P6>géife veraarbechten</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt veraarbecht</lod:P1>
+          <lod:P2>häss veraarbecht</lod:P2>
+          <lod:P3>hätt veraarbecht</lod:P3>
+          <lod:P4>hätte veraarbecht</lod:P4>
+          <lod:P5>hätt veraarbecht</lod:P5>
+          <lod:P6>hätte veraarbecht</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>veraarbecht!</lod:P2>
+          <lod:P5>veraarbecht!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

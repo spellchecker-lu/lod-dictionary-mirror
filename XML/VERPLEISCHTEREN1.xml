@@ -30,6 +30,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">mignoter</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">prestar cuidados a</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>aplicando penso(s) rápido(s)</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -48,5 +52,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verpléischteren</lod:INFINITIF>
+      <lod:PART-PASS>verpléischtert</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verpléischteren</lod:P1>
+          <lod:P2>verpléischters</lod:P2>
+          <lod:P3>verpléischtert</lod:P3>
+          <lod:P4>verpléischteren</lod:P4>
+          <lod:P5>verpléischtert</lod:P5>
+          <lod:P6>verpléischteren</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu verpléischtert</lod:P1>
+          <lod:P2>hues verpléischtert</lod:P2>
+          <lod:P3>huet verpléischtert</lod:P3>
+          <lod:P4>hu verpléischtert</lod:P4>
+          <lod:P5>hutt verpléischtert</lod:P5>
+          <lod:P6>hu verpléischtert</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat verpléischtert</lod:P1>
+          <lod:P2>has verpléischtert</lod:P2>
+          <lod:P3>hat verpléischtert</lod:P3>
+          <lod:P4>hate verpléischtert</lod:P4>
+          <lod:P5>hat verpléischtert</lod:P5>
+          <lod:P6>hate verpléischtert</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif verpléischteren</lod:P1>
+          <lod:P2>géifs verpléischteren</lod:P2>
+          <lod:P3>géif verpléischteren</lod:P3>
+          <lod:P4>géife verpléischteren</lod:P4>
+          <lod:P5>géift verpléischteren</lod:P5>
+          <lod:P6>géife verpléischteren</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt verpléischtert</lod:P1>
+          <lod:P2>häss verpléischtert</lod:P2>
+          <lod:P3>hätt verpléischtert</lod:P3>
+          <lod:P4>hätte verpléischtert</lod:P4>
+          <lod:P5>hätt verpléischtert</lod:P5>
+          <lod:P6>hätte verpléischtert</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verpléischter!</lod:P2>
+          <lod:P5>verpléischtert!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

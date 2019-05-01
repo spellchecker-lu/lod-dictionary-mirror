@@ -28,6 +28,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">défendre</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>se faire le défenseur de</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">defender</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">propugnar</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -57,5 +61,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verfechten</lod:INFINITIF>
+      <lod:PART-PASS>verfecht</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verfechten</lod:P1>
+          <lod:P2>verfechts</lod:P2>
+          <lod:P3>verfecht</lod:P3>
+          <lod:P4>verfechten</lod:P4>
+          <lod:P5>verfecht</lod:P5>
+          <lod:P6>verfechten</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu verfecht</lod:P1>
+          <lod:P2>hues verfecht</lod:P2>
+          <lod:P3>huet verfecht</lod:P3>
+          <lod:P4>hu verfecht</lod:P4>
+          <lod:P5>hutt verfecht</lod:P5>
+          <lod:P6>hu verfecht</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat verfecht</lod:P1>
+          <lod:P2>has verfecht</lod:P2>
+          <lod:P3>hat verfecht</lod:P3>
+          <lod:P4>hate verfecht</lod:P4>
+          <lod:P5>hat verfecht</lod:P5>
+          <lod:P6>hate verfecht</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif verfechten</lod:P1>
+          <lod:P2>géifs verfechten</lod:P2>
+          <lod:P3>géif verfechten</lod:P3>
+          <lod:P4>géife verfechten</lod:P4>
+          <lod:P5>géift verfechten</lod:P5>
+          <lod:P6>géife verfechten</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt verfecht</lod:P1>
+          <lod:P2>häss verfecht</lod:P2>
+          <lod:P3>hätt verfecht</lod:P3>
+          <lod:P4>hätte verfecht</lod:P4>
+          <lod:P5>hätt verfecht</lod:P5>
+          <lod:P6>hätte verfecht</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verfecht!</lod:P2>
+          <lod:P5>verfecht!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

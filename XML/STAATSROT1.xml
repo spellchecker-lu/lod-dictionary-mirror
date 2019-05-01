@@ -12,9 +12,7 @@
             <lod:SUBST-COMPOSE lod:REF-ID-ARTICLE-DOMIN="STAAT1"/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:TJ-NOMBRABLE>
-              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="IRREGULIER">Staatsréit</lod:FORME-PLURIEL>
-            </lod:TJ-NOMBRABLE>
+            <lod:TJ-MASSIF/>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
@@ -23,18 +21,18 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="STAATSROT1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Staatsrat</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>Gremium</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-PRESENTE>luxemburgisches Gremium</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">Conseil d'État</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>au Luxembourg</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">The Council of State (of the Grand Duchy of Luxembourg)</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">the Council of State (of the Grand Duchy of Luxembourg)</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>

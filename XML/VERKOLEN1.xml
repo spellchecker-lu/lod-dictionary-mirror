@@ -32,6 +32,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">faire marcher</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">gozar com</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">entrar com</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
                       <lod:TEXTE-EX>
@@ -51,5 +55,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verkolen</lod:INFINITIF>
+      <lod:PART-PASS>verkoolt</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verkolen</lod:P1>
+          <lod:P2>verkools</lod:P2>
+          <lod:P3>verkoolt</lod:P3>
+          <lod:P4>verkolen</lod:P4>
+          <lod:P5>verkoolt</lod:P5>
+          <lod:P6>verkolen</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu verkoolt</lod:P1>
+          <lod:P2>hues verkoolt</lod:P2>
+          <lod:P3>huet verkoolt</lod:P3>
+          <lod:P4>hu verkoolt</lod:P4>
+          <lod:P5>hutt verkoolt</lod:P5>
+          <lod:P6>hu verkoolt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat verkoolt</lod:P1>
+          <lod:P2>has verkoolt</lod:P2>
+          <lod:P3>hat verkoolt</lod:P3>
+          <lod:P4>hate verkoolt</lod:P4>
+          <lod:P5>hat verkoolt</lod:P5>
+          <lod:P6>hate verkoolt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif verkolen</lod:P1>
+          <lod:P2>géifs verkolen</lod:P2>
+          <lod:P3>géif verkolen</lod:P3>
+          <lod:P4>géife verkolen</lod:P4>
+          <lod:P5>géift verkolen</lod:P5>
+          <lod:P6>géife verkolen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt verkoolt</lod:P1>
+          <lod:P2>häss verkoolt</lod:P2>
+          <lod:P3>hätt verkoolt</lod:P3>
+          <lod:P4>hätte verkoolt</lod:P4>
+          <lod:P5>hätt verkoolt</lod:P5>
+          <lod:P6>hätte verkoolt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verkol!</lod:P2>
+          <lod:P5>verkoolt!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

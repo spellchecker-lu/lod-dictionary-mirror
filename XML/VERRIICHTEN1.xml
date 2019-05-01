@@ -28,6 +28,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">exercer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>un métier, une fonction</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">exercer</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>uma profissão, uma função</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -47,5 +51,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verriichten</lod:INFINITIF>
+      <lod:PART-PASS>verriicht</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verriichten</lod:P1>
+          <lod:P2>verriichts</lod:P2>
+          <lod:P3>verriicht</lod:P3>
+          <lod:P4>verriichten</lod:P4>
+          <lod:P5>verriicht</lod:P5>
+          <lod:P6>verriichten</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu verriicht</lod:P1>
+          <lod:P2>hues verriicht</lod:P2>
+          <lod:P3>huet verriicht</lod:P3>
+          <lod:P4>hu verriicht</lod:P4>
+          <lod:P5>hutt verriicht</lod:P5>
+          <lod:P6>hu verriicht</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat verriicht</lod:P1>
+          <lod:P2>has verriicht</lod:P2>
+          <lod:P3>hat verriicht</lod:P3>
+          <lod:P4>hate verriicht</lod:P4>
+          <lod:P5>hat verriicht</lod:P5>
+          <lod:P6>hate verriicht</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif verriichten</lod:P1>
+          <lod:P2>géifs verriichten</lod:P2>
+          <lod:P3>géif verriichten</lod:P3>
+          <lod:P4>géife verriichten</lod:P4>
+          <lod:P5>géift verriichten</lod:P5>
+          <lod:P6>géife verriichten</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt verriicht</lod:P1>
+          <lod:P2>häss verriicht</lod:P2>
+          <lod:P3>hätt verriicht</lod:P3>
+          <lod:P4>hätte verriicht</lod:P4>
+          <lod:P5>hätt verriicht</lod:P5>
+          <lod:P6>hätte verriicht</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verriicht!</lod:P2>
+          <lod:P5>verriicht!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

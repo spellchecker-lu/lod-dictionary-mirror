@@ -28,6 +28,9 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">caler</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>fixer</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fixar com cunha(s)</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -65,6 +68,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">s'encastrer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">encaixar-se</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">enfaixar-se</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -85,5 +92,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verkäilen</lod:INFINITIF>
+      <lod:PART-PASS>verkäilt</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verkäilen (mech)</lod:P1>
+          <lod:P2>verkäils (dech)</lod:P2>
+          <lod:P3>verkäilt (sech)</lod:P3>
+          <lod:P4>verkäilen (eis)</lod:P4>
+          <lod:P5>verkäilt (iech) </lod:P5>
+          <lod:P6>verkäilen (sech) </lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hunn (mech) verkäilt</lod:P1>
+          <lod:P2>hues (dech) verkäilt</lod:P2>
+          <lod:P3>huet (sech) verkäilt</lod:P3>
+          <lod:P4>hunn (eis) verkäilt</lod:P4>
+          <lod:P5>hutt (iech) verkäilt</lod:P5>
+          <lod:P6>hunn (sech) verkäilt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat (mech) verkäilt</lod:P1>
+          <lod:P2>has (dech) verkäilt</lod:P2>
+          <lod:P3>hat (sech) verkäilt</lod:P3>
+          <lod:P4>haten (eis) verkäilt</lod:P4>
+          <lod:P5>hat (iech) verkäilt</lod:P5>
+          <lod:P6>haten (sech) verkäilt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif (mech) verkäilen</lod:P1>
+          <lod:P2>géifs (dech) verkäilen</lod:P2>
+          <lod:P3>géif (sech) verkäilen</lod:P3>
+          <lod:P4>géifen (eis) verkäilen</lod:P4>
+          <lod:P5>géift (iech) verkäilen</lod:P5>
+          <lod:P6>géifen (sech) verkäilen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt (mech) verkäilt</lod:P1>
+          <lod:P2>häss (dech) verkäilt</lod:P2>
+          <lod:P3>hätt (sech) verkäilt</lod:P3>
+          <lod:P4>hätten (eis) verkäilt</lod:P4>
+          <lod:P5>hätt (iech) verkäilt</lod:P5>
+          <lod:P6>hätten (sech) verkäilt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verkäil (dech)!</lod:P2>
+          <lod:P5>verkäilt (iech)!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

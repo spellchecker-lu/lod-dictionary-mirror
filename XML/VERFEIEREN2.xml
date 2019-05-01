@@ -28,6 +28,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">brûler</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>consommer pour se chauffer</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">queimar</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>consumir queimando</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -47,5 +51,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verfeieren</lod:INFINITIF>
+      <lod:PART-PASS>verfeiert</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verfeieren</lod:P1>
+          <lod:P2>verfeiers</lod:P2>
+          <lod:P3>verfeiert</lod:P3>
+          <lod:P4>verfeieren</lod:P4>
+          <lod:P5>verfeiert</lod:P5>
+          <lod:P6>verfeieren</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu verfeiert</lod:P1>
+          <lod:P2>hues verfeiert</lod:P2>
+          <lod:P3>huet verfeiert</lod:P3>
+          <lod:P4>hu verfeiert</lod:P4>
+          <lod:P5>hutt verfeiert</lod:P5>
+          <lod:P6>hu verfeiert</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat verfeiert</lod:P1>
+          <lod:P2>has verfeiert</lod:P2>
+          <lod:P3>hat verfeiert</lod:P3>
+          <lod:P4>hate verfeiert</lod:P4>
+          <lod:P5>hat verfeiert</lod:P5>
+          <lod:P6>hate verfeiert</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif verfeieren</lod:P1>
+          <lod:P2>géifs verfeieren</lod:P2>
+          <lod:P3>géif verfeieren</lod:P3>
+          <lod:P4>géife verfeieren</lod:P4>
+          <lod:P5>géift verfeieren</lod:P5>
+          <lod:P6>géife verfeieren</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt verfeiert</lod:P1>
+          <lod:P2>häss verfeiert</lod:P2>
+          <lod:P3>hätt verfeiert</lod:P3>
+          <lod:P4>hätte verfeiert</lod:P4>
+          <lod:P5>hätt verfeiert</lod:P5>
+          <lod:P6>hätte verfeiert</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verfeier!</lod:P2>
+          <lod:P5>verfeiert!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

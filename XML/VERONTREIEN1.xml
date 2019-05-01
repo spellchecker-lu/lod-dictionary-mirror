@@ -28,6 +28,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">détourner</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>des fonds</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">desviar</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>fundos</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -47,5 +51,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verontreien</lod:INFINITIF>
+      <lod:PART-PASS>verontreit</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verontreien</lod:P1>
+          <lod:P2>verontreis</lod:P2>
+          <lod:P3>verontreit</lod:P3>
+          <lod:P4>verontreien</lod:P4>
+          <lod:P5>verontreit</lod:P5>
+          <lod:P6>verontreien</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu verontreit</lod:P1>
+          <lod:P2>hues verontreit</lod:P2>
+          <lod:P3>huet verontreit</lod:P3>
+          <lod:P4>hu verontreit</lod:P4>
+          <lod:P5>hutt verontreit</lod:P5>
+          <lod:P6>hu verontreit</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat verontreit</lod:P1>
+          <lod:P2>has verontreit</lod:P2>
+          <lod:P3>hat verontreit</lod:P3>
+          <lod:P4>hate verontreit</lod:P4>
+          <lod:P5>hat verontreit</lod:P5>
+          <lod:P6>hate verontreit</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif verontreien</lod:P1>
+          <lod:P2>géifs verontreien</lod:P2>
+          <lod:P3>géif verontreien</lod:P3>
+          <lod:P4>géife verontreien</lod:P4>
+          <lod:P5>géift verontreien</lod:P5>
+          <lod:P6>géife verontreien</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt verontreit</lod:P1>
+          <lod:P2>häss verontreit</lod:P2>
+          <lod:P3>hätt verontreit</lod:P3>
+          <lod:P4>hätte verontreit</lod:P4>
+          <lod:P5>hätt verontreit</lod:P5>
+          <lod:P6>hätte verontreit</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verontrei!</lod:P2>
+          <lod:P5>verontreit!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

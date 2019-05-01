@@ -34,6 +34,11 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">concilier</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">juntar</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">unir</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">conciliar</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -66,5 +71,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>vereenegen</lod:INFINITIF>
+      <lod:PART-PASS>vereenegt</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>vereenegen</lod:P1>
+          <lod:P2>vereenegs</lod:P2>
+          <lod:P3>vereenegt</lod:P3>
+          <lod:P4>vereenegen</lod:P4>
+          <lod:P5>vereenegt</lod:P5>
+          <lod:P6>vereenegen</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu vereenegt</lod:P1>
+          <lod:P2>hues vereenegt</lod:P2>
+          <lod:P3>huet vereenegt</lod:P3>
+          <lod:P4>hu vereenegt</lod:P4>
+          <lod:P5>hutt vereenegt</lod:P5>
+          <lod:P6>hu vereenegt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat vereenegt</lod:P1>
+          <lod:P2>has vereenegt</lod:P2>
+          <lod:P3>hat vereenegt</lod:P3>
+          <lod:P4>hate vereenegt</lod:P4>
+          <lod:P5>hat vereenegt</lod:P5>
+          <lod:P6>hate vereenegt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif vereenegen</lod:P1>
+          <lod:P2>géifs vereenegen</lod:P2>
+          <lod:P3>géif vereenegen</lod:P3>
+          <lod:P4>géife vereenegen</lod:P4>
+          <lod:P5>géift vereenegen</lod:P5>
+          <lod:P6>géife vereenegen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt vereenegt</lod:P1>
+          <lod:P2>häss vereenegt</lod:P2>
+          <lod:P3>hätt vereenegt</lod:P3>
+          <lod:P4>hätte vereenegt</lod:P4>
+          <lod:P5>hätt vereenegt</lod:P5>
+          <lod:P6>hätte vereenegt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>vereeneg!</lod:P2>
+          <lod:P5>vereenegt!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

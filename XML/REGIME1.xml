@@ -24,7 +24,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="REGIME1UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Regime</lod:ETA-EXPLICITE>
@@ -43,17 +43,18 @@
                     <lod:RS-ETP-PRESENTE>político</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Regime</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>verschidde Géigner vum politesche</lod:TEXTE>
+                        <lod:ABREV-AD>R.</lod:ABREV-AD>
+                        <lod:TEXTE>goufe festgeholl</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>meng Mamm féiert am Stot e strenge</lod:TEXTE>
+                        <lod:TEXTE>meng Mamm féiert e strenge</lod:TEXTE>
                         <lod:ABREV-AD>R.</lod:ABREV-AD>
+                        <lod:TEXTE>am Stot</lod:TEXTE>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
                         <lod:TEXTE>meng Mamm dirigéiert de Stot op eng streng Manéier</lod:TEXTE>

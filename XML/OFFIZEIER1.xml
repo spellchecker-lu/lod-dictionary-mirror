@@ -23,7 +23,7 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="OFFIZEIER1UNI1">
-                  <lod:DOM-SPEC lod:DOM="MILIT"/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Offizier</lod:ETA-EXPLICITE>
@@ -38,6 +38,7 @@
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">oficial</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>militar</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -45,6 +46,13 @@
                         <lod:TEXTE>um</lod:TEXTE>
                         <lod:ABREV-AD>O.</lod:ABREV-AD>
                         <lod:TEXTE>sengen Epaulettë gesäit een, datt e Colonel ass</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>hien ass éischten</lod:TEXTE>
+                        <lod:ABREV-AD>Offizéier</lod:ABREV-AD>
+                        <lod:TEXTE>op engem grousse Croisièresschëff</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

@@ -32,6 +32,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">froisser</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">amarrotar</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">amarfanhar</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -62,5 +66,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verknujelen</lod:INFINITIF>
+      <lod:PART-PASS>verknujelt</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verknujelen</lod:P1>
+          <lod:P2>verknujels</lod:P2>
+          <lod:P3>verknujelt</lod:P3>
+          <lod:P4>verknujelen</lod:P4>
+          <lod:P5>verknujelt</lod:P5>
+          <lod:P6>verknujelen</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu verknujelt</lod:P1>
+          <lod:P2>hues verknujelt</lod:P2>
+          <lod:P3>huet verknujelt</lod:P3>
+          <lod:P4>hu verknujelt</lod:P4>
+          <lod:P5>hutt verknujelt</lod:P5>
+          <lod:P6>hu verknujelt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat verknujelt</lod:P1>
+          <lod:P2>has verknujelt</lod:P2>
+          <lod:P3>hat verknujelt</lod:P3>
+          <lod:P4>hate verknujelt</lod:P4>
+          <lod:P5>hat verknujelt</lod:P5>
+          <lod:P6>hate verknujelt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif verknujelen</lod:P1>
+          <lod:P2>géifs verknujelen</lod:P2>
+          <lod:P3>géif verknujelen</lod:P3>
+          <lod:P4>géife verknujelen</lod:P4>
+          <lod:P5>géift verknujelen</lod:P5>
+          <lod:P6>géife verknujelen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt verknujelt</lod:P1>
+          <lod:P2>häss verknujelt</lod:P2>
+          <lod:P3>hätt verknujelt</lod:P3>
+          <lod:P4>hätte verknujelt</lod:P4>
+          <lod:P5>hätt verknujelt</lod:P5>
+          <lod:P6>hätte verknujelt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verknujel!</lod:P2>
+          <lod:P5>verknujelt!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

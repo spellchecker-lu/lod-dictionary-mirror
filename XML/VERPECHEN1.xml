@@ -28,6 +28,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">coller (l'un à l'autre)</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">colar (um ao outro)</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">grudar (um ao outro)</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -47,5 +51,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verpechen</lod:INFINITIF>
+      <lod:PART-PASS>verpecht</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verpechen</lod:P1>
+          <lod:P2>verpechs</lod:P2>
+          <lod:P3>verpecht</lod:P3>
+          <lod:P4>verpechen</lod:P4>
+          <lod:P5>verpecht</lod:P5>
+          <lod:P6>verpechen</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu verpecht</lod:P1>
+          <lod:P2>hues verpecht</lod:P2>
+          <lod:P3>huet verpecht</lod:P3>
+          <lod:P4>hu verpecht</lod:P4>
+          <lod:P5>hutt verpecht</lod:P5>
+          <lod:P6>hu verpecht</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat verpecht</lod:P1>
+          <lod:P2>has verpecht</lod:P2>
+          <lod:P3>hat verpecht</lod:P3>
+          <lod:P4>hate verpecht</lod:P4>
+          <lod:P5>hat verpecht</lod:P5>
+          <lod:P6>hate verpecht</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif verpechen</lod:P1>
+          <lod:P2>géifs verpechen</lod:P2>
+          <lod:P3>géif verpechen</lod:P3>
+          <lod:P4>géife verpechen</lod:P4>
+          <lod:P5>géift verpechen</lod:P5>
+          <lod:P6>géife verpechen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt verpecht</lod:P1>
+          <lod:P2>häss verpecht</lod:P2>
+          <lod:P3>hätt verpecht</lod:P3>
+          <lod:P4>hätte verpecht</lod:P4>
+          <lod:P5>hätt verpecht</lod:P5>
+          <lod:P6>hätte verpecht</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verpech!</lod:P2>
+          <lod:P5>verpecht!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

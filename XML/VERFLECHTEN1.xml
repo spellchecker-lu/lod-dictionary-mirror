@@ -32,6 +32,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">imbriquer</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">interligar</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">imbricar</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -57,5 +61,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verflechten</lod:INFINITIF>
+      <lod:PART-PASS>verflecht</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verflechten</lod:P1>
+          <lod:P2>verflechts</lod:P2>
+          <lod:P3>verflecht</lod:P3>
+          <lod:P4>verflechten</lod:P4>
+          <lod:P5>verflecht</lod:P5>
+          <lod:P6>verflechten</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu verflecht</lod:P1>
+          <lod:P2>hues verflecht</lod:P2>
+          <lod:P3>huet verflecht</lod:P3>
+          <lod:P4>hu verflecht</lod:P4>
+          <lod:P5>hutt verflecht</lod:P5>
+          <lod:P6>hu verflecht</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat verflecht</lod:P1>
+          <lod:P2>has verflecht</lod:P2>
+          <lod:P3>hat verflecht</lod:P3>
+          <lod:P4>hate verflecht</lod:P4>
+          <lod:P5>hat verflecht</lod:P5>
+          <lod:P6>hate verflecht</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif verflechten</lod:P1>
+          <lod:P2>géifs verflechten</lod:P2>
+          <lod:P3>géif verflechten</lod:P3>
+          <lod:P4>géife verflechten</lod:P4>
+          <lod:P5>géift verflechten</lod:P5>
+          <lod:P6>géife verflechten</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt verflecht</lod:P1>
+          <lod:P2>häss verflecht</lod:P2>
+          <lod:P3>hätt verflecht</lod:P3>
+          <lod:P4>hätte verflecht</lod:P4>
+          <lod:P5>hätt verflecht</lod:P5>
+          <lod:P6>hätte verflecht</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verflecht!</lod:P2>
+          <lod:P5>verflecht!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

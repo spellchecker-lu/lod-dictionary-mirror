@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="VERZENNEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="VERZENNEN1ITE">verzënnen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="HUNN"/>
+          <lod:PARTICIPE-PASSE>verzënnt</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="VERZENNEN1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">verzinnen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">étamer</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>une pièce métallique</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">estanhar</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>um objeto de metal</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>verzënnen</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verzënnen</lod:INFINITIF>
+      <lod:PART-PASS>verzënnt</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verzënnen</lod:P1>
+          <lod:P2>verzënns</lod:P2>
+          <lod:P3>verzënnt</lod:P3>
+          <lod:P4>verzënnen</lod:P4>
+          <lod:P5>verzënnt</lod:P5>
+          <lod:P6>verzënnen</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu verzënnt</lod:P1>
+          <lod:P2>hues verzënnt</lod:P2>
+          <lod:P3>huet verzënnt</lod:P3>
+          <lod:P4>hu verzënnt</lod:P4>
+          <lod:P5>hutt verzënnt</lod:P5>
+          <lod:P6>hu verzënnt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat verzënnt</lod:P1>
+          <lod:P2>has verzënnt</lod:P2>
+          <lod:P3>hat verzënnt</lod:P3>
+          <lod:P4>hate verzënnt</lod:P4>
+          <lod:P5>hat verzënnt</lod:P5>
+          <lod:P6>hate verzënnt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif verzënnen</lod:P1>
+          <lod:P2>géifs verzënnen</lod:P2>
+          <lod:P3>géif verzënnen</lod:P3>
+          <lod:P4>géife verzënnen</lod:P4>
+          <lod:P5>géift verzënnen</lod:P5>
+          <lod:P6>géife verzënnen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt verzënnt</lod:P1>
+          <lod:P2>häss verzënnt</lod:P2>
+          <lod:P3>hätt verzënnt</lod:P3>
+          <lod:P4>hätte verzënnt</lod:P4>
+          <lod:P5>hätt verzënnt</lod:P5>
+          <lod:P6>hätte verzënnt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verzënn!</lod:P2>
+          <lod:P5>verzënnt!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
+  </lod:ITEM>
+</lod:LOD>

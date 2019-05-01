@@ -30,6 +30,11 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cafouiller</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>en parlant</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">atrapalhar-se</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">enganar-se</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>a falar</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -49,5 +54,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verhaspelen</lod:INFINITIF>
+      <lod:PART-PASS>verhaspelt</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verhaspele mech</lod:P1>
+          <lod:P2>verhaspels dech</lod:P2>
+          <lod:P3>verhaspelt sech</lod:P3>
+          <lod:P4>verhaspelen eis</lod:P4>
+          <lod:P5>verhaspelt iech</lod:P5>
+          <lod:P6>verhaspelen sech</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu mech verhaspelt</lod:P1>
+          <lod:P2>hues dech verhaspelt</lod:P2>
+          <lod:P3>huet sech verhaspelt</lod:P3>
+          <lod:P4>hunn eis verhaspelt</lod:P4>
+          <lod:P5>hutt iech verhaspelt</lod:P5>
+          <lod:P6>hunn sech verhaspelt</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat mech verhaspelt</lod:P1>
+          <lod:P2>has dech verhaspelt</lod:P2>
+          <lod:P3>hat sech verhaspelt</lod:P3>
+          <lod:P4>haten eis verhaspelt</lod:P4>
+          <lod:P5>hat iech verhaspelt</lod:P5>
+          <lod:P6>haten sech verhaspelt</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif mech verhaspelen</lod:P1>
+          <lod:P2>géifs dech verhaspelen</lod:P2>
+          <lod:P3>géif sech verhaspelen</lod:P3>
+          <lod:P4>géifen eis verhaspelen</lod:P4>
+          <lod:P5>géift iech verhaspelen</lod:P5>
+          <lod:P6>géifen sech verhaspelen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt mech verhaspelt</lod:P1>
+          <lod:P2>häss dech verhaspelt</lod:P2>
+          <lod:P3>hätt sech verhaspelt</lod:P3>
+          <lod:P4>hätten eis verhaspelt</lod:P4>
+          <lod:P5>hätt iech verhaspelt</lod:P5>
+          <lod:P6>hätten sech verhaspelt</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verhaspel dech!</lod:P2>
+          <lod:P5>verhaspelt iech!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>

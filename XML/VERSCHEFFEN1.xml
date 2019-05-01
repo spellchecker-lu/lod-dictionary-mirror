@@ -30,6 +30,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">expédier</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>par voie d'eau</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">embarcar (e enviar)</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>por navio</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -57,5 +61,59 @@
         </lod:MS-TYPE-VRB>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>verschëffen</lod:INFINITIF>
+      <lod:PART-PASS>verschëfft</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P1>verschëffen</lod:P1>
+          <lod:P2>verschëffs</lod:P2>
+          <lod:P3>verschëfft</lod:P3>
+          <lod:P4>verschëffen</lod:P4>
+          <lod:P5>verschëfft</lod:P5>
+          <lod:P6>verschëffen</lod:P6>
+        </lod:PRESENT>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hu verschëfft</lod:P1>
+          <lod:P2>hues verschëfft</lod:P2>
+          <lod:P3>huet verschëfft</lod:P3>
+          <lod:P4>hu verschëfft</lod:P4>
+          <lod:P5>hutt verschëfft</lod:P5>
+          <lod:P6>hu verschëfft</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P1>hat verschëfft</lod:P1>
+          <lod:P2>has verschëfft</lod:P2>
+          <lod:P3>hat verschëfft</lod:P3>
+          <lod:P4>hate verschëfft</lod:P4>
+          <lod:P5>hat verschëfft</lod:P5>
+          <lod:P6>hate verschëfft</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-COMPOSE>
+          <lod:P1>géif verschëffen</lod:P1>
+          <lod:P2>géifs verschëffen</lod:P2>
+          <lod:P3>géif verschëffen</lod:P3>
+          <lod:P4>géife verschëffen</lod:P4>
+          <lod:P5>géift verschëffen</lod:P5>
+          <lod:P6>géife verschëffen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P1>hätt verschëfft</lod:P1>
+          <lod:P2>häss verschëfft</lod:P2>
+          <lod:P3>hätt verschëfft</lod:P3>
+          <lod:P4>hätte verschëfft</lod:P4>
+          <lod:P5>hätt verschëfft</lod:P5>
+          <lod:P6>hätte verschëfft</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+      <lod:IMPERATIF>
+        <lod:PRESENT>
+          <lod:P2>verschëff!</lod:P2>
+          <lod:P5>verschëfft!</lod:P5>
+        </lod:PRESENT>
+      </lod:IMPERATIF>
+    </lod:FLX-VRB>
   </lod:ITEM>
 </lod:LOD>
