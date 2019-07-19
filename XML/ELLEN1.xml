@@ -9,7 +9,7 @@
           <lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ"/>
           <lod:TRAITEMENT-LING-ADJ>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-DOMIN>hässlich</lod:TRAD-ALL-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -17,8 +17,8 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">unschön</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">hässlich</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>unschön</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">laid</lod:ETF-EXPLICITE>
@@ -70,22 +70,28 @@
                 <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="ELLEN1UNI2">
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
-                  <lod:UNITE-POLYLEX-LUX>elle ginn / elle sinn</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">mulmig sein</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">mulmig</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">angst und bange sein</lod:ETA-EXPLICITE>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">angst und bange</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">être troublé</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">troublé</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">avoir la trouille</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">angoissé</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">plein d'appréhension</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to be filled with dread</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">filled with dread</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">aflito</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">angustiado</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">apreensivo</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
@@ -96,9 +102,7 @@
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-PRESENTS>
-                      <lod:TERME-SYN>grujeleg</lod:TERME-SYN>
-                    </lod:SYN-PRESENTS>
+                    <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -109,8 +113,8 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">böse</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">hässlich</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>böse</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cruel</lod:ETF-EXPLICITE>
@@ -168,6 +172,8 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">hässlich</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">schlimm</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>

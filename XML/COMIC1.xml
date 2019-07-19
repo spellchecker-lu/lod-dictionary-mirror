@@ -14,6 +14,7 @@
           <lod:PLURIEL>
             <lod:TJ-NOMBRABLE>
               <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Comicken</lod:FORME-PLURIEL>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Comics</lod:FORME-PLURIEL>
             </lod:TJ-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
@@ -56,6 +57,42 @@
                     <lod:SYN-PRESENTS>
                       <lod:TERME-SYN>Bande dessinée</lod:TERME-SYN>
                     </lod:SYN-PRESENTS>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="COMIC1UNI2">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Zeichentrickfilm</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Animationsfilm</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">film d'animation</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">dessin animé</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">desenho animado</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">filme de animação</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>Comic</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>

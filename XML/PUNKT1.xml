@@ -35,6 +35,10 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">géométrique</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">point</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>intersection</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ponto</lod:ETP-EXPLICITE>
                     <lod:RS-ETP-PRESENTE>geométrico</lod:RS-ETP-PRESENTE>
@@ -159,8 +163,8 @@
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">spot</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>place, point</lod:RS-ETE-PRESENTE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">point</lod:ETE-EXPLICITE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">place</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ponto</lod:ETP-EXPLICITE>
@@ -192,7 +196,7 @@
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">point</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>question, theme</lod:RS-ETE-PRESENTE>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">item</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ponto</lod:ETP-EXPLICITE>
@@ -233,8 +237,9 @@
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">mark</lod:ETE-EXPLICITE>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">point</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>of evaluation, bonus point, penalty point</lod:RS-ETE-PRESENTE>
+                    <lod:RS-ETE-PRESENTE>unit for scoring or counting, bonus point, penalty point</lod:RS-ETE-PRESENTE>
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ponto</lod:ETP-EXPLICITE>

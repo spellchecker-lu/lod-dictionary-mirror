@@ -858,6 +858,8 @@
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">halten</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">anhalten</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-PRESENTE>stehen bleiben</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
@@ -892,6 +894,45 @@
                     <lod:SYN-PRESENTS>
                       <lod:TERME-SYN>stoe bleiwen</lod:TERME-SYN>
                     </lod:SYN-PRESENTS>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="HALEN1UNI30">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">halten</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>das Fahrzeug abstellen</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">être à l'arrêt</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">stationner</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>hei däerf ee just eng hallef Stonn</lod:TEXTE>
+                        <lod:ABREV-AD>h.</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>wéi</lod:TEXTE>
+                        <lod:ABREV-AD>h.</lod:ABREV-AD>
+                        <lod:TEXTE>ech elo hei?</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                      <lod:GLOSE lod:SENS-EX-GLOSE="EXTENSION-NON-EQUIV">
+                        <lod:TEXTE>seet een, wann een an enger dommer Situatioun ass</lod:TEXTE>
+                      </lod:GLOSE>
+                    </lod:EXEMPLE-GLOSE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>

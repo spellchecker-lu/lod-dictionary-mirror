@@ -12,9 +12,7 @@
             <lod:SUBST-SIMPLE/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="BEKANNTHEET1UNI2" lod:REFS-IDS-UNITES-DE-SENS-MASS="BEKANNTHEET1UNI1">
-              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Bekanntheeten</lod:FORME-PLURIEL>
-            </lod:ALT-MASSIF-NOMBRABLE>
+            <lod:TJ-MASSIF/>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
@@ -27,70 +25,29 @@
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Bekanntheit</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>Ruhm</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-PRESENTE>Eigenschaft</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">notoriété</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">célébrité</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">celebrity</lod:ETE-EXPLICITE>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">fame</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fama</lod:ETP-EXPLICITE>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">notoriedade</lod:ETP-EXPLICITE>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">celebridade</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fama</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>den Acteur huet seng</lod:TEXTE>
                         <lod:ABREV-AD>B.</lod:ABREV-AD>
-                        <lod:TEXTE>als Sprangbriet fir seng politesch Carrière benotzt</lod:TEXTE>
+                        <lod:TEXTE>als Sprangbriet fir seng politesch Carrière genotzt</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
-                  </lod:SYNONYMES>
-                </lod:UNITE-DE-SENS>
-              </lod:PAS-DE-TRAD-SUBORDONNANTE>
-            </lod:UNITE-TRAD>
-            <lod:UNITE-TRAD>
-              <lod:PAS-DE-TRAD-SUBORDONNANTE>
-                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="BEKANNTHEET1UNI2">
-                  <lod:DOM-SPEC/>
-                  <lod:MARQUE-USAGE/>
-                  <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Bekanntheit</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>Person</lod:RS-ETA-PRESENTE>
-                  </lod:EQUIV-TRAD-ALL>
-                  <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">célébrité</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>personne</lod:RS-ETF-PRESENTE>
-                  </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">celebrity</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>person</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">celebridade</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>pessoa</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
-                  <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
-                      <lod:TEXTE-EX>
-                        <lod:TEXTE>op der Gaardeparty ware vill</lod:TEXTE>
-                        <lod:ABREV-AD>B.en</lod:ABREV-AD>
-                        <lod:TEXTE>aus dem ëffentleche Liewen</lod:TEXTE>
-                      </lod:TEXTE-EX>
-                    </lod:EXEMPLE>
-                  </lod:EXEMPLIFICATION>
-                  <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>Notorietéit</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>

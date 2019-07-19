@@ -21,16 +21,21 @@
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="PASSIV2UNI1">
-                  <lod:DOM-SPEC/>
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Passiv</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:RS-ETA-PRESENTE>Leideform</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">voix passive</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">passif</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>voix grammaticale</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">passive (voice)</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">(voz) passiva</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>

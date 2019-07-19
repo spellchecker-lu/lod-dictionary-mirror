@@ -27,18 +27,49 @@
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Hersteller</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>Fabrikant</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-PRESENTE>von Transportmitteln</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">constructeur</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>fabricant</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-PRESENTE>de moyens de transport</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">manufacturer</lod:ETE-EXPLICITE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fabricante</lod:ETP-EXPLICITE>
-                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE>
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:ABREV-AD>Constructeur</lod:ABREV-AD>
+                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>de</lod:TEXTE>
+                        <lod:ABREV-AD>C.</lod:ABREV-AD>
+                        <lod:TEXTE>vum Fliger gouf fir d'Ongléck verantwortlech gemaach</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="CONSTRUCTEUR1UNI2">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Bauherr</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">constructeur</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">maître d'ouvrage</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
                       <lod:TEXTE-EX>
@@ -49,7 +80,9 @@
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>Bauhär</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>

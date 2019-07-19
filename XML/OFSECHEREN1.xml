@@ -66,11 +66,17 @@
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">sichern</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>garantieren</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">absichern</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>finanziell</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">garantir</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>assurer le maintien de</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">assurer</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">mettre à l'abri</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>financièrement</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to secure</lod:ETE-EXPLICITE>
@@ -78,7 +84,9 @@
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">assegurar</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>garantir</lod:RS-ETP-PRESENTE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">garantir</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">tornar seguro</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>financeiramente</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -88,11 +96,21 @@
                         <lod:TEXTE>?</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>duerch meng nei berufflech Situatioun ass meng Zukunft</lod:TEXTE>
+                        <lod:ABREV-AD>ofgeséchert</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>no enger Rei Ufanksschwieregkeete war den neie Betrib relativ séier finanziell</lod:TEXTE>
+                        <lod:ABREV-AD>ofgeséchert</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-PRESENTS>
-                      <lod:TERME-SYN>sécheren</lod:TERME-SYN>
-                    </lod:SYN-PRESENTS>
+                    <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>

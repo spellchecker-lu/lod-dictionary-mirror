@@ -12,7 +12,7 @@
             <lod:SUBST-SIMPLE/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="HETZT1UNI2" lod:REFS-IDS-UNITES-DE-SENS-MASS="HETZT1UNI1" lod:REFS-IDS-UNITES-DE-SENS-PL-TANTUM="HETZT1UNI2">
+            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="HETZT1UNI2" lod:REFS-IDS-UNITES-DE-SENS-MASS="HETZT1UNI1 HETZT1UNI3" lod:REFS-IDS-UNITES-DE-SENS-PL-TANTUM="HETZT1UNI2">
               <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Hëtzten</lod:FORME-PLURIEL>
             </lod:ALT-MASSIF-NOMBRABLE>
           </lod:PLURIEL>
@@ -30,22 +30,27 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">chaleur</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">(forte) chaleur</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">canicule</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">heat</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">calor</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>temperatura elevada</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
                         <lod:TEXTE>am Summer ass ëmmer eng fierchterlech</lod:TEXTE>
                         <lod:ABREV-AD>H.</lod:ABREV-AD>
                         <lod:TEXTE>an eiser Kichen</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>bei där</lod:TEXTE>
+                        <lod:ABREV-AD>H.</lod:ABREV-AD>
+                        <lod:TEXTE>gruewen ech bestëmmt de Gaart net ëm!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
@@ -61,6 +66,36 @@
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
                     <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="HETZT1UNI3" lod:FREQ-EMPLOI="NORMAL">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Wärme</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Temperatur</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">chaleur</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>d'un corps</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>eisen neien Uewen hält d'</lod:TEXTE>
+                        <lod:ABREV-AD>H.</lod:ABREV-AD>
+                        <lod:TEXTE>besser ewéi deen alen</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>Wäermt</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>

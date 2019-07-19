@@ -28,17 +28,21 @@
                     <lod:RS-ETA-PRESENTE>Verantwortung, Kontrolle</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">responsabilité</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">surveillance</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-PRESENTE>responsabilité, garde, contrôle</lod:RS-ETF-PRESENTE>
+                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">contrôle</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">vigilância</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>responsabilidade, guarda, controlo</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">supervision</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>control, charge</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>d'Handlaanger schaffen ënner der</lod:TEXTE>
+                        <lod:TEXTE>d'Equipe schafft ënner der</lod:TEXTE>
                         <lod:ABREV-AD>Opsiicht</lod:ABREV-AD>
                         <lod:TEXTE>vun engem Viraarbechter</lod:TEXTE>
                       </lod:TEXTE-EX>
@@ -48,6 +52,13 @@
                         <lod:TEXTE>dir kënnt d'Kanner dach net einfach ouni</lod:TEXTE>
                         <lod:ABREV-AD>Opsiicht</lod:ABREV-AD>
                         <lod:TEXTE>loossen!</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>dee Verdächtege gouf vum Geriicht ënner</lod:TEXTE>
+                        <lod:ABREV-AD>O.</lod:ABREV-AD>
+                        <lod:TEXTE>(vun der Police) gestallt</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">

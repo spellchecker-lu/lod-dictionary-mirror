@@ -27,10 +27,12 @@
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Leinwand</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-PRESENTE>des Kunstmalers</lod:RS-ETA-PRESENTE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Malerleinwand</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">de l'artiste peintre</lod:ETF-EXPLICITE>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">support pour une œuvre</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
@@ -39,7 +41,7 @@
                   </lod:EQUIV-TRAD-EN>
                   <lod:EQUIV-TRAD-PO>
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">tela</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>do pintor artístico</lod:RS-ETP-PRESENTE>
+                    <lod:RS-ETP-PRESENTE>para pintura</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
                     <lod:EXEMPLE>
@@ -51,7 +53,9 @@
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
                   <lod:SYNONYMES>
-                    <lod:SYN-ABSENTS/>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>Leinwand</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
