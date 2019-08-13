@@ -18,7 +18,7 @@
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-FR-DOMIN>circuit</lod:TRAD-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -30,8 +30,8 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">parcours, tour</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">circuit</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>parcours, tour</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">track</lod:ETE-EXPLICITE>
@@ -44,11 +44,11 @@
                     <lod:RS-ETP-PRESENTE>percurso, caminho</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Circuit</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>de</lod:TEXTE>
+                        <lod:ABREV-AD>C.</lod:ABREV-AD>
+                        <lod:TEXTE>féiert ronderëm de Séi</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -68,8 +68,8 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">piste automobile</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">circuit</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>piste automobile</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">racetrack</lod:ETE-EXPLICITE>
@@ -79,11 +79,11 @@
                     <lod:RS-ETP-PRESENTE>pista automóvel</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Circuit</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>de</lod:TEXTE>
+                        <lod:ABREV-AD>C.</lod:ABREV-AD>
+                        <lod:TEXTE>ass bal siwe Kilometer laang</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

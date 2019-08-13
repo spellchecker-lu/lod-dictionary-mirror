@@ -19,7 +19,7 @@
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-FR-DOMIN>semestre</lod:TRAD-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -31,8 +31,8 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">moitié d'une année</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">semestre</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>moitié d'une année</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">half</lod:ETE-EXPLICITE>
@@ -67,8 +67,8 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">scolaire</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">semestre</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>scolaire</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">semester</lod:ETE-EXPLICITE>
@@ -86,14 +86,13 @@
                         <lod:TEXTE>am Ausland studéiert</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE-GLOSE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Semester</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>déi meescht Invitéë waren eeler</lod:TEXTE>
+                        <lod:ABREV-AD>S.</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+                        <lod:TEXTE>déi meescht Invitéë waren eeler Leit</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>

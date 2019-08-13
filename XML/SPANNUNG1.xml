@@ -18,7 +18,7 @@
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-DOMIN>Spannung</lod:TRAD-ALL-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -26,8 +26,8 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Erwartung</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Spannung</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Erwartung</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">impatience</lod:ETF-EXPLICITE>
@@ -70,8 +70,8 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Dramatik</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Spannung</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Dramatik</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">suspense</lod:ETF-EXPLICITE>
@@ -101,18 +101,17 @@
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
             <lod:UNITE-TRAD>
-              <lod:TRAD-FR-SUBORDONNANTE>
-                <lod:TRAD-FR-SUBORD>tension</lod:TRAD-FR-SUBORD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SPANNUNG1UNI2">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Unstimmigkeit</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Spannung</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Unstimmigkeit</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">antagonisme, situation tendue</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tension</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>antagonisme, situation tendue</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">tension</lod:ETE-EXPLICITE>
@@ -123,11 +122,10 @@
                     <lod:RS-ETP-PRESENTE>antagonismo, situação tensa</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Spannung</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>d'Diskriminatioun vu Minoritéite féiert zu soziale</lod:TEXTE>
+                        <lod:ABREV-AD>S.en</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -135,16 +133,20 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SPANNUNG1UNI3">
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Stromspannung</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Spannung</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Stromspannung</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">électrique</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tension</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>électrique</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">voltage</lod:ETE-EXPLICITE>
@@ -167,7 +169,7 @@
                     </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
-              </lod:TRAD-FR-SUBORDONNANTE>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
           </lod:TRAITEMENT-LING-SUBST>
         </lod:MS-TYPE-SUBST>

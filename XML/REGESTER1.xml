@@ -19,10 +19,7 @@
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-FR-DOMIN>
-                <lod:TRAD-ALL-DOMIN>Register</lod:TRAD-ALL-DOMIN>
-                <lod:TRAD-FR-DOMIN>registre</lod:TRAD-FR-DOMIN>
-              </lod:TRAD-ALL-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -30,12 +27,12 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Verzeichnis</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Register</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Verzeichnis</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">répertoire</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">registre</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>répertoire</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">register</lod:ETE-EXPLICITE>
@@ -46,18 +43,18 @@
                     <lod:RS-ETP-PRESENTE>rol, lista</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Regëster</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>am</lod:TEXTE>
+                        <lod:ABREV-AD>R.</lod:ABREV-AD>
+                        <lod:TEXTE>vun der Gemeng stinn d'Nimm vun allen Awunner</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Regëster</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>de Schüler hir Adresse stinn am</lod:TEXTE>
+                        <lod:ABREV-AD>R.</lod:ABREV-AD>
+                        <lod:TEXTE>vun der Klass</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -80,12 +77,12 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">einer Orgel</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Register</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>einer Orgel</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">d'un orgue</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">registre</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>d'un orgue</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">register</lod:ETE-EXPLICITE>
@@ -97,11 +94,10 @@
                     <lod:RS-ETP-PRESENTE>de um órgão</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Regëster</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>eis nei Uergel huet 15</lod:TEXTE>
+                        <lod:ABREV-AD>R.</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">

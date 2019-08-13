@@ -16,14 +16,13 @@
               <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
-              <lod:TRAD-ALL-SUBORDONNANTE>
-                <lod:TRAD-ALL-SUBORD>abziehen</lod:TRAD-ALL-SUBORD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="OFZEIEN1UNI1">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">entfernen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">abziehen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>entfernen</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">retirer</lod:ETF-EXPLICITE>
@@ -41,11 +40,12 @@
                     <lod:RS-ETP-PRESENTE>puxando</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ofzéien</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>de Jeeër</lod:TEXTE>
+                        <lod:ABREV-AD>huet</lod:ABREV-AD>
+                        <lod:TEXTE>dem Hues de Pelz</lod:TEXTE>
+                        <lod:ABREV-AD>ofgezunn</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -53,12 +53,16 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="OFZEIEN1UNI5">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">ein Tier</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">abziehen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>ein Tier</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">dépouiller</lod:ETF-EXPLICITE>
@@ -86,12 +90,16 @@
                     </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="OFZEIEN1UNI6">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">ein Bett</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">abziehen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>ein Bett</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">enlever les draps de</lod:ETF-EXPLICITE>
@@ -119,12 +127,16 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="OFZEIEN1UNI3">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">vervielfältigen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">abziehen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>vervielfältigen</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tirer</lod:ETF-EXPLICITE>
@@ -142,11 +154,12 @@
                     <lod:RS-ETP-PRESENTE>graficamente</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ofzéien</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>d'Broschür</lod:TEXTE>
+                        <lod:ABREV-AD>gouf</lod:ABREV-AD>
+                        <lod:TEXTE>dausendmol</lod:TEXTE>
+                        <lod:ABREV-AD>ofgezunn</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -161,11 +174,17 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="OFZEIEN1UNI4">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:UNITE-POLYLEX-LUX>ofzéien (vun)</lod:UNITE-POLYLEX-LUX>
                   <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">abziehen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">abziehen (von)</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-PRESENTE>abrechnen (von)</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
@@ -185,25 +204,28 @@
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">descontar (de)</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ofzéien</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>bei de Beamte</lod:TEXTE>
+                        <lod:ABREV-AD>ginn</lod:ABREV-AD>
+                        <lod:TEXTE>d'Steieren direkt vum Loun</lod:TEXTE>
+                        <lod:ABREV-AD>ofgezunn</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ofzéien</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:ABREV-AD>hues</lod:ABREV-AD>
+                        <lod:TEXTE>de d'Prozenter</lod:TEXTE>
+                        <lod:ABREV-AD>ofgezunn</lod:ABREV-AD>
+                        <lod:TEXTE>?</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ofzéien</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>de Professer</lod:TEXTE>
+                        <lod:ABREV-AD>zitt</lod:ABREV-AD>
+                        <lod:TEXTE>fir all Feeler zwee Punkten</lod:TEXTE>
+                        <lod:ABREV-AD>of</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -213,7 +235,7 @@
                     </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
-              </lod:TRAD-ALL-SUBORDONNANTE>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -237,11 +259,12 @@
                     <lod:RS-ETP-PRESENTE>derrotar</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ofzéien</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>mir</lod:TEXTE>
+                        <lod:ABREV-AD>hunn</lod:ABREV-AD>
+                        <lod:TEXTE>déi Equipe schonn zweemol</lod:TEXTE>
+                        <lod:ABREV-AD>ofgezunn</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -292,11 +315,13 @@
                     <lod:RS-ETP-PRESENTE>fluido</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ofzéien</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>den Donst</lod:TEXTE>
+                        <lod:ABREV-AD>zitt</lod:ABREV-AD>
+                        <lod:TEXTE>net</lod:TEXTE>
+                        <lod:ABREV-AD>of</lod:ABREV-AD>
+                        <lod:TEXTE>, well de Filter vun der Hott verknascht ass</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -332,11 +357,11 @@
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to withdraw</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ofzéien</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>wéi d'Zaldoten</lod:TEXTE>
+                        <lod:ABREV-AD>ofgezu sinn</lod:ABREV-AD>
+                        <lod:TEXTE>, konnten d'Leit nees opootmen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

@@ -9,19 +9,20 @@
           <lod:CAT-GRAM-ADJ/>
           <lod:TRAITEMENT-LING-ADJ>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-DOMIN>plump</lod:TRAD-ALL-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
-              <lod:TRAD-FR-SUBORDONNANTE>
-                <lod:TRAD-FR-SUBORD>lourd</lod:TRAD-FR-SUBORD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="PLOMP1UNI1">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">massig, unförmig</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">plump</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>massig, unförmig</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">lourd</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">massif</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>pesant</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
@@ -48,16 +49,20 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="PLOMP1UNI2">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">schwerfällig</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">plump</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>schwerfällig</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">peu agile, inélégant</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">lourd</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>peu agile, inélégant</lod:RS-ETF-PRESENTE>
                     <lod:ETF-ALT lod:TYPE-ETF-ALT="FORME-ADVERBIALE-ADJ">lourdement</lod:ETF-ALT>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
@@ -92,7 +97,7 @@
                     </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
-              </lod:TRAD-FR-SUBORDONNANTE>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -100,8 +105,8 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">ungeschickt, taktlos</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">plump</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>ungeschickt, taktlos</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">maladroit</lod:ETF-EXPLICITE>

@@ -18,7 +18,7 @@
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-FR-DOMIN>manifestation</lod:TRAD-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -30,8 +30,8 @@
                     <lod:RS-ETA-PRESENTE>Ereignis</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">événement</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">manifestation</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>événement</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">event</lod:ETE-EXPLICITE>
@@ -42,11 +42,10 @@
                     <lod:RS-ETP-PRESENTE>evento</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Manifestatioun</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>am Kader vum Festival organiséiert d'Gemeng eng Rei kulturell</lod:TEXTE>
+                        <lod:ABREV-AD>M.en</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -68,8 +67,8 @@
                     <lod:RS-ETA-PRESENTE>Kundgebung</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">de protestation, de revendication</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">manifestation</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>de protestation, de revendication</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">demonstration</lod:ETE-EXPLICITE>
@@ -80,11 +79,11 @@
                     <lod:RS-ETP-PRESENTE>de protesto, de reivindicação</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Manifestatioun</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>muer de Mëtteg ass an der Stad eng</lod:TEXTE>
+                        <lod:ABREV-AD>M.</lod:ABREV-AD>
+                        <lod:TEXTE>géint de Krich</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

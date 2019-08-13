@@ -9,7 +9,7 @@
           <lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ"/>
           <lod:TRAITEMENT-LING-ADJ>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-FR-DOMIN>délicat</lod:TRAD-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -23,8 +23,8 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">fin, délicieux</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">délicat</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>fin, délicieux</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">delicate</lod:ETE-EXPLICITE>
@@ -63,8 +63,8 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">sensible, fin</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">délicat</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>sensible, fin</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">delicate</lod:ETE-EXPLICITE>
@@ -75,11 +75,11 @@
                     <lod:RS-ETP-PRESENTE>sensível, frágil</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>delikat</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>mat denger</lod:TEXTE>
+                        <lod:ABREV-AD>d.er</lod:ABREV-AD>
+                        <lod:TEXTE>Haut heescht et, an der Sonn opzepassen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -108,8 +108,8 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">qui a du tact, une grande sensibilité</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">délicat</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>qui a du tact, une grande sensibilité</lod:RS-ETF-PRESENTE>
                     <lod:ETF-ALT lod:TYPE-ETF-ALT="FORME-ADVERBIALE-ADJ">avec tact</lod:ETF-ALT>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
@@ -149,8 +149,8 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">difficile, complexe</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">délicat</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>difficile, complexe</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">delicate</lod:ETE-EXPLICITE>
@@ -161,11 +161,11 @@
                     <lod:RS-ETP-PRESENTE>difícil, complexo</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>delikat</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>mir wëllen net weider op déi</lod:TEXTE>
+                        <lod:ABREV-AD>d.</lod:ABREV-AD>
+                        <lod:TEXTE>Affär agoen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

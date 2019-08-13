@@ -18,10 +18,7 @@
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-FR-DOMIN>
-                <lod:TRAD-ALL-DOMIN>Batterie</lod:TRAD-ALL-DOMIN>
-                <lod:TRAD-FR-DOMIN>batterie</lod:TRAD-FR-DOMIN>
-              </lod:TRAD-ALL-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -29,10 +26,12 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Stromspeicher</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Batterie</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Stromspeicher</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">batterie</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">accumulateur</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">pile</lod:ETF-EXPLICITE>
@@ -84,12 +83,14 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Batterie</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Reihe</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-PRESENTE>gleichartiger Bestandteile</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">série d'éléments semblables</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">batterie</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>série d'éléments semblables</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">battery</lod:ETE-EXPLICITE>
@@ -121,9 +122,13 @@
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Batterie</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Batterie</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-PRESENTE>militärische Einheit</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">batterie</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">batterie</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>unité militaire</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>

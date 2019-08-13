@@ -32,19 +32,23 @@
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">equipped</lod:ETE-EXPLICITE>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">prepared</lod:ETE-EXPLICITE>
                   </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">equipado</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">preparado</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">pronto</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>gestiwwelt</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>mat dësem Zelt an engem gudde Schlofsak bass de fir eis Wanderung duerch Norwegen uerdentlech</lod:TEXTE>
+                        <lod:ABREV-AD>g.</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
+                        <lod:TEXTE>mat enger uerdentlecher Ausbildung ass ee fir d'Zukunft gutt</lod:TEXTE>
                         <lod:ABREV-AD>gestiwwelt</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE/>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

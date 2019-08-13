@@ -9,7 +9,7 @@
           <lod:CAT-GRAM-ADJ/>
           <lod:TRAITEMENT-LING-ADJ>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-DOMIN>unmenschlich</lod:TRAD-ALL-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -17,8 +17,8 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">grausam, menschenunwürdig</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">unmenschlich</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>grausam, menschenunwürdig</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">inhumain</lod:ETF-EXPLICITE>
@@ -35,18 +35,18 @@
                     <lod:ETP-ALT lod:TYPE-ETP-ALT="FORME-ADVERBIALE-ADJ">desumanamente</lod:ETP-ALT>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>onmënschlech</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>dës Associatioun mécht op déi</lod:TEXTE>
+                        <lod:ABREV-AD>o.</lod:ABREV-AD>
+                        <lod:TEXTE>Zoustänn opmierksam, an deene vill Leit liewen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>onmënschlech</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>si goufen an der Gefaangenschaft</lod:TEXTE>
+                        <lod:ABREV-AD>o.</lod:ABREV-AD>
+                        <lod:TEXTE>behandelt</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -62,8 +62,8 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE lod:STYLE="EGS"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">sehr groß</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">unmenschlich</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>sehr groß</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">surhumain</lod:ETF-EXPLICITE>

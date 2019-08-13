@@ -9,10 +9,7 @@
           <lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ"/>
           <lod:TRAITEMENT-LING-ADJ>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-FR-DOMIN>
-                <lod:TRAD-ALL-DOMIN>glücklich</lod:TRAD-ALL-DOMIN>
-                <lod:TRAD-FR-DOMIN>heureux</lod:TRAD-FR-DOMIN>
-              </lod:TRAD-ALL-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -20,12 +17,12 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">überaus froh</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">glücklich</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>überaus froh</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">rempli de bonheur</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">heureux</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>rempli de bonheur</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">happy</lod:ETE-EXPLICITE>
@@ -63,12 +60,12 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">vorteilhaft</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">glücklich</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>vorteilhaft</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">avantageux, à propos</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">heureux</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>avantageux, à propos</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">lucky</lod:ETE-EXPLICITE>
@@ -86,21 +83,21 @@
                         <lod:TEXTE>Zoufall hunn d'Touristen de Wee erëmfonnt</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>glécklech</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>reeg dech net op, ech hat mäi Saz net ganz</lod:TEXTE>
+                        <lod:ABREV-AD>g.</lod:ABREV-AD>
+                        <lod:TEXTE>formuléiert!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE-GLOSE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>glécklech</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>zéi du léiwer e Lous, du hues méi eng</lod:TEXTE>
+                        <lod:ABREV-AD>g.</lod:ABREV-AD>
+                        <lod:TEXTE>Hand ewéi ech!</lod:TEXTE>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+                        <lod:TEXTE>zéi du léiwer e Lous, du hues méi Chance ewéi ech!</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>

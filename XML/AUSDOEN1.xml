@@ -16,14 +16,13 @@
               <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
-              <lod:TRAD-ALL-SUBORDONNANTE>
-                <lod:TRAD-ALL-SUBORD>ausziehen</lod:TRAD-ALL-SUBORD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="AUSDOEN1UNI1">
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">ein Kleidungsstück, ein Accessoire</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">ausziehen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>ein Kleidungsstück, ein Accessoire</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">enlever</lod:ETF-EXPLICITE>
@@ -42,28 +41,31 @@
                     <lod:RS-ETP-PRESENTE>uma peça de roupa, um acessório</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ausdoen</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:ABREV-AD>ditt</lod:ABREV-AD>
+                        <lod:TEXTE>är knaschteg Schong</lod:TEXTE>
+                        <lod:ABREV-AD>aus</lod:ABREV-AD>
+                        <lod:TEXTE>, wann ech gelift!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ausdoen</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>ech hunn d'Fanger geschwollen, ech</lod:TEXTE>
+                        <lod:ABREV-AD>kréie</lod:ABREV-AD>
+                        <lod:TEXTE>mäi Rank net</lod:TEXTE>
+                        <lod:ABREV-AD>ausgedoen</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE-GLOSE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ausdoen</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>eise Paschtouer</lod:TEXTE>
+                        <lod:ABREV-AD>huet</lod:ABREV-AD>
+                        <lod:TEXTE>säi Frack</lod:TEXTE>
+                        <lod:ABREV-AD>ausgedoen</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+                        <lod:TEXTE>eise Paschtouer huet säi Beruff opginn</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
@@ -71,10 +73,16 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="AUSDOEN1UNI5">
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">ausziehen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">entkleiden</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
@@ -92,18 +100,19 @@
                     <lod:RS-ETP-PRESENTE>desvestir</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ausdoen</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>éier se an d'Buedbidde klammen,</lod:TEXTE>
+                        <lod:ABREV-AD>ginn</lod:ABREV-AD>
+                        <lod:TEXTE>d'Kanner</lod:TEXTE>
+                        <lod:ABREV-AD>ausgedoen</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ausdoen</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>fir an d'Rëntge musst Der Iech</lod:TEXTE>
+                        <lod:ABREV-AD>ausdoe</lod:ABREV-AD>
+                        <lod:TEXTE>bis op de Slip</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
@@ -123,7 +132,7 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
-              </lod:TRAD-ALL-SUBORDONNANTE>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -149,11 +158,12 @@
                     <lod:RS-ETP-PRESENTE>retirar (legumes) da terra</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ausdoen</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>muer</lod:TEXTE>
+                        <lod:ABREV-AD>ginn</lod:ABREV-AD>
+                        <lod:TEXTE>d'Muerten</lod:TEXTE>
+                        <lod:ABREV-AD>ausgedoen</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -190,11 +200,11 @@
                     <lod:RS-ETP-PRESENTE>descontar determinada quantia</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>ausdoen</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>kënnt Dir eis net eppes um Präis vum Auto</lod:TEXTE>
+                        <lod:ABREV-AD>a.</lod:ABREV-AD>
+                        <lod:TEXTE>?</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

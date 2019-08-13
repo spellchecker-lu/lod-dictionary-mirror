@@ -9,7 +9,7 @@
           <lod:CAT-GRAM-ADJ/>
           <lod:TRAITEMENT-LING-ADJ>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-FR-DOMIN>profitable</lod:TRAD-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -21,8 +21,8 @@
                     <lod:RS-ETA-PRESENTE>Gewinn bringend, einträglich</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">rentable</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">profitable</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>rentable</lod:RS-ETF-PRESENTE>
                     <lod:ETF-ALT lod:TYPE-ETF-ALT="FORME-ADVERBIALE-ADJ">avec profit</lod:ETF-ALT>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
@@ -36,11 +36,10 @@
                     <lod:ETP-ALT lod:TYPE-ETP-ALT="FORME-ADVERBIALE-ADJ">proveitosamente</lod:ETP-ALT>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>profitabel</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>deen Handel war fir mech nach laang net</lod:TEXTE>
+                        <lod:ABREV-AD>p.</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -68,8 +67,8 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">avantageux</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">profitable</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>avantageux</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">beneficial</lod:ETE-EXPLICITE>

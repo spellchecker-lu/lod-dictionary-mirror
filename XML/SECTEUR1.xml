@@ -18,7 +18,7 @@
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-FR-DOMIN>secteur</lod:TRAD-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -32,8 +32,8 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">zone géographique (de compétence)</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">secteur</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>zone géographique (de compétence)</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">district</lod:ETE-EXPLICITE>
@@ -68,6 +68,8 @@
                     <lod:RS-ETA-PRESENTE>Tätigkeitsbereich, Wirtschaftsbereich</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">secteur</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">secteur (d'activité)</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>

@@ -9,7 +9,7 @@
           <lod:CAT-GRAM-ADV/>
           <lod:TRAITEMENT-LING-ADV>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-FR-DOMIN>pourquoi</lod:TRAD-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -23,8 +23,8 @@
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">pour quelle raison</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">pourquoi</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>pour quelle raison</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">why</lod:ETE-EXPLICITE>
@@ -66,8 +66,8 @@
                     <lod:RS-ETA-PRESENTE>zu welchem Zweck</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">dans quel but, à quelle fin</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">pourquoi</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>dans quel but, à quelle fin</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">why</lod:ETE-EXPLICITE>

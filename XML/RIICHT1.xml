@@ -9,10 +9,7 @@
           <lod:CAT-GRAM-ADJ/>
           <lod:TRAITEMENT-LING-ADJ>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-FR-DOMIN>
-                <lod:TRAD-ALL-DOMIN>gerade</lod:TRAD-ALL-DOMIN>
-                <lod:TRAD-FR-DOMIN>droit</lod:TRAD-FR-DOMIN>
-              </lod:TRAD-ALL-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -20,12 +17,12 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">geradlinig</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">gerade</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>geradlinig</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">en ligne droite</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">droit</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>en ligne droite</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">straight</lod:ETE-EXPLICITE>
@@ -76,10 +73,12 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">aufrecht</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">gerade</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>aufrecht</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">droit</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">droit</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>dressé, debout</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>

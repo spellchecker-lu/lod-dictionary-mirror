@@ -18,21 +18,20 @@
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-DOMIN>Nummer</lod:TRAD-ALL-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
-              <lod:TRAD-FR-SUBORDONNANTE>
-                <lod:TRAD-FR-SUBORD>numéro</lod:TRAD-FR-SUBORD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NUMMER1UNI2">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Ordnungsnummer, Identifikationsnummer</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Nummer</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Ordnungsnummer, Identifikationsnummer</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">d'ordre, d'identification, de rue</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">numéro</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>d'ordre, d'identification, de rue</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">number</lod:ETE-EXPLICITE>
@@ -60,24 +59,24 @@
                         <lod:TEXTE>vu mengem Auto einfach net!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE-GLOSE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Nummer</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>a sengem Fach ass hien d'</lod:TEXTE>
+                        <lod:ABREV-AD>N.</lod:ABREV-AD>
+                        <lod:TEXTE>eent</lod:TEXTE>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+                        <lod:TEXTE>a sengem Fach ass hien dee Beschten</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
-                    <lod:EXEMPLE-GLOSE>
+                    <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Nummer</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>an dëser Affär gi mir besser op</lod:TEXTE>
+                        <lod:ABREV-AD>N.</lod:ABREV-AD>
+                        <lod:TEXTE>sécher!</lod:TEXTE>
                       </lod:TEXTE-EX>
                       <lod:GLOSE>
-                        <lod:TEXTE>integer lobortis lorem ac dictum rutrum</lod:TEXTE>
+                        <lod:TEXTE>an dëser Affär gi mir besser kee Risiko an</lod:TEXTE>
                       </lod:GLOSE>
                     </lod:EXEMPLE-GLOSE>
                   </lod:EXEMPLIFICATION>
@@ -87,14 +86,20 @@
                     </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NUMMER1UNI9">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Telefonnummer</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Nummer</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Telefonnummer</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">numéro</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">numéro (de téléphone)</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
@@ -119,16 +124,22 @@
                     </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NUMMER1UNI5">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Nummer</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Ausgabe</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">d'une publication</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">numéro</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>d'une publication</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">number</lod:ETE-EXPLICITE>
@@ -139,11 +150,11 @@
                     <lod:RS-ETP-PRESENTE>de uma publicação</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Nummer</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>an der leschter</lod:TEXTE>
+                        <lod:ABREV-AD>N.</lod:ABREV-AD>
+                        <lod:TEXTE>vun dëser Zäitschrëft war en Artikel iwwer d'Prënzenhochzäit</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -151,7 +162,7 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
-              </lod:TRAD-FR-SUBORDONNANTE>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -159,8 +170,8 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Konfektionsgröße</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Nummer</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Konfektionsgröße</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">taille</lod:ETF-EXPLICITE>
@@ -175,11 +186,11 @@
                     <lod:RS-ETP-PRESENTE>tamanho de vestuário</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Nummer</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>dee Pullover ass mir eng</lod:TEXTE>
+                        <lod:ABREV-AD>N.</lod:ABREV-AD>
+                        <lod:TEXTE>ze grouss</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
@@ -200,18 +211,17 @@
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
             <lod:UNITE-TRAD>
-              <lod:TRAD-FR-SUBORDONNANTE>
-                <lod:TRAD-FR-SUBORD>numéro</lod:TRAD-FR-SUBORD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NUMMER1UNI7">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Darbietung</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Nummer</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Darbietung</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">d'un spectacle</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">numéro</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>d'un spectacle</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">act</lod:ETE-EXPLICITE>
@@ -222,11 +232,11 @@
                     <lod:RS-ETP-PRESENTE>de um espetáculo</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Nummer</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>am Zirkus huet mir d'</lod:TEXTE>
+                        <lod:ABREV-AD>N.</lod:ABREV-AD>
+                        <lod:TEXTE>mat de Clownen am beschte gefall</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -234,14 +244,20 @@
                     <lod:SYN-ABSENTS/>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
                 <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="NUMMER1UNI8">
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE lod:STYLE="EGS"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Person</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Nummer</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Person</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">numéro</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">(drôle de) numéro</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>personne</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
@@ -254,11 +270,11 @@
                     <lod:RS-ETP-PRESENTE>pessoa</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="EGS">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Nummer</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>du bass mir awer eng</lod:TEXTE>
+                        <lod:ABREV-AD>N.</lod:ABREV-AD>
+                        <lod:TEXTE>!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE-GLOSE lod:MARQUE-USAGE="EGS">
@@ -279,7 +295,7 @@
                     </lod:SYN-PRESENTS>
                   </lod:SYNONYMES>
                 </lod:UNITE-DE-SENS>
-              </lod:TRAD-FR-SUBORDONNANTE>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
           </lod:TRAITEMENT-LING-SUBST>
         </lod:MS-TYPE-SUBST>

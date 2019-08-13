@@ -13,10 +13,7 @@
             <lod:REFLEX-PRONOM lod:REFPRON="TRANSITIF"/>
             <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-FR-DOMIN>
-                <lod:TRAD-ALL-DOMIN>tätowieren</lod:TRAD-ALL-DOMIN>
-                <lod:TRAD-FR-DOMIN>tatouer</lod:TRAD-FR-DOMIN>
-              </lod:TRAD-ALL-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -24,12 +21,12 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">ein Motiv</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">tätowieren</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>ein Motiv</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">un motif</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tatouer</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>un motif</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to tattoo</lod:ETE-EXPLICITE>
@@ -60,12 +57,12 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">mit einer Tätowierung versehen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">tätowieren</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>mit einer Tätowierung versehen</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">marquer d'un tatouage</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">tatouer</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>marquer d'un tatouage</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">to tattoo</lod:ETE-EXPLICITE>
@@ -76,11 +73,11 @@
                     <lod:RS-ETP-PRESENTE>fazer uma tatuagem em</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>tätowéieren</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>ech hu schonn zwee Piercingen, ech géif mech och gär</lod:TEXTE>
+                        <lod:ABREV-AD>tätowéiere</lod:ABREV-AD>
+                        <lod:TEXTE>loossen</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -124,11 +121,12 @@
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fazer tatuagens</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>tätowéieren</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>am Géigesaz zu fréier</lod:TEXTE>
+                        <lod:ABREV-AD>gëtt</lod:ABREV-AD>
+                        <lod:TEXTE>haut mat engem speziellen Apparat</lod:TEXTE>
+                        <lod:ABREV-AD>tätowéiert</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

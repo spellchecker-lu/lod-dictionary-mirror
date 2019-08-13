@@ -9,10 +9,7 @@
           <lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ"/>
           <lod:TRAITEMENT-LING-ADJ>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-FR-DOMIN>
-                <lod:TRAD-ALL-DOMIN>diplomatisch</lod:TRAD-ALL-DOMIN>
-                <lod:TRAD-FR-DOMIN>diplomatique</lod:TRAD-FR-DOMIN>
-              </lod:TRAD-ALL-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -20,12 +17,12 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">(zwischen)staatlich</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">diplomatisch</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>(zwischen)staatlich</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">relatif aux relations politiques</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">diplomatique</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>relatif aux relations politiques</lod:RS-ETF-PRESENTE>
                     <lod:ETF-ALT lod:TYPE-ETF-ALT="FORME-ADVERBIALE-ADJ">sur le plan diplomatique</lod:ETF-ALT>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
@@ -39,11 +36,11 @@
                     <lod:ETP-ALT lod:TYPE-ETP-ALT="FORME-ADVERBIALE-ADJ">diplomaticamente</lod:ETP-ALT>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>diplomatesch</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>béid Länner hunn nei</lod:TEXTE>
+                        <lod:ABREV-AD>d.</lod:ABREV-AD>
+                        <lod:TEXTE>Bezéiungen opgeholl</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -66,12 +63,12 @@
                   <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
                   <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">taktisch geschickt</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">diplomatisch</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>taktisch geschickt</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">plein de tact</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">diplomatique</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>plein de tact</lod:RS-ETF-PRESENTE>
                     <lod:ETF-ALT lod:TYPE-ETF-ALT="FORME-ADVERBIALE-ADJ">de façon diplomatique, avec tact</lod:ETF-ALT>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>

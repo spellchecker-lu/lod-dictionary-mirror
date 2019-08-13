@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="BAIFALEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="BAIFALEN1ITE">bäifalen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-VRB>
+          <lod:CAT-GRAM-VRB lod:C-G-VRB="VRB"/>
+          <lod:VRB-AUXILIAIRE lod:AUXIL="SINN"/>
+          <lod:PARTICIPE-PASSE>bäigefall</lod:PARTICIPE-PASSE>
+          <lod:TRAITEMENT-LING-VRB>
+            <lod:REFLEX-PRONOM lod:REFPRON="INTRANSITIF"/>
+            <lod:EMPLOI-IMPERS lod:EMPLOI-IMPERS="VRB-EMPL-IMPERS-IMPOSS"/>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:FREQ-EMPLOI="NORMAL" lod:ID-UNITE-DE-SENS="BAIFALEN1UNI2">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">einfallen</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Gedanke</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">venir à l'esprit</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">ocorrer</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">vir à ideia</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>mir</lod:TEXTE>
+                        <lod:ABREV-AD>fält</lod:ABREV-AD>
+                        <lod:TEXTE>am Ament kee bessert Wuert</lod:TEXTE>
+                        <lod:ABREV-AD>bäi</lod:ABREV-AD>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>et</lod:TEXTE>
+                        <lod:ABREV-AD>ass</lod:ABREV-AD>
+                        <lod:TEXTE>mir elo grad</lod:TEXTE>
+                        <lod:ABREV-AD>bäigefall</lod:ABREV-AD>
+                        <lod:TEXTE>, datt ech nach muss akafe goen</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-PRESENTS>
+                      <lod:TERME-SYN>afalen</lod:TERME-SYN>
+                    </lod:SYN-PRESENTS>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-VRB>
+        </lod:MS-TYPE-VRB>
+      </lod:MICROSTRUCTURE>
+    </lod:ARTICLE>
+    <lod:FLX-VRB>
+      <lod:INFINITIF>bäifalen</lod:INFINITIF>
+      <lod:PART-PASS>bäigefall</lod:PART-PASS>
+      <lod:INDICATIF>
+        <lod:PRESENT>
+          <lod:P3>fält bäi</lod:P3>
+          <lod:P6>fale bäi</lod:P6>
+        </lod:PRESENT>
+        <lod:IMPARFAIT>
+          <lod:P3>foul bäi</lod:P3>
+          <lod:P6>foule bäi</lod:P6>
+        </lod:IMPARFAIT>
+        <lod:PASSE-COMPOSE>
+          <lod:P3>ass bäigefall</lod:P3>
+          <lod:P6>si bäigefall</lod:P6>
+        </lod:PASSE-COMPOSE>
+        <lod:PLUS-QUE-PARFAIT>
+          <lod:P3>war bäigefall</lod:P3>
+          <lod:P6>ware bäigefall</lod:P6>
+        </lod:PLUS-QUE-PARFAIT>
+      </lod:INDICATIF>
+      <lod:CONDITIONNEL>
+        <lod:PRESENT-SIMPLE>
+          <lod:P3>féil bäi</lod:P3>
+          <lod:P6>féile bäi</lod:P6>
+        </lod:PRESENT-SIMPLE>
+        <lod:PRESENT-COMPOSE>
+          <lod:P3>géif bäifalen</lod:P3>
+          <lod:P6>géife bäifalen</lod:P6>
+        </lod:PRESENT-COMPOSE>
+        <lod:PASSE-COMPOSE>
+          <lod:P3>wier bäigefall</lod:P3>
+          <lod:P6>wiere bäigefall</lod:P6>
+        </lod:PASSE-COMPOSE>
+      </lod:CONDITIONNEL>
+    </lod:FLX-VRB>
+  </lod:ITEM>
+</lod:LOD>

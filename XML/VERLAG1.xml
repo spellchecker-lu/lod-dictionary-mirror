@@ -13,6 +13,7 @@
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
             <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="IRREGULIER">Verläg</lod:FORME-PLURIEL>
               <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Verlagen</lod:FORME-PLURIEL>
               <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Verlager</lod:FORME-PLURIEL>
             </lod:TJ-NOMBRABLE>
@@ -45,18 +46,18 @@
                     <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">editora</lod:ETP-EXPLICITE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Verlag</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>a wéi engem</lod:TEXTE>
+                        <lod:ABREV-AD>V.</lod:ABREV-AD>
+                        <lod:TEXTE>koum däi Buch eraus?</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Verlag</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>et gëtt net vill</lod:TEXTE>
+                        <lod:ABREV-AD>V.en</lod:ABREV-AD>
+                        <lod:TEXTE>, déi hir eegen Dréckerei hunn</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

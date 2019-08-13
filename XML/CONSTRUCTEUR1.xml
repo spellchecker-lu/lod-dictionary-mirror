@@ -33,12 +33,17 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">constructeur</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-PRESENTE>de moyens de transport</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">fabricante</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">construtor</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>de meios de transporte</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Constructeur</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>op der Foire hunn déi verschidde</lod:TEXTE>
+                        <lod:ABREV-AD>C.en</lod:ABREV-AD>
+                        <lod:TEXTE>hir neisten Autosmodeller virgestallt</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                     <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
@@ -70,12 +75,15 @@
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">maître d'ouvrage</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">construtor</lod:ETP-EXPLICITE>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">mestre de obras</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Constructeur</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>de Promoteur vun dësem Gebai ass och de</lod:TEXTE>
+                        <lod:ABREV-AD>C.</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>

@@ -12,16 +12,13 @@
             <lod:SUBST-SIMPLE/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="KAKAO1UNI4" lod:REFS-IDS-UNITES-DE-SENS-MASS="KAKAO1UNI1 KAKAO1UNI2 KAKAO1UNI3">
+            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="KAKAO1UNI4" lod:REFS-IDS-UNITES-DE-SENS-MASS="KAKAO1UNI1 KAKAO1UNI2 KAKAO1UNI3 KAKAO1UNI5">
               <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Kakaoen</lod:FORME-PLURIEL>
             </lod:ALT-MASSIF-NOMBRABLE>
           </lod:PLURIEL>
           <lod:TRAITEMENT-LING-SUBST>
             <lod:TRADUCTION-DOMINANTE>
-              <lod:TRAD-ALL-FR-DOMIN>
-                <lod:TRAD-ALL-DOMIN>Kakao</lod:TRAD-ALL-DOMIN>
-                <lod:TRAD-FR-DOMIN>cacao</lod:TRAD-FR-DOMIN>
-              </lod:TRAD-ALL-FR-DOMIN>
+              <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
             <lod:UNITE-TRAD>
               <lod:PAS-DE-TRAD-SUBORDONNANTE>
@@ -29,27 +26,47 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Pflanze, Bohnen</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Kakao</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Pflanze</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">plante, fèves</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cacao</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>plante</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
-                  <lod:EQUIV-TRAD-EN>
-                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">cocoa</lod:ETE-EXPLICITE>
-                    <lod:RS-ETE-PRESENTE>plant, beans</lod:RS-ETE-PRESENTE>
-                  </lod:EQUIV-TRAD-EN>
-                  <lod:EQUIV-TRAD-PO>
-                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">cacau</lod:ETP-EXPLICITE>
-                    <lod:RS-ETP-PRESENTE>planta, sementes</lod:RS-ETP-PRESENTE>
-                  </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Kakao</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>deen heite</lod:TEXTE>
+                        <lod:ABREV-AD>K.</lod:ABREV-AD>
+                        <lod:TEXTE>wiisst nëmmen an enger bestëmmter Regioun an Afrika</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="KAKAO1UNI5">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Kakao</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Bohnen</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cacao</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>fèves</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>eise Grosist kritt de</lod:TEXTE>
+                        <lod:ABREV-AD>K.</lod:ABREV-AD>
+                        <lod:TEXTE>a grousse Säck geliwwert</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -65,12 +82,12 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Pulver</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Kakao</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Pulver</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">poudre</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cacao</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>poudre</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">cocoa</lod:ETE-EXPLICITE>
@@ -81,11 +98,11 @@
                     <lod:RS-ETP-PRESENTE>em pó</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Kakao</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>maach mer nach e Läffel</lod:TEXTE>
+                        <lod:ABREV-AD>K.</lod:ABREV-AD>
+                        <lod:TEXTE>an d'Mëllech!</lod:TEXTE>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -101,12 +118,12 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
-                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="SELECTEUR-SEMANTIQUE">Getränk</lod:ETA-EXPLICITE>
-                    <lod:RS-ETA-ABSENTE/>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Kakao</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Getränk</lod:RS-ETA-PRESENTE>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
-                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="SELECTEUR-SEMANTIQUE">boisson</lod:ETF-EXPLICITE>
-                    <lod:RS-ETF-ABSENTE/>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cacao</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>boisson</lod:RS-ETF-PRESENTE>
                   </lod:EQUIV-TRAD-FR>
                   <lod:EQUIV-TRAD-EN>
                     <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">cocoa</lod:ETE-EXPLICITE>
@@ -117,11 +134,10 @@
                     <lod:RS-ETP-PRESENTE>bebida</lod:RS-ETP-PRESENTE>
                   </lod:EQUIV-TRAD-PO>
                   <lod:EXEMPLIFICATION>
-                    <lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
                       <lod:TEXTE-EX>
-                        <lod:TEXTE>lorem ipsum dolor sit amet,</lod:TEXTE>
-                        <lod:ABREV-AD>Kakao</lod:ABREV-AD>
-                        <lod:TEXTE>consectetur adipiscing elit</lod:TEXTE>
+                        <lod:TEXTE>mueres drénken ech heiansdo eng Taass</lod:TEXTE>
+                        <lod:ABREV-AD>K.</lod:ABREV-AD>
                       </lod:TEXTE-EX>
                     </lod:EXEMPLE>
                   </lod:EXEMPLIFICATION>
@@ -139,10 +155,14 @@
                   <lod:DOM-SPEC/>
                   <lod:MARQUE-USAGE/>
                   <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Kakao</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
                     <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">(Tasse) Kakao</lod:ETA-EXPLICITE>
                     <lod:RS-ETA-ABSENTE/>
                   </lod:EQUIV-TRAD-ALL>
                   <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">cacao</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
                     <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">(tasse de) cacao</lod:ETF-EXPLICITE>
                     <lod:RS-ETF-ABSENTE/>
                   </lod:EQUIV-TRAD-FR>
