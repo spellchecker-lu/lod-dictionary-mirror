@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="FOUSSSPUER1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="FOUSSSPUER1ITE">Foussspuer</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST lod:C-G-SUBST="SUBST"/>
+          <lod:GENRE lod:GEN="F"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-COMPOSE lod:REF-ID-ARTICLE-DOMIN="FOUSS1"/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER" lod:FREQ-PLURIEL="NORMALE">Foussspueren</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:TRAITEMENT-LING-SUBST>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="FOUSSSPUER1UNI1" lod:FREQ-EMPLOI="NORMAL">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE lod:STYLE="ALLG"/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Fußspur</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">empreinte de pied</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">footprint</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">pegada</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>marca deixada pelo pé</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>d'Kanner sinn de</lod:TEXTE>
+                        <lod:ABREV-AD>F.en</lod:ABREV-AD>
+                        <lod:TEXTE>am Schnéi nogaangen</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>d'Police konnt näischt mat de</lod:TEXTE>
+                        <lod:ABREV-AD>F.en</lod:ABREV-AD>
+                        <lod:TEXTE>ufänken</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+      <lod:INFOBOX lod:TYP="ORTHO">
+        <lod:INFO-LB>
+          <lod:INHALT>
+            <lod:TXT>Dëst Wuert ass betraff vun den orthografeschen Ännerunge vun November 2019.</lod:TXT>
+          </lod:INHALT>
+        </lod:INFO-LB>
+      </lod:INFOBOX>
+    </lod:ARTICLE>
+  </lod:ITEM>
+</lod:LOD>
