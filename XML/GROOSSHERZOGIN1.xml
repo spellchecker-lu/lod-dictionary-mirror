@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="GROOSSHERZOGIN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="GROOSSHERZOGIN1ITE">Groossherzogin</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="F"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-COMPOSE lod:REF-ID-ARTICLE-DOMIN="HERZOGIN1"/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:TJ-NOMBRABLE>
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Groossherzoginnen</lod:FORME-PLURIEL>
+            </lod:TJ-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="GROUSSHERZOG1ITE" lod:REFS-IDS-UNITES-DE-SENS="GROUSSHERZOG1UNI1">
+            <lod:FORME-FEM>
+              <lod:SYNONS>
+                <lod:SYN-PRES>
+                  <lod:TERME-SYNON>Grande-Duchesse</lod:TERME-SYNON>
+                </lod:SYN-PRES>
+              </lod:SYNONS>
+            </lod:FORME-FEM>
+          </lod:RENVOI-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+      <lod:INFOBOX lod:TYP="ORTHO">
+        <lod:INFO-LB>
+          <lod:INHALT>
+            <lod:TXT>Dës nei Schreifweis baséiert op den orthografeschen Ännerunge vun November 2019.</lod:TXT>
+          </lod:INHALT>
+        </lod:INFO-LB>
+      </lod:INFOBOX>
+    </lod:ARTICLE>
+  </lod:ITEM>
+</lod:LOD>

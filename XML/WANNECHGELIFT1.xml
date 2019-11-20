@@ -3,11 +3,11 @@
   <lod:ITEM>
     <lod:META lod:ID="WANNECHGELIFT1"/>
     <lod:ARTICLE>
-      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="WANNECHGELIFT1ITE">wann_ech_gelift</lod:ITEM-ADRESSE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="WANNECHGELIFT1ITE">wannechgelift</lod:ITEM-ADRESSE>
       <lod:MICROSTRUCTURE>
-        <lod:MS-TYPE-ADV>
-          <lod:CAT-GRAM-ADV/>
-          <lod:TRAITEMENT-LING-ADV>
+        <lod:MS-TYPE-PART>
+          <lod:CAT-GRAM-PART/>
+          <lod:TRAITEMENT-LING-PART>
             <lod:TRADUCTION-DOMINANTE>
               <lod:PAS-DE-TRAD-DOMIN/>
             </lod:TRADUCTION-DOMINANTE>
@@ -62,9 +62,16 @@
                 </lod:UNITE-DE-SENS>
               </lod:PAS-DE-TRAD-SUBORDONNANTE>
             </lod:UNITE-TRAD>
-          </lod:TRAITEMENT-LING-ADV>
-        </lod:MS-TYPE-ADV>
+          </lod:TRAITEMENT-LING-PART>
+        </lod:MS-TYPE-PART>
       </lod:MICROSTRUCTURE>
+      <lod:INFOBOX lod:TYP="ORTHO">
+        <lod:INFO-LB>
+          <lod:INHALT>
+            <lod:TXT>Dëst Wuert ass betraff vun den orthografeschen Ännerunge vun November 2019.</lod:TXT>
+          </lod:INHALT>
+        </lod:INFO-LB>
+      </lod:INFOBOX>
     </lod:ARTICLE>
   </lod:ITEM>
 </lod:LOD>

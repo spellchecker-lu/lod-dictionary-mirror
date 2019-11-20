@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="SCHIZOPHREEN1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="SCHIZOPHREEN1ITE">schizophreen</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-ADJ>
+          <lod:CAT-GRAM-ADJ lod:C-G-ADJ="ADJ"/>
+          <lod:TRAITEMENT-LING-ADJ>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="SCHIZOPHREEN1UNI1">
+                  <lod:DOM-SPEC lod:DOM="PAS-DE-DOM"/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">schizophren</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>an Schizophrenie erkrankt</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">schizophrène</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">schizophrenic</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">esquizofrénico</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>et gëtt net déi eng, eendeiteg Ursaach, firwat e Mënsch</lod:TEXTE>
+                        <lod:ABREV-AD>schizophreen</lod:ABREV-AD>
+                        <lod:TEXTE>gëtt</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-ADJ>
+        </lod:MS-TYPE-ADJ>
+      </lod:MICROSTRUCTURE>
+      <lod:INFOBOX lod:TYP="ORTHO">
+        <lod:INFO-LB>
+          <lod:INHALT>
+            <lod:TXT>Dës nei Schreifweis baséiert op den orthografeschen Ännerunge vun November 2019.</lod:TXT>
+          </lod:INHALT>
+        </lod:INFO-LB>
+      </lod:INFOBOX>
+    </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>schizophreen</lod:POSITIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>schizophreenen</lod:NOM>
+              <lod:AKK>schizophreenen</lod:AKK>
+              <lod:DAT>schizophreenen</lod:DAT>
+              <lod:GEN>schizophreenen</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>schizophreen</lod:NOM>
+              <lod:AKK>schizophreen</lod:AKK>
+              <lod:DAT>schizophreener</lod:DAT>
+              <lod:GEN>schizophreener</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>schizophreent</lod:NOM>
+              <lod:AKK>schizophreent</lod:AKK>
+              <lod:DAT>schizophreenen</lod:DAT>
+              <lod:GEN>schizophreenen</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>schizophreen</lod:NOM>
+              <lod:AKK>schizophreen</lod:AKK>
+              <lod:DAT>schizophreenen</lod:DAT>
+              <lod:GEN>schizophreener</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
+  </lod:ITEM>
+</lod:LOD>

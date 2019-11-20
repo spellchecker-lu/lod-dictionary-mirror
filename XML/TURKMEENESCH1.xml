@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="TURKMEENESCH1"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="TURKMEENESCH1ITE">turkmeenesch</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-ADJ>
+          <lod:CAT-GRAM-ADJ/>
+          <lod:TRAITEMENT-LING-ADJ>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="TURKMEENESCH1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">turkmenisch</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-ABSENTE/>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">turkmène</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-ABSENTE/>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">Turkmen</lod:ETE-EXPLICITE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">turquemeno</lod:ETP-EXPLICITE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>op eiser Rees hu mir déi</lod:TEXTE>
+                        <lod:ABREV-AD>turkmeenesch</lod:ABREV-AD>
+                        <lod:TEXTE>Kultur kenne geléiert</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-ADJ>
+        </lod:MS-TYPE-ADJ>
+      </lod:MICROSTRUCTURE>
+      <lod:RESEAU-NON-SEMANTIQUE>
+        <lod:CITOYEN lod:REF-ID-ITEM-ADRESSE="TURKMEEN1ITE"/>
+        <lod:CITOYENNE lod:REF-ID-ITEM-ADRESSE="TURKMEENIN1ITE"/>
+        <lod:PAYS lod:REF-ID-ITEM-ADRESSE="TURKMENISTAN1ITE"/>
+      </lod:RESEAU-NON-SEMANTIQUE>
+      <lod:INFOBOX lod:TYP="ORTHO">
+        <lod:INFO-LB>
+          <lod:INHALT>
+            <lod:TXT>Dëst Wuert ass betraff vun den orthografeschen Ännerunge vun November 2019.</lod:TXT>
+          </lod:INHALT>
+        </lod:INFO-LB>
+      </lod:INFOBOX>
+    </lod:ARTICLE>
+    <lod:FLX-ADJ>
+      <lod:GRONDFORMEN>
+        <lod:POSITIV>turkmeenesch</lod:POSITIV>
+      </lod:GRONDFORMEN>
+      <lod:DEKL>
+        <lod:POSITIV>
+          <lod:SINGULIER>
+            <lod:M>
+              <lod:NOM>turkmeeneschen</lod:NOM>
+              <lod:AKK>turkmeeneschen</lod:AKK>
+              <lod:DAT>turkmeeneschen</lod:DAT>
+              <lod:GEN>turkmeeneschen</lod:GEN>
+            </lod:M>
+            <lod:W>
+              <lod:NOM>turkmeenesch</lod:NOM>
+              <lod:AKK>turkmeenesch</lod:AKK>
+              <lod:DAT>turkmeenescher</lod:DAT>
+              <lod:GEN>turkmeenescher</lod:GEN>
+            </lod:W>
+            <lod:S>
+              <lod:NOM>turkmeenescht</lod:NOM>
+              <lod:AKK>turkmeenescht</lod:AKK>
+              <lod:DAT>turkmeeneschen</lod:DAT>
+              <lod:GEN>turkmeeneschen</lod:GEN>
+            </lod:S>
+          </lod:SINGULIER>
+          <lod:PLURIEL>
+            <lod:MWS>
+              <lod:NOM>turkmeenesch</lod:NOM>
+              <lod:AKK>turkmeenesch</lod:AKK>
+              <lod:DAT>turkmeeneschen</lod:DAT>
+              <lod:GEN>turkmeenescher</lod:GEN>
+            </lod:MWS>
+          </lod:PLURIEL>
+        </lod:POSITIV>
+      </lod:DEKL>
+    </lod:FLX-ADJ>
+  </lod:ITEM>
+</lod:LOD>
