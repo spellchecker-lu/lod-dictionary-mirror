@@ -12,13 +12,51 @@
             <lod:SUBST-SIMPLE/>
           </lod:TYPE-SUBST>
           <lod:PLURIEL>
-            <lod:TJ-NOMBRABLE>
+            <lod:TJ-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-FREQ-PLUR-PLUS="KENNTNIS1UNI1">
               <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Kenntnisser</lod:FORME-PLURIEL>
             </lod:TJ-NOMBRABLE>
           </lod:PLURIEL>
-          <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="KENNTNES1ITE" lod:REFS-IDS-UNITES-DE-SENS="KENNTNES1UNI1">
-            <lod:VARIANTE-HOMOSEME/>
-          </lod:RENVOI-SUBST>
+          <lod:TRAITEMENT-LING-SUBST>
+            <lod:TRADUCTION-DOMINANTE>
+              <lod:PAS-DE-TRAD-DOMIN/>
+            </lod:TRADUCTION-DOMINANTE>
+            <lod:UNITE-TRAD>
+              <lod:PAS-DE-TRAD-SUBORDONNANTE>
+                <lod:UNITE-DE-SENS lod:ID-UNITE-DE-SENS="KENNTNIS1UNI1">
+                  <lod:DOM-SPEC/>
+                  <lod:MARQUE-USAGE/>
+                  <lod:EQUIV-TRAD-ALL>
+                    <lod:ETA-EXPLICITE lod:FONCTION-ETA="EQUIVALENT">Kenntnis</lod:ETA-EXPLICITE>
+                    <lod:RS-ETA-PRESENTE>Fachwissen</lod:RS-ETA-PRESENTE>
+                  </lod:EQUIV-TRAD-ALL>
+                  <lod:EQUIV-TRAD-FR>
+                    <lod:ETF-EXPLICITE lod:FONCTION-ETF="EQUIVALENT">connaissance</lod:ETF-EXPLICITE>
+                    <lod:RS-ETF-PRESENTE>d'une matière</lod:RS-ETF-PRESENTE>
+                  </lod:EQUIV-TRAD-FR>
+                  <lod:EQUIV-TRAD-EN>
+                    <lod:ETE-EXPLICITE lod:FONCTION-ETE="EQUIVALENT">knowledge</lod:ETE-EXPLICITE>
+                    <lod:RS-ETE-PRESENTE>of a subject</lod:RS-ETE-PRESENTE>
+                  </lod:EQUIV-TRAD-EN>
+                  <lod:EQUIV-TRAD-PO>
+                    <lod:ETP-EXPLICITE lod:FONCTION-ETP="EQUIVALENT">conhecimento</lod:ETP-EXPLICITE>
+                    <lod:RS-ETP-PRESENTE>de uma matéria</lod:RS-ETP-PRESENTE>
+                  </lod:EQUIV-TRAD-PO>
+                  <lod:EXEMPLIFICATION>
+                    <lod:EXEMPLE lod:MARQUE-USAGE="ALLG">
+                      <lod:TEXTE-EX>
+                        <lod:TEXTE>seng</lod:TEXTE>
+                        <lod:ABREV-AD>K.ser</lod:ABREV-AD>
+                        <lod:TEXTE>an der Geografie sinn net déck</lod:TEXTE>
+                      </lod:TEXTE-EX>
+                    </lod:EXEMPLE>
+                  </lod:EXEMPLIFICATION>
+                  <lod:SYNONYMES>
+                    <lod:SYN-ABSENTS/>
+                  </lod:SYNONYMES>
+                </lod:UNITE-DE-SENS>
+              </lod:PAS-DE-TRAD-SUBORDONNANTE>
+            </lod:UNITE-TRAD>
+          </lod:TRAITEMENT-LING-SUBST>
         </lod:MS-TYPE-SUBST>
       </lod:MICROSTRUCTURE>
     </lod:ARTICLE>

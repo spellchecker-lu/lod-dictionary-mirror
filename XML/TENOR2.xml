@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lod:LOD xmlns:lod="http://www.lod.lu/">
+  <lod:ITEM>
+    <lod:META lod:ID="TENOR2"/>
+    <lod:ARTICLE>
+      <lod:ITEM-ADRESSE lod:ID-ITEM-ADRESSE="TENOR2ITE">Tënor</lod:ITEM-ADRESSE>
+      <lod:MICROSTRUCTURE>
+        <lod:MS-TYPE-SUBST>
+          <lod:CAT-GRAM-SUBST/>
+          <lod:GENRE lod:GEN="M"/>
+          <lod:TYPE-SUBST>
+            <lod:SUBST-SIMPLE/>
+          </lod:TYPE-SUBST>
+          <lod:PLURIEL>
+            <lod:ALT-MASSIF-NOMBRABLE lod:REFS-IDS-UNITES-DE-SENS-COMPT="TENOR1UNI2" lod:REFS-IDS-UNITES-DE-SENS-MASS="TENOR1UNI1">
+              <lod:FORME-PLURIEL lod:TYPE-PLURIEL="REGULIER">Tënoren</lod:FORME-PLURIEL>
+            </lod:ALT-MASSIF-NOMBRABLE>
+          </lod:PLURIEL>
+          <lod:RENVOI-SUBST lod:REF-ID-ITEM-ADRESSE="TENOR1ITE" lod:REFS-IDS-UNITES-DE-SENS="TENOR1UNI1 TENOR1UNI2">
+            <lod:VARIANTE-HOMOSEME/>
+          </lod:RENVOI-SUBST>
+        </lod:MS-TYPE-SUBST>
+      </lod:MICROSTRUCTURE>
+      <lod:INFOBOX lod:TYP="ORTHO">
+        <lod:INFO-LB>
+          <lod:INHALT>
+            <lod:TXT>Opgepasst. Jee no Aussprooch kann d'Schreifweis vun dësem Wuert änneren.</lod:TXT>
+          </lod:INHALT>
+        </lod:INFO-LB>
+      </lod:INFOBOX>
+    </lod:ARTICLE>
+  </lod:ITEM>
+</lod:LOD>
